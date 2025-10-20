@@ -20,7 +20,7 @@ A full-stack web application for browsing, searching, and filtering projects and
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Wolframio22/take-home.git
 cd <repository-directory>
 ```
 
