@@ -1,0 +1,1039 @@
+uuid,name,type,capacity_value,capacity_units,access_node_uuid,created_at,updated_at
+e8c34def-8903-4c23-98f4-0b68fe3015ce,Instalación fotovoltaica en tejado del colegio público de Urroz-Villa,generation,0.001,MW,,2025-06-19 15:36:36.404333,2025-06-19 15:36:36.404341
+ff2c4daf-40d5-4c04-a968-4a559e2a4d0e,Instalación fotovoltaica de producción de energía eléctrica para venta a red,generation,1.0,MW,,2025-06-19 15:34:30.745488,2025-06-19 15:34:30.745495
+c3035163-49ef-4574-bd8b-21daeef7ce77,Parque Eólico Las Casillas,generation,3.15,MWn,,2025-06-19 15:42:09.208022,2025-06-19 15:42:09.208031
+284cc20b-5e3a-42ae-a7a3-6734531bb6de,Modificado Parque Eólico Villaumbrales,generation,48.0,MW,,2025-06-19 15:34:38.784710,2025-06-19 15:34:38.784716
+61b40106-e604-490a-a6c9-5c0625048c12,Línea de acometida de 400 kV desde la subestación de transporte de Torrejón de Velasco de Red Eléctrica de España hasta la subestación de tracción de Torrejón de Velasco de Adif AV,grid,400.0,KV,,2025-06-19 15:29:49.913154,2025-06-19 15:29:49.913160
+94202a83-ddc9-4925-a069-d2e472560b00,Almacenamiento temporal de residuos peligrosos y no peligrosos y RAEES,other,,,,2025-06-19 15:23:14.443917,2025-06-19 15:23:14.443923
+2f52f3e2-b4a2-4b9d-9553-0e44a34cdf31,Parque Eólico La Florida III,generation,19.2,MW,24077b2f-3a6a-483c-94d1-23576c777de6,2025-06-19 15:32:17.548003,2025-06-19 15:32:17.548009
+bff92728-e164-4265-bccf-c46147cb511b,Instalación fotovoltaica en cubierta polígono 65,generation,0.1,MWp,,2025-06-19 15:44:39.639102,2025-06-19 15:44:39.639109
+6e946bf7-9df4-4655-8138-a365114c5abd,Puebla 13 MW,generation,15.015,MWp,,2025-06-19 15:38:32.095833,2025-06-19 15:38:32.095839
+d4270dcd-b7ee-48d7-b4f7-22049a9c205c,Proyecto de sustitución de la tubería de impulsión vinculada a las estaciones de bombeo de la red de drenajes del Campo de Cartagena,other,450.0,m3/h,,2025-06-19 15:23:06.883633,2025-06-19 15:23:06.883640
+b9dce18b-48bf-466f-bdbf-8844a2655204,Nueva línea aérea de 25 kV unión líneas Bellpuig.1 y Segre.2,grid,25.0,KV,,2025-06-19 15:27:39.199904,2025-06-19 15:27:39.199911
+16a65515-6a64-4321-87bd-b2fb28db9fbb,Pavo,generation,42.0,MW,00258a3a-426d-40e0-9ccb-e560c4591f8e,2025-06-19 15:31:08.681759,2025-06-19 15:31:08.681766
+85704d35-33c6-4ec5-a321-32b3934d3265,Instalación fotovoltaica híbrida del PE Pozocañada,generation,28.94,MWp,f9502b66-e461-46de-8fab-469888e4415a,2025-06-19 15:42:54.148280,2025-06-19 15:42:54.148285
+678e7893-3fd5-4340-aa83-f6274ef624ff,Hibridación Magallón 26,generation,7.783,MWp,5df07c9d-e20f-419e-8620-7224f60f081d,2025-06-19 15:40:23.306744,2025-06-19 15:40:23.306751
+1c8218a9-c398-4ade-94e8-ef91fefc50a2,Berg I,generation,50.0,MW,,2025-06-19 15:34:32.263249,2025-06-19 15:34:32.263257
+5376af92-5780-4eb3-b517-4e4c18cec0db,Bierzo Wind I,generation,42.0,MW,d0805ce5-04ab-4b5b-a771-b3ad2d41edd4,2025-06-19 15:31:10.549253,2025-06-19 15:31:10.549260
+d4bce819-a162-407e-97dc-3d2284a16d54,El Descubrimiento 35,generation,5.73,MWn,,2025-06-19 15:41:45.554662,2025-06-19 15:41:45.554669
+65555e9f-4978-4294-9cee-fc2ecdbc9f4c,Planta solar fotovoltaica en suelo de 800 kW de autoconsumo,generation,0.8,MW,,2025-06-19 15:23:56.950311,2025-06-19 15:23:56.950316
+9af5955d-6cf6-4c5b-bee7-66c8b3d28319,FV Cerro Gordo 1,generation,31.46,MW,913bf83c-a978-43a8-8b76-fb9cb654f245,2025-06-19 15:27:46.479322,2025-06-19 15:27:46.479330
+eca3fe75-0445-4d7d-aafb-b7aa1634cc8b,Planta fotovoltaica López Gádor I,generation,23.0,MWp,,2025-06-19 15:37:37.952267,2025-06-19 15:37:37.952276
+e9c2e55a-6c24-4e34-af30-0f5b36d50def,Planta solar fotovoltaica para autoconsumo sin excedentes Benavente,generation,0.1,MW,,2025-06-19 15:34:36.325834,2025-06-19 15:34:36.325840
+234a065c-024f-4187-8a1d-e79335e85a0d,Planta fotovoltaica Carral,generation,1.0,MWn,,2025-06-19 15:40:42.676044,2025-06-19 15:40:42.676050
+9e7f2974-eafb-4339-b7e4-f24952d33f5c,Mulhacén Solar,generation,62.91,MW,8c4d8019-7451-4fc2-8a53-3b197d2ffa86,2025-06-19 15:26:13.716507,2025-06-19 15:26:13.716514
+3d8a3768-2076-48ea-9038-003c20c1baf6,Ejecución de nueva LSMT SFA0180_6 denominada Los_Santos,grid,15.0,KV,,2025-06-19 15:38:15.926302,2025-06-19 15:38:15.926310
+fd0c0181-d64d-4809-ba91-0da3556e249b,Beitia,generation,4.0,MWn,,2025-06-19 15:23:38.576325,2025-06-19 15:23:38.576333
+cc9ba6ca-71fe-4570-a2bf-97ea4d6ebbed,Ukara,generation,45.84,MW,309906cd-85d0-4779-b82c-989f5e6bac9c,2025-06-19 15:28:11.140089,2025-06-19 15:28:11.140094
+099d94fc-4959-4ef6-9341-7d1ac5f9e91e,Almacén de productos de repostería y materias primas,demand,,,,2025-06-19 15:23:23.845968,2025-06-19 15:23:23.845974
+f139878e-9991-4189-be01-30e126046f9f,FV Tintorera,generation,25.0,MW,,2025-06-19 15:22:46.220133,2025-06-19 15:22:46.220140
+3186c745-df78-4018-8b49-242d02a5740c,Sistema de Almacenamiento de Energía con Baterías (SAEB) Barranco Seco,storage,5.0,MW,e4b8bf88-d7f6-4266-83b1-05cd20adaea5,2025-06-19 15:27:08.220327,2025-06-19 15:27:08.220333
+bb18ed36-40c1-412f-b519-7f951b7350fa,PROYECTO DE REFORMA DE LAMT SUBESTACIÓN PEDRO MARTÍNEZ - LÍNEA MOREDA-OLIVAR 20kV,grid,20.0,KV,,2025-06-19 15:25:22.621287,2025-06-19 15:25:22.621292
+e48569c8-7f4a-4f6b-ac96-20c746161d22,Instalación Solar Fotovoltaica de Conexión a Red,generation,0.75816,MW,,2025-06-19 15:35:12.692492,2025-06-19 15:35:12.692500
+a5aef067-46bd-4ba1-9992-c6c0c95831d9,La Muela II Repotenciación,generation,,,,2025-06-19 15:40:57.314464,2025-06-19 15:40:57.314469
+670f30f4-e131-4f06-80c6-e3c52ce64aeb,Parque eólico Hépotas,generation,,,,2025-06-19 15:24:04.794308,2025-06-19 15:24:04.794314
+4942c9a9-f7fd-47c3-b222-32f64f48fb05,Ejecución de soterramiento de la línea aérea de media tensión 'Higuera_re' a 15 kV procedente de la subestación 'Fregenal',grid,15.0,KV,,2025-06-19 15:39:00.393650,2025-06-19 15:39:00.393655
+719f1c8f-1dc4-4192-a0ba-147d4f68669a,Parque Eólico Mudarra Sur,generation,3.3,MW,551c3bb4-b0ec-4d47-9787-d5f0d5b9d560,2025-06-19 15:32:48.087953,2025-06-19 15:32:48.087961
+706612a2-91dc-4c8e-b8b5-bb4be639ab98,Ampliación de la subestación Motril,grid,80.0,MW,,2025-06-19 15:31:53.369805,2025-06-19 15:31:53.369811
+6e59117a-5b74-404e-aadd-7ef2d948d1ec,El Perdigal,generation,13.0,MWp,,2025-06-19 15:39:45.703151,2025-06-19 15:39:45.703159
+96e89b84-2ecc-40a5-ba9b-08a8f5591eaa,Proyecto de entronque en línea aérea MT 15 kV circuito TRL-704 Trillo-Morillejo,grid,15.0,KV,,2025-06-19 15:44:22.138352,2025-06-19 15:44:22.138359
+25b978cb-ffd2-4b43-bfc4-188887f43f10,Fotovoltaica Mazarrón Tejas II,generation,1.78542,MWp,,2025-06-19 15:44:06.152268,2025-06-19 15:44:06.152278
+56308560-a853-4737-961b-38b1bde4257c,Ejecución de variante provisoria de LAMT denominada 'Monturio' a 20 kV procedente de la subestación Badajoz,grid,20.0,KV,,2025-06-19 15:39:02.964874,2025-06-19 15:39:02.964881
+5e2b9fc4-96c1-4bc9-99b2-3aba58187e5e,Sustitución de tramo de la LAMT MANANTIA_A 15kV,grid,15.0,KV,,2025-06-19 15:26:56.723346,2025-06-19 15:26:56.723351
+bf6ce0d9-b450-4502-b34e-0fa9fa46c552,Ampliación STR el mazo,grid,45.0,KV,,2025-06-19 15:23:11.760615,2025-06-19 15:23:11.760620
+a8f19994-ad4b-4e84-8975-0ac668f32fdc,El Cremat,generation,3.26,MWn,,2025-06-19 15:36:32.911365,2025-06-19 15:36:32.911372
+22c2e8ce-f945-41e1-af5c-93ade54244c3,La Herrada Solar,generation,58.552,MWp,,2025-06-19 15:29:30.118175,2025-06-19 15:29:30.118181
+5765f471-7951-4dd0-9496-fd2fbf7fa7e2,Planta fotovoltaica Cascabel,generation,3.06936,MWp,f84c4f5e-aeda-4f66-831d-403c33e280fe,2025-06-19 15:41:33.779271,2025-06-19 15:41:33.779277
+341d689b-91eb-46f2-9257-f59270182b19,Rituerta,generation,0.627,MWp,,2025-06-19 15:34:46.789219,2025-06-19 15:34:46.789225
+eab7713f-bd53-44cb-88f5-03bec1c6e882,Ampliación de la subestación Anchuelo 400 kV Nueva Reactancia,grid,400.0,KV,,2025-06-19 15:29:49.288898,2025-06-19 15:29:49.288903
+9dd0f7ef-f9a7-456d-9991-7d936e20dd80,PS Gualter,generation,29.98,MWp,,2025-06-19 15:35:51.681004,2025-06-19 15:35:51.681012
+10cd6226-74ac-46ac-9431-1e959540d8be,FV Tagus IV,generation,40.925,MWp,ebf50ba0-d50d-4e96-a917-6d538d80d003,2025-06-19 15:31:11.502102,2025-06-19 15:31:11.502108
+4cc58b54-33d3-4d4d-997c-62849b58b913,Parque Eólico Osa Menor,generation,14.0,MW,1667d9f6-e00f-4173-8361-2927cf3488a9,2025-06-19 15:30:19.560766,2025-06-19 15:30:19.560772
+44215c17-35b9-485f-acd9-c93197dc2e60,Área de almacenamiento de restos de poda en Fraga,other,1.0,MW,,2025-06-19 15:39:35.861860,2025-06-19 15:39:35.861865
+46e8e4c1-6a73-4177-b6f7-abd60d777176,P.E. Santa Cruz,generation,35.0,MW,be1b037d-df9a-488e-a40d-2fe25d6d2308,2025-06-19 15:34:53.063100,2025-06-19 15:34:53.063109
+5f686362-3258-453d-8251-913edc4344f2,Ampliación subestación Guadame,grid,400.0,KV,,2025-06-19 15:24:45.569488,2025-06-19 15:24:45.569496
+72660f9e-562b-4094-9461-9351b76b8a07,PE Templarios,generation,45.045,MW,bd396b59-3929-4ee5-bdb8-f2f91b7c2dad,2025-06-19 15:31:58.009882,2025-06-19 15:31:58.009889
+e9318989-8069-4187-9fd1-d56142d228d9,ISF Benejama 1,generation,65.0,MWp,359d348e-1b5d-471c-9c5d-7c8d54bb1d97,2025-06-19 15:31:56.444062,2025-06-19 15:31:56.444069
+f4b49d31-f93c-4b58-b914-5a554960a5df,"Sustitución de línea aérea de media tensión S/C, entre los apoyos A344576 y A431654",grid,3.7833,km,,2025-06-19 15:26:44.649517,2025-06-19 15:26:44.649524
+821654b3-67fe-40ca-ad6a-0dd7f5584184,Parque eólico Carballal,generation,18.75,MW,,2025-06-19 15:24:13.925516,2025-06-19 15:24:13.925522
+2e9cafb3-6243-4f70-a094-e7d0946c9444,PE Josmanil,generation,30.0,MW,d2edfcba-92ad-4eef-839c-48065add401b,2025-06-19 15:27:10.779039,2025-06-19 15:27:10.779045
+d8a513a8-2e87-42d0-a818-f924127dbd48,Ampliación de la subestación Saucelle 220 kV,grid,220.0,KV,,2025-06-19 15:34:01.209423,2025-06-19 15:34:01.209429
+bdd6c503-401a-4723-8212-d2f85ec4990c,Proyecto de ampliación de vaporización natural en centro de almacenamiento de GLP 50115893,other,450.0,m3/h,,2025-06-19 15:44:32.326442,2025-06-19 15:44:32.326450
+cc00d77a-ec18-449d-99ae-eb391bb1a448,Planta Fotovoltaica Gamudéjar I,generation,35.0,MW,b5ad3c1c-91bf-4707-8366-40f93297b62b,2025-06-19 15:41:38.549476,2025-06-19 15:41:38.549484
+9a51cac9-37ae-4884-87f7-2b59053aa0a4,Mejostilla FV1,generation,4.4,MWp,3888b821-bcab-4133-ac80-70f9ff0fc74d,2025-06-19 15:38:39.545640,2025-06-19 15:38:39.545647
+bb4f978c-dd91-4a48-96e1-5dddd29fe4e0,Parc solar fotovoltaic Greentarraco 2,generation,48.42,MWp,,2025-06-19 15:35:43.875746,2025-06-19 15:35:43.875751
+cf3e8ee3-a94a-440a-b70f-f0d008d49159,FV Rivera,generation,340.496,MW,695e9c95-4033-42a0-80d6-5a51be157f91,2025-06-19 15:29:57.877647,2025-06-19 15:29:57.877653
+e283c2af-3034-49b9-af6e-6f73e68583a0,Parque eólico Navallos,generation,13.54,MW,,2025-06-19 15:24:00.725074,2025-06-19 15:24:00.725079
+df654f89-17ed-4c12-9295-6619dec96306,PSF DIAM,generation,13.212,MWp,,2025-06-19 15:39:07.740262,2025-06-19 15:39:07.740269
+d8c847e1-1103-44d6-bf5c-e17e95b841ee,CSF El Campello I,generation,,,,2025-06-19 15:36:29.176574,2025-06-19 15:36:29.176580
+b312b8f6-88f9-4e2c-9c3c-c59ec7532378,Los Barros I,generation,5.0019,MWp,,2025-06-19 15:45:11.977632,2025-06-19 15:45:11.977640
+3ca57e4f-7f87-4fb4-8c4c-39fe0b053319,Canteras V,generation,41.8,MW,367e0132-44c4-4573-923c-33ea0eedb896,2025-06-19 15:41:13.581612,2025-06-19 15:41:13.581619
+1d9b76cd-a831-4a9c-9283-333a148fcdba,Ampliación de industria agroalimentaria destinada a manipulación y almacenamiento de ajos,demand,1.0,m3/h,,2025-06-19 15:43:21.322259,2025-06-19 15:43:21.322270
+6b0b7018-24e9-4a6a-a4e2-3fd01a1453fd,Mula II,generation,114.4,MWp,437c942a-68bb-424d-8ca3-4b3eef006477,2025-06-19 15:22:38.576522,2025-06-19 15:22:38.576527
+9581b8c4-e8d4-4fd2-9b7f-2a7785ad39ac,Perales,generation,48.0,MW,ab8fd237-6d0b-4bf9-84a2-968095b7ec26,2025-06-19 15:32:39.094243,2025-06-19 15:32:39.094249
+9b885606-c4bd-46bb-82d2-b9f5bd5d1f42,Planta fotovoltaica para conexión a la red Aralet,generation,0.9801,MWp,,2025-06-19 15:44:46.512900,2025-06-19 15:44:46.512906
+9d8822bb-fca8-4de1-8ce0-07f9821385d4,Proyecto de Construcción de Nave Agrícola de Almacenamiento de productos agrícolas,other,1.0,m3/h,,2025-06-19 15:42:25.723030,2025-06-19 15:42:25.723039
+510ebb39-6693-42cd-9227-85c58d28827e,Planta de biogás y planta fotovoltaica para autoconsumo Santa Olalla,generation,,,,2025-06-19 15:44:26.697861,2025-06-19 15:44:26.697869
+d5c6fb1f-e00f-449f-9291-9f2118df73e7,Parque Solar Fotovoltaico Llanos Pelaos 1,generation,1.0,MW,27e4ef63-d46c-4382-aae2-9e932668ff8d,2025-06-19 15:30:32.079467,2025-06-19 15:30:32.079472
+043f7b5c-fc8d-4e87-80a3-1899388ffc04,Instalación Fotovoltaica con conexión a Red para autoconsumo,generation,0.0099,MWn,,2025-06-19 15:33:47.443624,2025-06-19 15:33:47.443632
+6e999876-b1f6-4a0f-af82-9699e566e794,Puerto Escandón,generation,1.0,MW,,2025-06-19 15:40:50.247491,2025-06-19 15:40:50.247497
+5a4dc979-a33c-4dba-b456-d0e5973fd55d,La Paul,generation,48.0,MW,,2025-06-19 15:39:36.689854,2025-06-19 15:39:36.689863
+9efb3cea-9687-4546-9226-8864dea359b2,"Construcción de nave aislada para tratamiento, almacenamiento y venta de miel",other,1.0,m3/h,,2025-06-19 15:35:16.487667,2025-06-19 15:35:16.487675
+96cc603e-caea-404a-af72-4d6635b3116b,Cerezo Solar,generation,50.01,MW,28baa1da-10ee-49f7-ae52-b1476582f4a9,2025-06-19 15:29:02.138827,2025-06-19 15:29:02.138834
+20b3b823-f786-4cf7-82b3-846fec98ca9f,Modificación de línea aérea existente de 20 kV en Sigüenza para suministro a EDAR,grid,20.0,KV,,2025-06-19 15:44:48.413405,2025-06-19 15:44:48.413412
+0295e24c-10d1-4172-a32e-f6aa57b9668e,Instalación solar fotovoltaica PE-699,generation,5.8464,MWp,,2025-06-19 15:42:55.148897,2025-06-19 15:42:55.148903
+c760c8e5-b8b7-4cc9-adf8-3f3cba0880cc,Alfoz I,generation,1.098,MWp,5b343320-728c-4ca4-aee9-05bf993a7bde,2025-06-19 15:29:32.759470,2025-06-19 15:29:32.759477
+eeae5285-2975-474b-92f1-fa470832f745,PSFV Mas de Fasil,generation,1.8468,MWp,,2025-06-19 15:36:24.978972,2025-06-19 15:36:24.978979
+05121edc-f775-49b2-bcc1-c41ef828bf2a,Els Emprius,generation,29.988,MWp,,2025-06-19 15:35:40.635122,2025-06-19 15:35:40.635127
+5ae7f63c-88cd-412f-b6cd-fe88d312a890,PS Prat de la Plana,generation,3.5376,MWp,,2025-06-19 15:35:57.978954,2025-06-19 15:35:57.978961
+4ca53087-5b95-42bf-8089-057425d3b791,Escatrón-Rotonda 2,generation,15.0,MW,f2cac7d9-67a7-463a-b12b-e1c97c8f6806,2025-06-19 15:41:28.230802,2025-06-19 15:41:28.230809
+4fd1b77b-cfe6-4445-b6f4-5faf5e89ecda,Alcañiz Solar,generation,49.87,MWp,,2025-06-19 15:40:52.753864,2025-06-19 15:40:52.753871
+cd4180c7-4dee-40b1-9e4c-ab585783de25,PSF Santa Isabel,generation,22.303,MWp,,2025-06-19 15:37:20.362477,2025-06-19 15:37:20.362485
+379d7b11-d494-4988-8611-469a4967dd61,Gassó Querol,generation,1.3,MWn,,2025-06-19 15:36:05.549733,2025-06-19 15:36:05.549742
+9ebb5ab2-b780-4898-9489-b930d8622b23,Aravil,generation,0.9702,MWp,,2025-06-19 15:45:11.185178,2025-06-19 15:45:11.185191
+4a18d1ee-8609-41a2-9d99-c0e6c0d562dc,Planta solar fotovoltaica Tudela II,generation,27.09,MWp,6697888a-9955-46d2-b1cf-e067460aac14,2025-06-19 15:37:02.433976,2025-06-19 15:37:02.433983
+01462014-787d-4b64-83b1-a2fbc00d9a37,Nudo Luengos,generation,,,,2025-06-19 15:35:21.098787,2025-06-19 15:35:21.098797
+a82d4cba-e97d-4d8a-8c33-0488a295d93d,Planta Fotovoltaica El Capricho,generation,49.89,MWp,,2025-06-19 15:37:37.762973,2025-06-19 15:37:37.762979
+c85e79d4-50f3-4bfd-8ed2-0d87a3593f54,Ebisu II,generation,164.8,MW,d92ea4b9-8d25-4872-81c3-89803495e78a,2025-06-19 15:26:17.784719,2025-06-19 15:26:17.784725
+94e69fd2-217e-48e1-a8df-e22e1066d34e,Reforma SFF0205_3 de LAMT denominada Ballesta,grid,20.0,KV,,2025-06-19 15:28:45.920797,2025-06-19 15:28:45.920804
+37ace392-0951-4291-9313-b2e34f9a5e59,Parque eólico Orkoien,generation,1.0,MW,,2025-06-19 15:36:40.771508,2025-06-19 15:36:40.771514
+eed5e280-fa02-450f-8753-cc4b2163c72b,Murillo Sargas,generation,4.89,MW,,2025-06-19 15:38:00.495684,2025-06-19 15:38:00.495690
+47346cfd-b4c8-4bde-a3b7-1007eaf64ec3,Planta de Energía Fotovoltaica La Zarza,generation,1.0,MW,,2025-06-19 15:22:21.706797,2025-06-19 15:22:21.706803
+02ad6113-cd1e-4ec1-ae2b-b7f9c6427216,Tirasol 1,generation,,,8bdecb0c-0fe2-4936-8ed8-383f757e847d,2025-06-19 15:36:07.488697,2025-06-19 15:36:07.488705
+e930eacf-cdbf-4126-b671-95a17cfe17fc,Gibalbín,generation,49.975,MWp,,2025-06-19 15:27:54.262277,2025-06-19 15:27:54.262282
+99659b1a-2c30-4da3-b100-9155a6b35b22,Oztegin,storage,5.0,MW,cb0c6186-9e31-49c1-a091-6e8f1ede037a,2025-06-19 15:36:55.553680,2025-06-19 15:36:55.553687
+f2b420d9-ebef-4afd-a9f4-3515d7922598,"Soterramiento de un tramo de línea aérea de alta tensión 45 KV, 'Cucoto' de la ST 'CH Valeobispo', entre los apoyos 5129 y 5132 de la misma",grid,45.0,KV,,2025-06-19 15:39:27.331804,2025-06-19 15:39:27.331812
+e79ed25e-da83-46ff-aa92-0c9fd82426c2,LAAT A GUDIÑA-CONSELO,grid,132.0,KV,,2025-06-19 15:28:57.136857,2025-06-19 15:28:57.136863
+be24e95c-5ef9-45e6-974d-f5a09ae9c728,Planta Solar Fotovoltaica La Tercia 30 MW,generation,30.867,MWp,,2025-06-19 15:22:51.080609,2025-06-19 15:22:51.080615
+293dd48d-c6be-41a7-8e26-315dfadf66d9,Los Predios,generation,77.0,MW,7930efe0-c9e6-4c98-8fc9-eccac4cdb985,2025-06-19 15:30:44.533096,2025-06-19 15:30:44.533102
+b656d8aa-2cc1-4ce6-9661-039f93f39fd8,Parque eólico Mondigo,generation,45.0,MW,,2025-06-19 15:23:44.177196,2025-06-19 15:23:44.177204
+241bb223-29ee-4892-a820-bccf1db46d94,PEol-556,grid,49.5,MW,21daa69d-1d24-4b47-b6df-e569bc504394,2025-06-19 15:25:18.162750,2025-06-19 15:25:18.162763
+c273fec5-1cf6-4ab1-9007-01ab1a686c12,"Soterramiento de un tramo de línea aérea de alta tensión 45 kV, 'Cucoto' de la ST 'CH Valdeobispo'",grid,45.0,KV,,2025-06-19 15:38:12.182454,2025-06-19 15:38:12.182462
+836fcb86-e234-4d5d-9d02-40a9391acaba,Infraestructura de evacuación compartida Sierra Plana 2,grid,220.0,KV,,2025-06-19 15:42:01.718393,2025-06-19 15:42:01.718400
+14137996-c791-4e64-ace2-6688a36da559,Línea aérea de media tensión de suministro a secadero de cereales,grid,20.0,KV,,2025-06-19 15:41:23.742120,2025-06-19 15:41:23.742126
+2f929d1c-f905-4b12-9ebb-4c2bd7a61155,Renovación transformador SE Moraleja,grid,600.0,MW,,2025-06-19 15:30:47.439754,2025-06-19 15:30:47.439761
+a677cf6b-deab-4dff-ba61-2b2ceece5e4a,Peral FF1,generation,4.995,MWn,,2025-06-19 15:34:24.679038,2025-06-19 15:34:24.679046
+06e464de-92ce-483b-b10d-f4e9b05b0659,Bitácora,generation,4.99,MWp,,2025-06-19 15:37:04.323306,2025-06-19 15:37:04.323311
+f27efaf0-9996-4553-9945-c2c2f79fb23f,Cartago II,generation,2.55,MWp,,2025-06-19 15:22:31.677779,2025-06-19 15:22:31.677786
+810278b8-b2cd-4e3c-be6e-d67f8a9f488e,Subestación colectora Balsicas 220/132 KV y línea aérea de alta tensión a 220 KV,grid,220.0,KV,,2025-06-19 15:23:05.088048,2025-06-19 15:23:05.088053
+0f0246bb-f10a-4810-acab-2d6c0023161f,Grijota V,generation,49.97,MWp,04d2d3f1-4b58-44c3-92f9-e3aa8e5b8587,2025-06-19 15:33:30.498468,2025-06-19 15:33:30.498476
+435faa7c-314b-4dea-86e8-49ad0a6d4079,Reforma STR Montorretas,grid,30.0,KV,,2025-06-19 15:23:42.447408,2025-06-19 15:23:42.447416
+fd7e6d65-9157-4849-9583-3a4c0fef0450,Instalación fotovoltaica en Golpejar de la Sobarriba,generation,1.0,MW,,2025-06-19 15:35:15.453192,2025-06-19 15:35:15.453197
+6296f49f-9dee-4e60-8be9-75f51bcd118a,HSF SALTERAS SOLAR 5,generation,,,,2025-06-19 15:28:50.706823,2025-06-19 15:28:50.706829
+d1278a21-b132-4f9d-9385-fbf7f7eb8e2f,Ilio I,generation,49.5,MWp,0bef5b51-35f7-4515-834b-0c80e6d772c1,2025-06-19 15:41:25.380112,2025-06-19 15:41:25.380117
+e581b7a3-d13e-440f-9f79-db602c768ed5,Parque eólico La Carracha,generation,,,,2025-06-19 15:40:09.458290,2025-06-19 15:40:09.458297
+f2ccad88-3395-4bec-83be-3d65ada5eaf9,Instalación Fotovoltaica Don Rodrigo,generation,150.0,MW,,2025-06-19 15:30:33.325797,2025-06-19 15:30:33.325804
+da7cfa24-472c-4b52-b2e7-79341c813a80,PS AENA Aeroport Reus,generation,12.5,MW,,2025-06-19 15:26:54.199823,2025-06-19 15:26:54.199829
+50cad672-2098-4c31-9a1f-a6b64d0599b9,Guadame Solar 4,generation,32.67,MW,e50a0c57-d857-4bc9-b1a2-8cccced1c26b,2025-06-19 15:27:00.221777,2025-06-19 15:27:00.221784
+3c0fbf5d-8bcf-41d5-9a91-7bf01c988038,Planta fotovoltaica en San Miguel de las Dueñas,generation,1.0,MW,,2025-06-19 15:33:27.155204,2025-06-19 15:33:27.155211
+b3a883bf-5074-4ff2-bd84-1f9e06615358,Sant Miquel Solar,generation,33.998,MWp,f1f0e760-f10d-49a4-ace5-d130617f10e1,2025-06-19 15:26:21.893951,2025-06-19 15:26:21.893959
+6f8ad1a0-1d98-4553-8506-3e55af50e74b,Proyecto de ampliación de capacidad de almacenamiento en planta de almacenamiento y distribución de aceites vegetales crudos,demand,1.0,m3/h,,2025-06-19 15:32:17.644040,2025-06-19 15:32:17.644047
+e23d8ed4-b4ee-4178-96c4-5345e4cb8344,Instalación de paneles fotovoltaicos en TN Unidad Actuación UA1 3 de Horna,generation,0.1,MW,,2025-06-19 15:32:58.810144,2025-06-19 15:32:58.810152
+78eec1fe-6c3c-43a3-b8a6-c98e3ce590f7,Red de distribución de biometano de planta Galivi Solar,grid,300.0,m3/h,,2025-06-19 15:23:02.747554,2025-06-19 15:23:02.747559
+4b81f168-cdb3-4cee-b60f-dd4c1cf4e84b,Cosmo Hive,generation,25.0,MW,,2025-06-19 15:26:52.876545,2025-06-19 15:26:52.876550
+f5bf9ba4-e8c1-4018-8d43-8511e30c07b7,Planta Fotovoltaica Hibridación Hoyuelas-Rosales,generation,23.76,MW,60db0b37-6752-4b4a-b0d0-dce8a9dd7e33,2025-06-19 15:28:18.598738,2025-06-19 15:28:18.598746
+cda66564-1155-4e1d-b9d4-9ec65d06d5c4,"Soterramiento de línea aérea de doble circuito a 66 kV 'Logroño-Sur I' y 'Logroño-Sur II', entre los apoyos 20 y 24",grid,66.0,KV,,2025-06-19 15:37:58.335775,2025-06-19 15:37:58.335781
+f99dd944-a84f-4467-9659-0a2174125596,Modificación líneas LAT 132 kV Subestación Valdemoro,grid,132.0,KV,,2025-06-19 15:23:12.858306,2025-06-19 15:23:12.858312
+ab520293-909d-47c9-9170-d90272361eb1,El Polvorín,generation,4.99,MWn,342f765f-d31a-4441-b278-99b6772b7644,2025-06-19 15:38:54.324883,2025-06-19 15:38:54.324890
+f6797471-eab4-41be-913d-b11f3e699c32,"Reforma de la subestación transformadora de reparto de 30/13,8 KV (STR GURIEZO)",grid,30.0,KV,,2025-06-19 15:23:27.235855,2025-06-19 15:23:27.235862
+d104ee04-8086-414d-b54a-2c8cdf08608f,Ampliación de una reactancia en el parque de 400 kV de la subestación de Rubí,grid,150.0,KV,,2025-06-19 15:25:26.958483,2025-06-19 15:25:26.958491
+4619139c-7f83-4273-af7b-a2e6dbd4e0bb,Instalación Fotovoltaica de autoconsumo con excedentes para riego solar,generation,0.5,MW,,2025-06-19 15:33:30.195211,2025-06-19 15:33:30.195219
+a1743b31-a465-4c7b-9ff3-08bf33622f30,Castillejo I,generation,25.0,MW,6802be09-68d3-4a62-a7c4-4bcb60d4a372,2025-06-19 15:42:47.278765,2025-06-19 15:42:47.278772
+c4fcc85f-aa85-494f-ad5f-13ab2c0a79f7,Ampliación Subestación Daimiel II,grid,132.0,KV,,2025-06-19 15:44:32.839550,2025-06-19 15:44:32.839555
+c8786f91-3b49-44ce-a145-9b8dbe4cc00e,Planta solar fotovoltaica Merlot Solar,generation,49.99,MWp,45bc4e30-df3b-43ab-ac5d-e1c9b0fd1f2a,2025-06-19 15:36:14.451233,2025-06-19 15:36:14.451239
+1b92ddf3-25fe-4973-92d6-b004b7dec07a,Parque Eólico Bakio,generation,19.8,MW,,2025-06-19 15:23:41.868296,2025-06-19 15:23:41.868306
+667ece39-4920-4d4e-9008-5edb08cca5e9,Parque Eólico Azafrán 2,generation,7.42,MWn,0bef5b51-35f7-4515-834b-0c80e6d772c1,2025-06-19 15:39:36.312873,2025-06-19 15:39:36.312879
+07dd654f-d94c-4df8-9599-b1ed57e90178,Caoba Solar,generation,50.0,MWp,0ce44695-c671-408d-9735-14968ac8d6d5,2025-06-19 15:32:51.063782,2025-06-19 15:32:51.063790
+da4227d9-cdf9-4fb2-bd4e-f13a743a9c72,Elawan Villanueva 1,generation,31.99504,MWp,ce90eac1-ce33-42f6-bdc7-2c2a5dfe46dc,2025-06-19 15:41:05.213178,2025-06-19 15:41:05.213185
+7fc68af6-915d-4961-84b9-5a23e1d3138d,La Vaguada,generation,108.8,MWp,8e330641-48fc-4798-8e6a-deefe1ba64f7,2025-06-19 15:29:03.983048,2025-06-19 15:29:03.983053
+f5ec48b1-6a6f-4f39-99a7-3e07974a1722,Pedro Muñoz,generation,0.99,MWp,,2025-06-19 15:42:21.660192,2025-06-19 15:42:21.660199
+ffa77f99-57a8-4159-bdc9-b9dd4f6894fb,KENIA SOLAR IV,generation,43.75,MWp,38b2ff07-9de0-4d19-a653-43fbc593fd50,2025-06-19 15:25:25.494282,2025-06-19 15:25:25.494289
+aede1a3e-fba4-4386-a514-2a15c661cf97,Modificación del Proyecto de Prolongación LAMT 20 kV L/ Andaluza desde Apoyo Nº 1912 hasta Apoyo Nº 1567,grid,20.0,KV,,2025-06-19 15:42:37.594569,2025-06-19 15:42:37.594578
+4c20feb5-ea30-47e8-a6b9-7468a54c92d0,Instalación de placas fotovoltaicas en Pozoamargo,generation,1.0,MW,,2025-06-19 15:44:13.224925,2025-06-19 15:44:13.224948
+3a0305cc-9b3c-4d4e-9b99-a4b1ad3c49b3,PFV Helios,generation,4.8,MW,,2025-06-19 15:28:20.879903,2025-06-19 15:28:20.879910
+fe192129-237d-4d70-8e42-6dfb26bec7bb,Parque eólico Octante,generation,49.5,MW,c43c2f29-0c97-4cfe-ada5-e24890d42fa9,2025-06-19 15:30:41.647926,2025-06-19 15:30:41.647933
+4315adcd-07a2-4af9-add4-30c1fe445245,Parque eólico Omega,generation,51.2,MW,00258a3a-426d-40e0-9ccb-e560c4591f8e,2025-06-19 15:30:41.818265,2025-06-19 15:30:41.818272
+5a893961-9cec-4a05-a187-5706691dffed,Planta solar fotovoltaica Yecla III,generation,0.8944,MWp,,2025-06-19 15:22:30.044634,2025-06-19 15:22:30.044641
+ef15dffc-1d2d-4a1e-8895-c50a227bd91d,PEol-677 AC,generation,346.5,MW,157ec900-c3d4-4fea-bc79-37044e692ec5,2025-06-19 15:25:16.398461,2025-06-19 15:25:16.398466
+dcadd6a6-e130-4149-b924-67b240d22167,"Línea aérea-subterránea de transporte de energía eléctrica a 66 kV, doble circuito, modificación de circuitos Jinámar - Telde y Jinámar - Marzagán para su conexión con la subestación El Sabinal",grid,66.0,KV,,2025-06-19 15:29:57.834877,2025-06-19 15:29:57.834883
+0cbc60f5-09c1-4d07-9a00-1548c44cc513,Planta Solar Fotovoltaica Alhama 1,generation,0.996,MWp,,2025-06-19 15:41:55.575379,2025-06-19 15:41:55.575385
+1fe8a6da-6c04-4d58-9db4-e7715a33a232,La Fenera,generation,49.994,MWp,c2d55344-c665-4708-b4c9-a21053e32059,2025-06-19 15:34:10.010044,2025-06-19 15:34:10.010049
+db83c57b-1dee-42e4-aaca-ecb55d878e6a,PSF Ilerprotein,generation,1.95,MWn,,2025-06-19 15:35:42.450815,2025-06-19 15:35:42.450822
+90903e51-b3cf-4eae-a852-a7927b41d7c5,CSF Myrtea,generation,49.98,MW,,2025-06-19 15:22:25.136007,2025-06-19 15:22:25.136013
+4bc98e66-4141-47d0-a182-c19e4b4dbd1d,Retirada de biomasa vegetal y limpieza de áreas marítimas del Mar Menor,other,1.0,km,,2025-06-19 15:32:12.282166,2025-06-19 15:32:12.282174
+10695edc-77f2-4ac9-94b4-33da76efa069,PEol-482-AC,grid,132.0,KV,,2025-06-19 15:31:50.765369,2025-06-19 15:31:50.765376
+174d9b95-7a3b-4fa4-bc79-392248d5e807,Parque fotovoltaico Petra,generation,6.5016,MWp,ecef0919-0266-4055-a89e-79a33970f37c,2025-06-19 15:32:25.788515,2025-06-19 15:32:25.788520
+76189c91-c51f-45d4-bfd1-cf601f6ca7dc,Subestación eléctrica S.T. Galapagar II,grid,220.0,KV,,2025-06-19 15:23:14.613209,2025-06-19 15:23:14.613216
+d5b6d2c6-bfe0-4cfb-8ba4-e94622a5ac71,"Línea aérea de transporte de energía eléctrica a 400 kV, doble circuito, Belinchón-Morata",grid,2420.0,KV,,2025-06-19 15:30:21.273437,2025-06-19 15:30:21.273442
+ba04fddb-2002-4bff-9d80-a74ee04aa581,Planta solar fotovoltaica Ibérica 1,generation,1.0,MWp,,2025-06-19 15:32:44.256906,2025-06-19 15:32:44.256913
+635e0bf2-f1c4-406d-8c86-25e444a706c9,FV Bilyana 2,generation,58.18,MW,d56b43e6-76a7-4c79-b0ed-6fd68b4b4204,2025-06-19 15:30:02.040152,2025-06-19 15:30:02.040157
+ba152d58-da7f-4d31-8813-a671a24da60b,Instalación solar fotovoltaica para autoconsumo sin excedentes destinada a riego agrícola,generation,0.27342,MWp,,2025-06-19 15:43:45.499232,2025-06-19 15:43:45.499238
+f460b6dd-3ecb-4a79-b556-4fc2c0476ed5,Parque eólico experimental El Puerto I,generation,5.0,MW,,2025-06-19 15:32:41.028322,2025-06-19 15:32:41.028342
+0e6887b7-77e3-44ba-b996-bfe565f8cf76,Sistema de almacenamiento de baterías BESS,storage,5.0,MW,,2025-06-19 15:35:25.779736,2025-06-19 15:35:25.779742
+c95758cd-92f9-427b-b219-df9ef74c1f1c,FV Calañas,generation,,,,2025-06-19 15:31:43.926823,2025-06-19 15:31:43.926831
+c60f9da5-8156-4ff6-b20b-2b0f8fa38bf7,Amepersol 1,generation,27.62,MW,8bdecb0c-0fe2-4936-8ed8-383f757e847d,2025-06-19 15:36:06.888934,2025-06-19 15:36:06.888940
+8b1dc643-5fc9-4cb1-adb8-0d1f31ecf423,"Projecte d'instal·lació de planta solar de 500 kW a l'estació de bombament EB5 de primeres etapes (I, II, III) del regadiu del Garrigues Sud",generation,0.5,MW,,2025-06-19 15:36:12.535168,2025-06-19 15:36:12.535179
+f0a82bb8-9e94-4116-b652-7c64936ba445,Aprovechamiento de agua de la regata Karrika,demand,,,,2025-06-19 15:23:39.453283,2025-06-19 15:23:39.453289
+ec42e87c-eb1f-43dc-8d90-c9508583d306,"Línea aérea de transporte de energía eléctrica a 400 kV, doble circuito, Manzanares-Manchega",grid,400.0,KV,,2025-06-19 15:27:25.645921,2025-06-19 15:27:25.645929
+d4981c46-50af-4367-9610-084b8596eac3,Abeto Solar,generation,61.6,MWp,28baa1da-10ee-49f7-ae52-b1476582f4a9,2025-06-19 15:29:01.641702,2025-06-19 15:29:01.641709
+1c94ce02-c282-42fe-b821-b606e1182080,Trévago Solar 1,generation,30.996,MWp,8d156643-17bd-4800-9d48-29899b1d0c5f,2025-06-19 15:32:46.168648,2025-06-19 15:32:46.168655
+3c47763b-f43c-4843-b4e7-f974e20d1855,FV ALCOVER III,generation,4.3659,MWp,,2025-06-19 15:35:46.858847,2025-06-19 15:35:46.858855
+9039c506-d6ed-4959-9115-c2566f1f2673,Parque Eólico Berdeak,generation,49.6,MW,,2025-06-19 15:23:42.770166,2025-06-19 15:23:42.770175
+f274f3a0-fdb7-42ff-b294-ac9a84390c4b,"Instalación Fotovoltaica de Autoconsumo de 554,4 kW Conectada a la Red Interior de Renomansa S.L.",generation,0.5544,MW,,2025-06-19 15:44:58.418338,2025-06-19 15:44:58.418345
+29f561f1-ea69-42c0-8e38-793bbc9e61d6,Instalaciones de enlace y subestación transformadora de 45/20-15KV de 10 MVA para mejora del suministro de los abonados de la zona de Alcántara,grid,45.0,KV,,2025-06-19 15:38:13.392862,2025-06-19 15:38:13.392869
+7566376f-7a6c-42a5-8482-ba532be83e37,FV Campanario-Rotonda 3,generation,40.0,MWp,42a4698a-b72e-40be-861d-0986b98b3c4b,2025-06-19 15:45:05.401940,2025-06-19 15:45:05.401951
+2d08b128-0731-415c-94f4-16d5e149f8c8,Sistema de almacenamiento de energía con baterías Buenavista 2 de 5MW,storage,22.36,MWh,,2025-06-19 15:42:10.816376,2025-06-19 15:42:10.816386
+68f36d88-df2f-4cb1-8b6e-8b70b83a8e42,Agrupación MAIRA Delta,generation,114.976,MW,,2025-06-19 15:26:40.302807,2025-06-19 15:26:40.302814
+b8390aeb-eabd-4e7d-b4ae-65268d83e79b,Dehesilla II,generation,47.473,MW,04d2d3f1-4b58-44c3-92f9-e3aa8e5b8587,2025-06-19 15:27:10.376241,2025-06-19 15:27:10.376246
+7043e0b9-0082-4116-83a3-0120965a6fee,Modificación ST Leganés,grid,220.0,KV,,2025-06-19 15:23:11.270773,2025-06-19 15:23:11.270779
+103caf1f-6f88-4954-afb9-ca164f9f89f7,Subestación El Olivar 132/45 kV,grid,132.0,KV,,2025-06-19 15:44:37.962868,2025-06-19 15:44:37.962883
+28f0b4e7-f3fb-405e-bc2e-372d975e5742,Línea eléctrica de alta tensión 25 kV simple circuito y C.T. en edificio para alimentación de los servicios auxiliares de la subestación Photosolar,grid,25.0,KV,,2025-06-19 15:25:28.712796,2025-06-19 15:25:28.712803
+8b0c2dd4-4cbe-41e8-b06b-dec767559013,Orion,generation,42.0,MW,00258a3a-426d-40e0-9ccb-e560c4591f8e,2025-06-19 15:31:08.811949,2025-06-19 15:31:08.811957
+f358b35c-6e8d-4eef-a2fa-7102440ef434,Proyecto Híbrido Serrezuela,generation,44.0,MW,8d156643-17bd-4800-9d48-29899b1d0c5f,2025-06-19 15:34:13.378526,2025-06-19 15:34:13.378533
+5e0ea01e-2817-4f59-8fac-b908e423b9ae,"parque eólico para autoconsumo de 4,5 MW",generation,4.5,MW,,2025-06-19 15:44:42.693128,2025-06-19 15:44:42.693135
+67c63901-c252-4c29-8ef7-1d0f8dd93ba7,Parque Eólico Chao do Marco,generation,48.0,MW,,2025-06-19 15:23:56.655794,2025-06-19 15:23:56.655800
+47d7cddf-deae-427b-b79b-87ad404cd4d2,FV Aries Solar,generation,1.0,MWp,,2025-06-19 15:34:49.973275,2025-06-19 15:34:49.973281
+cb44053a-b18c-436b-8d1c-3cfbeefb32a6,El Quinto Centenario 6,generation,4.99,MWp,,2025-06-19 15:37:04.271832,2025-06-19 15:37:04.271838
+29006939-efcd-4492-8dc3-a69dda03bbbc,Hibridación de planta fotovoltaica con la C.H. Molino Badiola,generation,1.0,MW,,2025-06-19 15:35:09.846270,2025-06-19 15:35:09.846278
+f1361bd6-969d-4ea2-b517-1e2726fd972e,Filera IV,generation,49.9956,MWp,4c09b5d2-7731-4786-b79f-e5ba9a19c1e8,2025-06-19 15:41:39.661350,2025-06-19 15:41:39.661356
+54145a7e-c28f-4f15-9e2a-5a4b4b0ca070,Parque de Baterías BESS Lloreda 2,storage,5.0,MW,,2025-06-19 15:35:25.149639,2025-06-19 15:35:25.149661
+03cb4aa0-3185-469e-9b66-bb1f0d17ca51,Rufete Solar,generation,50.0,MW,e10a339a-38a8-4599-92cd-b4bbf24e9a8d,2025-06-19 15:30:45.144297,2025-06-19 15:30:45.144303
+3ab04ee3-fcc2-4b12-874f-40e3b630d9a6,Ampliación sistema 20 kV ST Villanueva de la Torre,grid,132.0,KV,,2025-06-19 15:43:59.342784,2025-06-19 15:43:59.342792
+3740234e-b181-4f15-bffe-8ac20e362a0d,Hibridación PSF Reventones y PE Reventones,generation,26.195,MWp,,2025-06-19 15:22:29.176629,2025-06-19 15:22:29.176636
+79033827-c049-4c54-934f-327216e093f7,PE Las Cabreras,generation,12.0,MW,d2edfcba-92ad-4eef-839c-48065add401b,2025-06-19 15:27:10.863748,2025-06-19 15:27:10.863755
+5801d44b-d5a0-4c96-a588-1a797230beb0,HSF Gerena Chamorro,generation,10.0,MW,7cc27087-e84c-47c2-a1e1-1417ea92abc2,2025-06-19 15:29:27.173820,2025-06-19 15:29:27.173826
+6cf2b87e-2a63-4afe-8e5d-27ae5729c3c1,Instalación solar fotovoltaica para riego por bombeo,generation,0.001,MW,,2025-06-19 15:44:34.393461,2025-06-19 15:44:34.393468
+5076c239-01d5-4161-a9b3-045b3bf44485,Borja,generation,8.874,MWp,88e37e78-60d7-4794-9b5f-7f4d456dcfbe,2025-06-19 15:41:40.644625,2025-06-19 15:41:40.644634
+5c016a25-8f45-4fa5-b502-9b94f85fef34,FV Goya,generation,1.30806,MWp,,2025-06-19 15:22:23.191562,2025-06-19 15:22:23.191570
+14d96791-57bf-4a53-b0c0-7e64795bb315,Cilindro Solar,generation,100.0,MWp,8c4d8019-7451-4fc2-8a53-3b197d2ffa86,2025-06-19 15:26:14.048153,2025-06-19 15:26:14.048160
+77de67e2-2b0d-4458-a950-b12109b12342,Parque Eólico Peña I,generation,,,,2025-06-19 15:43:57.582184,2025-06-19 15:43:57.582189
+6f42bcf2-0804-4599-85b9-3195a85f0dc0,"Soterramiento de varios tramos de la línea aérea de media tensión, de 13,2 kV, 'Circunvalación' de la ST 'Cáceres' en el polígono industrial 'Charca Musia' de Cáceres",grid,13.2,KV,,2025-06-19 15:38:46.605400,2025-06-19 15:38:46.605406
+3acc2dcc-1835-4eba-89b5-5857b7a28f46,Parque eólico Silver y su hibridación con planta fotovoltaica,generation,30.0,MW,10e49ba7-e880-40ac-9279-b124016fbf29,2025-06-19 15:31:08.331981,2025-06-19 15:31:08.331988
+2a92a755-9696-447d-93ad-b6dd7d349757,Subestación Virgen de África y líneas asociadas,grid,132.0,KV,,2025-06-19 15:27:20.562138,2025-06-19 15:27:20.562145
+b2503eb6-cf9e-48e1-9123-a3dc4fd4fd82,Reforma SFF0205_3 de LAMT BALLESTA,grid,20.0,KV,,2025-06-19 15:28:14.394377,2025-06-19 15:28:14.394383
+b561f963-738d-4085-a5dc-d500243a366d,Proyecto Constructivo de la Subestación Eléctrica de Tracción y Centros de Autotransformación Asociados del Tramo Ronda - Algeciras de la Línea Bobadilla - Algeciras,grid,25.0,KV,,2025-06-19 15:27:00.996017,2025-06-19 15:27:00.996024
+493d2d74-8bdb-462b-92a6-0a50af8957f8,Línea aérea de alta tensión a 20 kV para la mejora del suministro eléctrico en los términos municipales de Plasenzuela y Trujillo,grid,20.0,KV,,2025-06-19 15:28:54.115961,2025-06-19 15:28:54.115967
+26e89c8b-b3ce-4692-ac15-d756bf5a7656,PSF Les Canaletes,generation,30.0,MWp,,2025-06-19 15:35:32.177232,2025-06-19 15:35:32.177239
+382f32c3-40b5-4ed0-a497-259ce748df5f,PSF Espadán,generation,6.018,MWp,,2025-06-19 15:36:27.870597,2025-06-19 15:36:27.870605
+753f4928-2bbf-448c-82cf-f013eddd3c3f,Parc solar Olost,generation,1.219,MWp,,2025-06-19 15:35:37.105322,2025-06-19 15:35:37.105329
+bd6605ca-ef83-447c-a091-2c817ef2a63d,CERECOL,generation,59.5,MW,bf657582-a168-44f3-a13f-34846fd1e25e,2025-06-19 15:30:42.234757,2025-06-19 15:30:42.234763
+5243150c-d0c0-4156-94cf-c011f58ef41d,Socovos II,generation,29.9997,MWp,,2025-06-19 15:44:45.306029,2025-06-19 15:44:45.306034
+7b1b7d42-ef6f-4b52-8193-e2930e19f67b,Mejostilla FV2,generation,4.4,MWp,3888b821-bcab-4133-ac80-70f9ff0fc74d,2025-06-19 15:38:37.577413,2025-06-19 15:38:37.577419
+a448cfcb-8f20-498e-acab-3193115301ce,Genergia Fotovoltaica II,generation,5.07318,MWp,,2025-06-19 15:36:30.555722,2025-06-19 15:36:30.555728
+b815006f-ba04-4cfc-978f-8cf0a48f8954,PS Esporc,generation,2.379,MWp,,2025-06-19 15:36:19.632940,2025-06-19 15:36:19.632948
+90a6aedc-f29d-45a2-8982-773efdc66556,Planta fotovoltaica El Carrascal,generation,,,,2025-06-19 15:33:14.966409,2025-06-19 15:33:14.966415
+4d083e72-e2f4-4bf8-a925-597b30fcc1f0,Instalación de almacenamiento y comercio de carbones en el Muelle Olano,other,1.0,m3/h,,2025-06-19 15:35:26.332623,2025-06-19 15:35:26.332630
+76a5c5a7-567a-4406-99d5-29f6f257ff09,La Muela I-Santiuste,generation,26.0,MW,,2025-06-19 15:33:19.672278,2025-06-19 15:33:19.672286
+4f6bfca7-80e6-4544-9d54-e9730fd89543,"Línea aérea S.C. de 13,2 kV de cierre antena Bañares y San Torcuato",grid,13.2,KV,,2025-06-19 15:37:58.481277,2025-06-19 15:37:58.481282
+5ced1ab7-75a8-4380-9dbf-98191b87a7e9,Sekia II,generation,1.25,MWn,,2025-06-19 15:40:49.847091,2025-06-19 15:40:49.847098
+291f5444-7084-4520-ae9f-3b4d014da125,Parque eólico Mistral,generation,1.0,MW,c4673e23-4e89-4937-897e-afffb66afb60,2025-06-19 15:24:29.777629,2025-06-19 15:24:29.777634
+09934a67-258f-49df-b7c3-e0100a58e1ba,Planta Solar Fotovoltaica Coracha Solar,generation,,,,2025-06-19 15:37:19.592638,2025-06-19 15:37:19.592646
+9c5d8a12-466d-4f56-8235-4b376f34fb24,Rabiche II,generation,6.22,MWp,1501c172-5414-4a5f-960d-bc5544f5b8b3,2025-06-19 15:34:37.770266,2025-06-19 15:34:37.770273
+fe2393a6-4cc5-4d30-bfe3-f1271f86057d,Torre temporal arriostrada para medición de recurso eólico,generation,1.0,MW,,2025-06-19 15:33:48.139587,2025-06-19 15:33:48.139595
+a115cd13-5c85-4f5a-bd3f-af7a2a657876,Línea aéreo-subterránea 20kV servicios auxiliares SE Carmonita,grid,20.0,KV,,2025-06-19 15:32:05.170734,2025-06-19 15:32:05.170740
+19e5b6ac-f29d-4720-aad8-2268039d2833,Parc eòlic Les Crestes,generation,49.0,MW,,2025-06-19 15:35:55.868316,2025-06-19 15:35:55.868322
+ed3048cf-4dd3-4272-ad4a-9034b097d1b9,"Centro de tratamiento de vehículos al final de su vida útil (CAT), almacenamiento de residuos peligrosos y no peligrosos y almacenamiento de RAEEs",other,1825.0,m3/h,,2025-06-19 15:38:51.870030,2025-06-19 15:38:51.870037
+57e852fb-923d-4cc9-a8d1-23a65a85ae9a,Línea aéreo-subterránea 220 KV DC E/S en El Porís de la línea Candelaria-Granadilla,grid,220.0,KV,,2025-06-19 15:42:13.328186,2025-06-19 15:42:13.328191
+296d2987-cc1a-45e2-b6d4-ce59a9a11d98,"Adecuación de centro de transformación, consolidación de un tramo y nueva línea de MT para cierre entre dos puntos, línea aérea de MT Norias",grid,20.0,KV,,2025-06-19 15:27:41.169453,2025-06-19 15:27:41.169459
+a4483187-b304-424e-a856-a8d6e86310c7,EKIENEA,generation,125.9,MWp,5c48a649-1961-44d5-b788-eee99f811b30,2025-06-19 15:27:08.394500,2025-06-19 15:27:08.394506
+817c2d65-a6c8-4a72-a481-9bdfb7c7b6f3,Cierzo II,generation,46.87,MW,3957c619-3448-41e9-b07b-fb317d06981d,2025-06-19 15:36:54.897522,2025-06-19 15:36:54.897530
+0011f5ad-0c2b-4a8e-970f-1ddc6f428d09,Instalación de planta solar fotovoltaica fija de 20 kw para autoconsumo sin venta de excedentes en granja,generation,0.02,MW,,2025-06-19 15:33:29.657853,2025-06-19 15:33:29.657860
+60a596a8-8a4a-4fbb-a0e0-5fc65296744d,Bolarque 1,generation,50.0,MWp,6b1240e1-b680-4d60-bf06-3fdf464ade18,2025-06-19 15:42:49.106085,2025-06-19 15:42:49.106092
+3afa3168-0b63-48e9-ba51-bf0b200b3602,FV Moralejo I,generation,6.588,MWp,,2025-06-19 15:43:51.077992,2025-06-19 15:43:51.078005
+428243fc-2832-4a8a-a6fb-7f09f6efe39b,Ampliación de la subestación de Rubí 400 kV,grid,150.0,KV,,2025-06-19 15:25:42.368300,2025-06-19 15:25:42.368305
+de3bdc25-f60a-44e6-9852-b319d5be4e50,P.E. Carboeiro,generation,29.5,MW,1a45495c-8444-4954-914f-489920c08341,2025-06-19 15:23:51.962330,2025-06-19 15:23:51.962335
+bbc3bf78-90ff-45c4-811d-79e25e1bc7af,Planta Solar MAFRIPARC,generation,0.49248,MWp,,2025-06-19 15:35:37.055805,2025-06-19 15:35:37.055813
+08bf5af5-eb61-4fa5-857b-2d37e9222388,La Llanada,generation,49.994,MWp,c2d55344-c665-4708-b4c9-a21053e32059,2025-06-19 15:33:49.893447,2025-06-19 15:33:49.893453
+c26924f2-7150-4e50-bd93-14933ff81dbd,Artabil IV,storage,5.0,MW,,2025-06-19 15:36:49.962445,2025-06-19 15:36:49.962451
+b75f258d-0d3f-421a-9080-4ff1f7638c13,Línea Aérea de Media Tensión 20 kV de enlace entre LAMT San Blas y LAMT Torrebaja,grid,20.0,KV,,2025-06-19 15:41:10.046966,2025-06-19 15:41:10.046971
+3c72cb5f-8c7c-4327-b8ab-4bb049b1c608,Parque Eólico Los Balazos,generation,18.0,MW,,2025-06-19 15:26:23.069432,2025-06-19 15:26:23.069439
+2fca3eac-deb6-43a3-bb7e-015fb12b7cc5,Tagus 2,generation,224.0,MW,d5e586cd-f7cb-4c65-937f-356710e614f6,2025-06-19 15:26:04.785144,2025-06-19 15:26:04.785152
+e7869489-b2dc-4d9b-bb71-2505b575e0ce,Ampliación instalación fotovoltaica Santa Rita,generation,0.0612,MWp,,2025-06-19 15:32:27.673424,2025-06-19 15:32:27.673430
+952f284b-3819-4ff5-8012-a8a99578d563,PEol-522 AC,grid,400.0,KV,,2025-06-19 15:31:50.432063,2025-06-19 15:31:50.432069
+3c0b29cb-a0bc-480b-8dd7-0dfead064a8a,"Instalación Parque Eólico Racsa de 0,9 MW y Modificado de la Línea de Evacuación",generation,0.9,MW,6386f3fc-dc83-4ad6-8d11-ba86b1a04b7c,2025-06-19 15:42:08.865366,2025-06-19 15:42:08.865371
+eef07f9f-b2bb-41eb-91f8-f5b802d8f78b,Línea subterránea 132 kV doble circuito Bossa-San Jorge 1-2,grid,132.0,KV,,2025-06-19 15:24:42.122096,2025-06-19 15:24:42.122103
+b69cf228-c91a-4539-b285-9f356661e280,Torre de medición de recurso eólico Esguevillas de Esgueva,generation,1.0,MW,,2025-06-19 15:34:46.453680,2025-06-19 15:34:46.453686
+606a5f8a-b5f3-44e1-bebf-f71ac64e70d9,San Mateo 2,generation,0.99918,MWp,,2025-06-19 15:39:38.598799,2025-06-19 15:39:38.598805
+e5b0114d-e4b5-4a16-b1ae-cb6dff90725e,PE Las Cerradas,generation,50.0,MW,,2025-06-19 15:39:36.359693,2025-06-19 15:39:36.359698
+4b3f4ea3-13c1-4220-ac4b-f203afad34b2,Nueva línea aérea de media tensión D/C y línea subterránea de media tensión para suministro a polígono industrial Las Calañas,grid,25.0,KV,,2025-06-19 15:31:26.620407,2025-06-19 15:31:26.620414
+239f9949-7bae-4f02-9168-19526f8a5e88,Proyecto de reforma SFF0205_4 de línea aérea de media tensión Ballesta,grid,20.0,KV,,2025-06-19 15:26:53.292466,2025-06-19 15:26:53.292473
+f4fe8d51-af97-4cbf-8d54-70649e3187cb,Sinfonía I,generation,51.725,MW,ba33f317-523f-47bf-9b80-4aab6796074f,2025-06-19 15:26:26.893085,2025-06-19 15:26:26.893093
+59c69acb-37b2-4001-9d6f-e562315d1269,La Muñeca,generation,43.05,MW,04d2d3f1-4b58-44c3-92f9-e3aa8e5b8587,2025-06-19 15:26:45.800059,2025-06-19 15:26:45.800065
+af03f311-6082-4aa3-9d04-ceec88eea5b5,Colmenarejo FV1,generation,4.9764,MWp,3888b821-bcab-4133-ac80-70f9ff0fc74d,2025-06-19 15:39:28.585068,2025-06-19 15:39:28.585077
+364a06f9-15f5-4eff-8c3a-578f9d505ccd,Parque Eólico El Almendro,generation,,MW,832d7051-a69d-491f-9367-e6b37e1156de,2025-06-19 15:31:57.061405,2025-06-19 15:31:57.061412
+8cc9ec8e-53b2-45a4-94c9-f4d7aaaa9ff8,Hibridación Cuerda,generation,30.933,MW,6c9d448c-b232-45ae-abb8-8cbe29104172,2025-06-19 15:29:49.499230,2025-06-19 15:29:49.499235
+fbca60e6-6741-4f7c-9d37-4759431d74cb,FV Villena,generation,33.0,MW,0a5ddd42-ce1a-4a44-ad28-5fa986c63b14,2025-06-19 15:29:50.941516,2025-06-19 15:29:50.941523
+5a150ed9-cc16-49fe-8950-bfb8469dc1e7,Parque eólico Andorra,generation,20.0,MW,,2025-06-19 15:41:00.974700,2025-06-19 15:41:00.974709
+22576e1c-7afe-4bb4-a62f-80a557ec4194,Monteria Solar,generation,65.05,MWp,1a67dcba-e9f0-4c27-9d48-16c129cb8eb5,2025-06-19 15:29:13.670154,2025-06-19 15:29:13.670160
+499ed356-d6fc-42ff-af2b-9de3c04404d6,Conca de Barberà II,generation,45.0,MW,45bc4e30-df3b-43ab-ac5d-e1c9b0fd1f2a,2025-06-19 15:35:34.597380,2025-06-19 15:35:34.597386
+9bc0ed47-ebc5-466b-8640-2eec5415dad1,Línea aérea de transporte de energía eléctrica a 400 kV Pesoz-Sanzo 3,grid,2.23,KV,,2025-06-19 15:28:18.557217,2025-06-19 15:28:18.557224
+5ae8bf87-99b8-4c58-b691-ae98614a0264,Proyecto Corvera,generation,40.0,MWp,,2025-06-19 15:22:59.733386,2025-06-19 15:22:59.733392
+44841b1b-c216-466a-93b7-f3746bdb3d27,Planta de generación fotovoltaica Elawan Belinchón I,generation,49.9928,MWp,,2025-06-19 15:42:24.339233,2025-06-19 15:42:24.339239
+c5734be8-a2a8-484b-be99-3e3b08446260,Hibridación Almaraz I,storage,70.1,MW,045b1554-affe-4e1f-8b88-9489648d9e3a,2025-06-19 15:29:35.351771,2025-06-19 15:29:35.351778
+cd059d67-a311-44f0-ab83-cf80d0585cae,Planta Solar Fotovoltaica Dehesa del Coscojar,generation,7.7552,MWp,e0f145fe-f4bf-4b96-85fe-688cbfc195eb,2025-06-19 15:41:01.299720,2025-06-19 15:41:01.299726
+90b00ac8-ffcf-4e86-b50e-e73b926d46e7,FV Andévalo,generation,,,,2025-06-19 15:28:53.188898,2025-06-19 15:28:53.188903
+fae4e6f6-538d-4aa0-ac92-cb644f174e26,Modificación línea Mediano-Pont de Suert,grid,250.0,MW,,2025-06-19 15:29:41.275671,2025-06-19 15:29:41.275677
+3caaa9a4-1207-4374-862b-9ed4e348c5d7,Hibridación Almaraz II,storage,70.1,MW,045b1554-affe-4e1f-8b88-9489648d9e3a,2025-06-19 15:29:35.435295,2025-06-19 15:29:35.435302
+52779ce6-4fb5-437e-a5c1-236c29fe0317,La Foradada,generation,0.875,MWn,,2025-06-19 15:35:43.136019,2025-06-19 15:35:43.136026
+80cf7c5f-cc81-4d16-9509-29789c5c9983,PFot-154,generation,110.98,MWp,,2025-06-19 15:30:00.713849,2025-06-19 15:30:00.713854
+7a6b6a29-c138-439e-96e5-a79121a4698e,Parque eólico Valdepereira,generation,,MW,,2025-06-19 15:24:04.335748,2025-06-19 15:24:04.335755
+38febee5-b6b7-4eb7-9841-62a578845f6e,Pioz RD2,generation,27.0,MWp,32c2ab13-bc73-4ad0-8747-32feffc06372,2025-06-19 15:29:45.780009,2025-06-19 15:29:45.780014
+bba83d94-7aee-48d1-9151-f73f95a5d375,Instalación de almacenamiento y tratamiento de residuos de construcción y demolición,other,1.0,m3/h,,2025-06-19 15:38:30.039286,2025-06-19 15:38:30.039292
+a03591a9-0a9c-447c-abda-f17ae19f32c6,Instalación híbrida Cabeza del Conde,generation,8.8,MWp,469a886f-6e22-4667-bf3a-52596473c87a,2025-06-19 15:44:14.844730,2025-06-19 15:44:14.844736
+51831f5a-c1d5-4c20-affc-403f3c998ea5,"Centro de transferencia y almacenamiento de residuos peligrosos, no peligrosos y RAEE",other,1.0,m3/h,,2025-06-19 15:36:29.311942,2025-06-19 15:36:29.311949
+aa10c411-d192-4cdf-825d-861f9f08d866,Parque eólico San Licer 2,generation,34.5,MW,,2025-06-19 15:39:44.484619,2025-06-19 15:39:44.484693
+fac7bf78-1d68-4876-adaf-7a79deae37fe,PS Torregassa,generation,29.995875,MWp,,2025-06-19 15:36:02.168688,2025-06-19 15:36:02.168694
+c1eb95cf-3bb2-4f24-9b38-cbec11fb265d,parque eólico Treboada,generation,50.0,MW,ef0c4f7a-2652-49fb-8d1d-bfe3ac86cbe5,2025-06-19 15:24:25.815169,2025-06-19 15:24:25.815177
+0b310259-166d-4b58-8355-020d17164e49,El Prado,generation,4.0,MWn,5a2bca8b-98a9-4d4a-a764-83b52e225d81,2025-06-19 15:27:07.449406,2025-06-19 15:27:07.449413
+dad571a4-5473-4d89-8571-791f7be580f0,Prado de Lunas III,generation,4.9896,MWp,,2025-06-19 15:45:11.127665,2025-06-19 15:45:11.127671
+4ec4de0c-7738-48c0-96b3-484d3bc4a45a,PLANTA HIBRIDA GECAMA,generation,225.0,MW,,2025-06-19 15:29:40.327473,2025-06-19 15:29:40.327480
+85e1c184-926f-410f-8bb8-8714a689f6ca,FV Godelleta 14,generation,,,,2025-06-19 15:36:35.372892,2025-06-19 15:36:35.372897
+ea9af978-1acf-4505-a00e-08488477553d,Instalación de almacenamiento y red de distribución de gas propano en Carbayín Alto,other,300.0,m3/h,,2025-06-19 15:31:58.837270,2025-06-19 15:31:58.837275
+95a555d2-4f81-4866-b644-e4b2170fa09a,Salguero,generation,,,,2025-06-19 15:33:57.969755,2025-06-19 15:33:57.969788
+9cb382c3-f5f0-41e9-88c2-b7ed8ea28bdb,Planta solar fotovoltaica Flix-Ascó I,generation,21.01,MWp,bb8bdebf-08d3-4b54-b41f-4a18e78a5b85,2025-06-19 15:36:18.298752,2025-06-19 15:36:18.298764
+d457dd5d-805e-4f02-a0fe-87cce0241688,El Juncal,generation,,,,2025-06-19 15:37:20.973866,2025-06-19 15:37:20.973874
+6c939ce2-e00d-4ab3-9fc9-870adc08e99f,Autoconsumo industrial 4 MW con excedentes no acogidos a compensación e hibridación con cogeneración,generation,4.419,MWp,,2025-06-19 15:22:46.887848,2025-06-19 15:22:46.887854
+1a321178-c1e6-4ba7-90da-63ccf212b444,Carolina Solar PV,generation,300.0,MWp,2b929d2f-9376-41dc-9f4c-2ce89d9a3404,2025-06-19 15:26:07.249675,2025-06-19 15:26:07.249682
+ff598140-993d-4add-9499-ee29a598f5fb,Central hidroeléctrica de bombeo Chira-Soria,storage,200.0,MW,,2025-06-19 15:32:13.324628,2025-06-19 15:32:13.324639
+28dcd631-e9f0-410c-812e-65c834a8df17,Planta de almacenamiento y valorización de RCD,other,50.0,m3/h,,2025-06-19 15:39:30.036078,2025-06-19 15:39:30.036084
+3da3023e-5242-4408-ad0c-8d802bbe6ac1,Recova Solar,generation,85.0,MWp,5a8a24ea-93bd-49e6-8a42-9d7870d71122,2025-06-19 15:28:18.682600,2025-06-19 15:28:18.682606
+7870da1c-0457-46ba-8c24-c4bb7684a313,E Villares,generation,1.5,MW,cfdbc0ba-71b9-4b44-a306-661ad470899d,2025-06-19 15:42:25.425467,2025-06-19 15:42:25.425475
+4cb4dc9c-100d-44cd-8125-2d745a872613,Planta solar fotovoltaica Alcadozo,generation,0.99885,MWp,,2025-06-19 15:42:53.926493,2025-06-19 15:42:53.926502
+5bd33daa-25ce-4a6a-9861-95055fb16ef2,Línea aérea doble circuito a 400 kV Guillena-Valdecaballeros-Maguilla,grid,400.0,KV,,2025-06-19 15:26:02.570103,2025-06-19 15:26:02.570109
+ebdc1aef-4f82-4b9a-87de-1ea8ba60da85,Instalación solar fotovoltaica de autoconsumo en Fabero,generation,0.1,MW,,2025-06-19 15:34:04.950019,2025-06-19 15:34:04.950027
+9d660598-21de-444b-8704-cc85ecdf4444,FV Belvis I,generation,,,,2025-06-19 15:39:19.531276,2025-06-19 15:39:19.531284
+fa6792c3-1954-4f4f-80d7-e1a1ddafb437,HSF GREENCAR 2,generation,,,,2025-06-19 15:30:26.874223,2025-06-19 15:30:26.874230
+0baf0656-5ece-4f2d-9b54-dd73a5fbdb0f,Parque eólico Folgueiras,generation,36.0,MW,cb7e4f93-8599-4912-b71c-5f95d3f6e3ee,2025-06-19 15:35:30.695307,2025-06-19 15:35:30.695314
+dce2ba34-4d10-47bf-8154-5157c37002bb,FV Polacra 6,generation,6.145,MWp,,2025-06-19 15:44:17.718750,2025-06-19 15:44:17.718756
+f3b99c75-3b0c-4307-88f9-8278eb6c556a,Ampliación y reforma SE Altron,grid,110.0,KV,,2025-06-19 15:26:22.234026,2025-06-19 15:26:22.234032
+3d8ae5be-7dec-4621-adcd-ee6689098ed3,Instalación solar fotovoltaica para autoconsumo sin excedentes destinada a riego agrícola Casa del Alcaide,generation,,,,2025-06-19 15:43:55.817651,2025-06-19 15:43:55.817659
+afff9916-5309-4cf0-99c5-21dbfeafbd78,Cameto Solar,generation,0.5544,MWp,,2025-06-19 15:44:06.702719,2025-06-19 15:44:06.702728
+ac40d053-4d3c-4d8a-86d3-bbdfb203b715,Parque Eólico Belenus,generation,56.0,MW,c8b935e9-a2ed-43b1-a73c-9d732463918e,2025-06-19 15:29:34.564525,2025-06-19 15:29:34.564532
+213b6cb5-ba75-4fd2-a1da-e4ab8d539a2f,Parque Eólico Las Americas 20,generation,35.0,MW,,2025-06-19 15:23:39.031358,2025-06-19 15:23:39.031364
+ae82c79f-5a60-4278-8705-404d2067855a,Línea aérea de alta tensión para suministro a explotación porcina,grid,15.0,KV,,2025-06-19 15:41:50.785329,2025-06-19 15:41:50.785337
+2bf30afe-5ec2-4a6a-a7e9-93c579a492c8,La Pinta,generation,1.736,MWp,11bd60a6-1b02-4023-b8bd-d7fcf0fececa,2025-06-19 15:39:37.176763,2025-06-19 15:39:37.176770
+a4b8b7b1-b877-403b-8b6b-158e1c2f3454,Línea aérea subterránea a 132 kV doble circuito nueva subestación 132 kV Mácher - nueva subestación 132 kV Playa Blanca,grid,132.0,KV,,2025-06-19 15:30:21.858112,2025-06-19 15:30:21.858118
+b3ab7d64-7a83-4a3e-ad35-57efb3aa98ae,Las Majas VI-A,generation,1.0,MW,,2025-06-19 15:41:57.170087,2025-06-19 15:41:57.170095
+5b4e9940-515a-40c4-8db8-040a67d699ea,Planta Fotovoltaica Polopos,generation,49.99,MWp,,2025-06-19 15:37:39.882160,2025-06-19 15:37:39.882167
+ec769b0b-9f67-4e47-bcf2-4343a41e178c,Parque fotovoltaico Llinaritx Nou Binisegui,generation,,,,2025-06-19 15:32:27.187031,2025-06-19 15:32:27.187038
+3d29a39b-9967-4ab4-8f8e-67cd9a33ff27,Parque Eólico Berezal,generation,4.5,MW,,2025-06-19 15:35:07.963592,2025-06-19 15:35:07.963604
+2e663c43-5a89-47d2-b55b-06e053f2e566,FV Hinojosa de Duero II,generation,2.041,MWn,86f42d62-6615-44f4-840f-17d10f976ba0,2025-06-19 15:34:08.997158,2025-06-19 15:34:08.997164
+1f8e3570-42be-4d10-b65b-6a66454d0cb3,Pasadizo Solar,generation,44.655,MWp,5c16f679-5d9b-46d6-bc38-6bc76ef23d86,2025-06-19 15:40:45.034203,2025-06-19 15:40:45.034210
+f9bcc2ba-a72b-43ba-bfce-64d3aad9e554,Hibridación planta cogeneración con fotovoltaica Rodonita Energía,generation,2.362,MWp,,2025-06-19 15:24:11.824703,2025-06-19 15:24:11.824711
+a959357c-daa3-482f-8f34-347c0b4a28df,PSF Casares I y sus infraestructuras de evacuación,generation,50.77,MWp,,2025-06-19 15:37:22.305116,2025-06-19 15:37:22.305125
+fec06a28-0108-48f4-8ac5-e2dd0fd6488b,Haza del Sol,generation,150.0,MWp,3646ad0b-a888-47aa-9e7e-4c01c738629f,2025-06-19 15:24:52.164932,2025-06-19 15:24:52.164939
+981c3e75-3110-4ab8-91d6-5e0edf4bf5b2,PE Pozocañada,generation,,,f9502b66-e461-46de-8fab-469888e4415a,2025-06-19 15:42:54.198225,2025-06-19 15:42:54.198234
+07ad0142-b245-4083-a1c5-3ccab26bd6ad,Abedul 6 New Energy,generation,49.99,MWp,,2025-06-19 15:41:21.384963,2025-06-19 15:41:21.384970
+cb8f1c87-8a25-4960-994d-5850b697f358,El Descubrimiento 59,generation,6.489,MWp,5df07c9d-e20f-419e-8620-7224f60f081d,2025-06-19 15:41:05.519288,2025-06-19 15:41:05.519295
+f27bb9c3-5ad7-4a1e-9aec-47413fe27077,Infraestructura de almacenamiento de energía eléctrica ZURBARÁN,storage,30.0,MWh,a3b54df0-c7cc-4fa7-9ea1-8eb66be3e12a,2025-06-19 15:29:53.215003,2025-06-19 15:29:53.215010
+7c601b94-e808-4c4f-b967-a73650c2de2d,Elawan Belinchón I,generation,49.9928,MWp,488b3c43-5710-4206-a6c1-5c37caa11583,2025-06-19 15:42:32.778667,2025-06-19 15:42:32.778673
+91b15d3c-7f5d-4e6b-9e60-7e009ef8f36e,Natera Solar,generation,39.075,MW,471c9add-a6f4-4310-aabe-1e97bac2584c,2025-06-19 15:28:22.929693,2025-06-19 15:28:22.929700
+68ec019e-10ff-4c67-85bb-49541116b068,Ampliación y legalización de edificación para actividad de manipulación y almacenamiento de productos agrícolas,other,1.0,m3/h,,2025-06-19 15:45:10.338240,2025-06-19 15:45:10.338250
+812da8ee-082a-491e-911f-7359cb1c8629,Rusando,generation,2.31,MWn,,2025-06-19 15:41:11.957193,2025-06-19 15:41:11.957199
+875ec953-f8ba-4de7-ae4c-3def8b9262ee,Línea aérea de media tensión a 22 kV para doble acometida a la población de Oliva de Mérida,grid,22.0,KV,,2025-06-19 15:31:11.671288,2025-06-19 15:31:11.671295
+32ac5b40-5508-4ea7-89f0-6b569eef97a4,Aluvión Solar,generation,50.01,MWp,1a67dcba-e9f0-4c27-9d48-16c129cb8eb5,2025-06-19 15:29:16.867572,2025-06-19 15:29:16.867578
+6498260e-cf7c-41dc-ba8e-5db9117650aa,Instalación solar fotovoltaica de autoconsumo Finca Cuesta Blanca,generation,,,,2025-06-19 15:43:51.524959,2025-06-19 15:43:51.524964
+2fd6cdb5-33cd-4efd-a453-8067429a3585,Reformado del proyecto técnico de la nueva subestación eléctrica El Palmar de La Gomera 66 kV y del tramo subterráneo en la isla de La Gomera,grid,66.0,KV,,2025-06-19 15:24:50.785509,2025-06-19 15:24:50.785515
+bc8320f9-9617-4f03-97d2-beeb49d2e969,Alaudae Solar,generation,41.659,MWp,c8004055-fc84-4170-a1ee-504f3b5a28c7,2025-06-19 15:38:02.984566,2025-06-19 15:38:02.984573
+6f892a15-74cd-4b2a-a0bc-aa38722ef617,Parque Eólico La Tejería,generation,24.0,MW,,2025-06-19 15:37:14.500349,2025-06-19 15:37:14.500355
+b5c0b172-6292-4f27-ac05-75816b1e824d,Benejama Rotonda,generation,55.0,MW,359d348e-1b5d-471c-9c5d-7c8d54bb1d97,2025-06-19 15:30:01.830427,2025-06-19 15:30:01.830433
+d93c1163-7ea0-4eb6-a6b3-a12e5733da71,Proyecto técnico de instalación fotovoltaica de autoconsumo,generation,0.001,MW,,2025-06-19 15:35:16.775122,2025-06-19 15:35:16.775128
+e736e549-3af2-425c-9d9b-e13a9e61e89d,Reforma y regularización de la línea aérea de media tensión Urcamusa SE La Muela,grid,20.0,KV,,2025-06-19 15:41:06.818947,2025-06-19 15:41:06.818955
+8228bef3-bf34-448a-9923-43003e4b7d8a,Parque de baterías BESS Hornero ST4,storage,16.5,MW,,2025-06-19 15:35:23.970649,2025-06-19 15:35:23.970655
+cac5c499-c6a0-4a82-a256-b3f1c68cc2bf,PSF Murcia I,generation,199.992,MWp,,2025-06-19 15:22:40.068703,2025-06-19 15:22:40.068709
+507bb432-220d-4a99-b233-93d9c82563f6,Parque Eólico Tablares,generation,,,,2025-06-19 15:40:57.562195,2025-06-19 15:40:57.562200
+b3c72a87-924a-4ef9-96cc-e03924e4d120,Rocha I,generation,45.0,MW,390be6a1-609a-4be1-bbea-8c0d88fdcd1e,2025-06-19 15:39:49.275239,2025-06-19 15:39:49.275246
+518d998f-796c-4156-8369-0eab86984821,Planta solar fotovoltaica Marmolejo Solar II y línea de evacuación,generation,30.0,MWp,,2025-06-19 15:37:41.188800,2025-06-19 15:37:41.188806
+48f9511d-6483-4463-9208-bba694c604a0,PEol-FV-043 AC Soranus,generation,,,,2025-06-19 15:25:38.996782,2025-06-19 15:25:38.996789
+64724d73-1f74-4e3a-ac85-1648ba8fe5a0,16210100082 Línea aérea de alta tensión de 132 kV de las plantas fotovoltaicas Covatillas,grid,132.0,KV,,2025-06-19 15:43:27.770636,2025-06-19 15:43:27.770642
+d8478a3a-e0e0-4b77-bcf8-2f051d0b7128,Parque 2,generation,10.175,MWp,,2025-06-19 15:38:05.018606,2025-06-19 15:38:05.018615
+3181e38a-9310-46c6-8d67-8ec1ee1b1c5d,PSFV Salvatierra,generation,45.0,MWn,,2025-06-19 15:37:30.416030,2025-06-19 15:37:30.416036
+68c947ea-5f6f-473b-af84-99db139d9bbb,Parque eólico Hotei,generation,20.6,MW,309906cd-85d0-4779-b82c-989f5e6bac9c,2025-06-19 15:27:31.062208,2025-06-19 15:27:31.062214
+8ae1a71f-456e-409e-8c43-527222fc21b7,"Ejecución de SFA0182_1 de nueva LSMT denominada 'Circunval' a 15 kV procedente de la subestación Mérida, con desplazamiento de CD 46105 'García.Campos'",grid,15.0,KV,,2025-06-19 15:38:21.955263,2025-06-19 15:38:21.955270
+8ddb6d4e-70dd-49be-9a29-d2ecdcd84879,PEol 784 AC,generation,90.0,MW,10e49ba7-e880-40ac-9279-b124016fbf29,2025-06-19 15:25:00.044660,2025-06-19 15:25:00.044667
+183b620c-30a6-4694-a1a9-6eb9e42db58e,Instalación solar fotovoltaica de autoconsumo Matadero de Castilla-Rioseco,generation,0.3024,MW,,2025-06-19 15:32:59.670335,2025-06-19 15:32:59.670343
+2f434ebe-aa35-41d1-acf3-e25b0c386f2f,Parque eólico Xesteirón,generation,50.0,MW,,2025-06-19 15:24:05.842179,2025-06-19 15:24:05.842185
+277e1d46-7d25-4ded-883c-83bf08ce6a6f,Azután I,generation,60.0,MWn,8d9ef301-3987-4022-b2b7-a455416b4f19,2025-06-19 15:32:01.110693,2025-06-19 15:32:01.110706
+4d42a153-1205-40e2-b3c0-6691b1a662e4,PSFV Pont de Fusta,generation,32.0,MWp,ab823b06-1c71-464b-937d-51760f5d44d1,2025-06-19 15:35:44.927632,2025-06-19 15:35:44.927638
+938c10d8-0e04-4b06-8365-74126679c563,Proyecto de mejora en el aprovechamiento de agua y ahorro de energía para las comunidades de regantes del sector X y XI del Canal del Flumen mediante modernización y captación de agua a mayor cota para evitar bombeos,other,,,,2025-06-19 15:27:59.736545,2025-06-19 15:27:59.736552
+78a2eb20-5358-4bc1-887e-590e9d2560b2,SET La Reunión 400/30 kV y Línea de Alta Tensión en 400/220 kV,grid,400.0,KV,,2025-06-19 15:37:21.392612,2025-06-19 15:37:21.392619
+39173464-d762-46af-92d3-3250155b34cc,PSF Mas Pinós,generation,2.97,MWn,,2025-06-19 15:35:37.616637,2025-06-19 15:35:37.616645
+214e7f25-fb1b-4721-a5e7-fbe5c9bcd4af,Reforma de la subestación transformadora de reparto STR Montorretas,grid,30.0,KV,,2025-06-19 15:23:39.073563,2025-06-19 15:23:39.073570
+1ec71c4c-3e14-48b8-9372-c7318062c625,La Dehesilla,generation,100.0,MWp,2ef3ceff-9122-4416-ba9d-6260aa57b11c,2025-06-19 15:25:21.562131,2025-06-19 15:25:21.562138
+b9d7c2fd-37ab-4ee5-a1c7-e3f6a9495459,PSFV AENA Aeropuerto Madrid-Barajas,generation,120.0,MWn,e73df673-9773-4a86-a58c-566159190690,2025-06-19 15:29:49.669570,2025-06-19 15:29:49.669577
+4e5a4906-db6e-4381-a532-ffcf85661bce,Complejo Solar Fotovoltaico Los Santos IV-V Modificado 2,generation,9.2106,MWp,a9eea554-4ec6-4929-b8fc-407e976782e6,2025-06-19 15:25:14.712904,2025-06-19 15:25:14.712910
+f00f269b-5ff2-4a86-83aa-60226043c621,Valdefuentes-1,generation,4.2456,MWp,cbb42e78-5b1d-4edb-a49d-75ced94c0eb4,2025-06-19 15:42:21.782326,2025-06-19 15:42:21.782338
+aa88028e-c734-4d7e-82cf-6c79604f09ea,FV Kenerjona I,generation,55.49,MWp,,2025-06-19 15:36:27.182719,2025-06-19 15:36:27.182726
+03d364ec-3b46-47c1-89b8-ecf184517879,PS CAN AGUILERA,generation,5.3088,MWp,,2025-06-19 15:35:45.881414,2025-06-19 15:35:45.881420
+8fef623b-d947-4442-8dc3-54e3928f92c0,Reforma de la línea aérea de media tensión 25 kV Villanova,grid,25.0,KV,,2025-06-19 15:40:30.272682,2025-06-19 15:40:30.272688
+2a9f0fac-a060-40fb-ac79-25aeaf5d5539,FV Los Palmeros,generation,1.0,MW,,2025-06-19 15:23:06.058488,2025-06-19 15:23:06.058495
+db74de11-1ae9-4feb-92c7-64484282e408,Bajo Guadalquivir II,generation,,,2a060c45-7809-4166-bdf9-b02159afbdfa,2025-06-19 15:30:01.703295,2025-06-19 15:30:01.703302
+41563fd7-4edb-4930-9e50-a5437c1fb12c,Jabalí 1,generation,8.0,MWn,3888b821-bcab-4133-ac80-70f9ff0fc74d,2025-06-19 15:30:24.572320,2025-06-19 15:30:24.572327
+a987a77a-4ebd-4f6c-a02a-492d51f245fd,"Línea Eléctrica a 400 kV Baza–La Ribina, Subestación La Ribina 400Kv y Línea de Entrada y Salida subestación La Ribina–L/400 kV Carril-Litoral 1",grid,400.0,KV,,2025-06-19 15:31:58.645369,2025-06-19 15:31:58.645376
+c1f9c895-5592-4a63-8daa-0b5ff03cbcd8,Proyecto de Instalación Fotovoltaica para Autoconsumo 640 KW en Finca Agrícola,generation,0.64,MW,,2025-06-19 15:43:39.733970,2025-06-19 15:43:39.733976
+45abe321-650b-4e4a-98ae-d28aee4adb4e,Viana Baikal,generation,1.0,MW,,2025-06-19 15:37:02.104663,2025-06-19 15:37:02.104672
+25a9797d-f02e-4104-ab12-1df248735e10,Polacra Solar 4,generation,2.73,MWp,,2025-06-19 15:43:34.468546,2025-06-19 15:43:34.468553
+983350f6-ec0b-4bbe-b0cf-07a3b5093537,FV PTESGC-4,generation,3.89,MWp,328179da-134d-41fa-a228-5a0ce6cb690b,2025-06-19 15:28:30.337721,2025-06-19 15:28:30.337728
+b109617a-a519-4da2-b3f7-3f748314600e,Planta solar fotovoltaica fija Lastras del Pozo,generation,0.9936,MW,,2025-06-19 15:35:09.607389,2025-06-19 15:35:09.607396
+df293f64-5fde-4304-abf6-3879f3129d4c,Reforma de línea aérea media tensión 15 kV del circuito MDA 704,grid,15.0,KV,,2025-06-19 15:44:46.189234,2025-06-19 15:44:46.189242
+21bd098b-2ae1-464d-9fdf-590c114f3269,Planta solar fotovoltaica Maqueda,generation,49.9,MWp,,2025-06-19 15:43:30.813300,2025-06-19 15:43:30.813308
+e38ef8aa-a1c3-4bb0-8d49-eb04f37037e2,Planta solar fotovoltaica ARJONA V,generation,14.985,MW,b8933da8-8abb-4660-b4f3-36e3fe380973,2025-06-19 15:26:27.424981,2025-06-19 15:26:27.424987
+a357290a-6bef-4c71-89a9-eeb7dd8e7cd5,Parque Eólico Las Azubías,generation,,,,2025-06-19 15:27:30.767182,2025-06-19 15:27:30.767187
+6baa4005-5cd7-4418-be80-3969431e68f9,Reforma de LSMT SFA0156_3 denominada Montijo,grid,20.0,KV,,2025-06-19 15:38:36.594044,2025-06-19 15:38:36.594050
+0acb2e5c-1919-4ef4-8dbe-23dfd0149b44,Módulo solar fotovoltaico de la instalación híbrida Cerro Vicente II,generation,35.42,MWp,,2025-06-19 15:29:30.244921,2025-06-19 15:29:30.244927
+064ab5ef-eaa5-4f4a-86d5-372ea542a408,HSF Alcalá 6,generation,14.84,MWp,87ee7b97-d983-43b4-be61-d9bfc298ff75,2025-06-19 15:27:53.235949,2025-06-19 15:27:53.235956
+e4055867-6039-4b01-bdb8-28fe2036323d,La Toribia I,generation,0.99968,MWp,,2025-06-19 15:43:20.093883,2025-06-19 15:43:20.093891
+f7d9ddef-1f94-4183-87de-924ed6519d4f,Parque eólico Kaminari,generation,28.0,MW,0e10e22f-a7d6-477a-9f16-30776367cb90,2025-06-19 15:29:25.391808,2025-06-19 15:29:25.391815
+c84cc200-acdb-4212-ae80-90b358d415cf,Desvío temporal de la línea aérea a 45 kV Arbas 2,grid,45.0,KV,,2025-06-19 15:34:59.082712,2025-06-19 15:34:59.082721
+6660467e-b7f8-4d65-a534-5e74ce8070c8,Planta Solar Fotovoltaica Alfamense,generation,0.972,MWp,,2025-06-19 15:42:01.398357,2025-06-19 15:42:01.398363
+bfe807c0-6144-43b6-99c4-b1467b4fd755,Parque Fotovoltaico Binéfar I,generation,1.0,MW,,2025-06-19 15:39:31.534799,2025-06-19 15:39:31.534805
+85620760-526b-43e9-a7a9-6e5e0ce86407,Vitoria Solar 2,generation,49.99,MWp,0e10e22f-a7d6-477a-9f16-30776367cb90,2025-06-19 15:23:34.881948,2025-06-19 15:23:34.881955
+cd1b4cf0-9b98-43f1-976d-8cdd7c1750ff,Adaptación Línea Aérea Pola Gordón,grid,20.0,KV,,2025-06-19 15:34:43.273382,2025-06-19 15:34:43.273415
+f8403d6e-950b-42f1-9428-9dbd162d865e,Parque fotovoltaico Can Fuster,generation,2.681,MWp,,2025-06-19 15:32:24.574591,2025-06-19 15:32:24.574599
+76c9a44a-c7e7-495e-ab54-1a35ecb7ac19,Proyecto de Distribución de agua con bombeos fotovoltáicos en Palomares,demand,,,,2025-06-19 15:27:10.248531,2025-06-19 15:27:10.248538
+9d86d79a-b577-40d2-aecd-681332f45577,Torre meteorológica de medición del recurso eólico,other,1.0,MW,,2025-06-19 15:40:41.106465,2025-06-19 15:40:41.106471
+ee85f420-7ab4-4ee0-88d4-f60fbfc0e751,Parque Eólico Balmaseda II,generation,36.0,MW,,2025-06-19 15:23:42.500268,2025-06-19 15:23:42.500277
+7d717bbd-881c-4092-9e2e-5151be60bb09,BESS Hibridación Parque Eólico El Rodeo,storage,4.56,MWh,,2025-06-19 15:42:13.123216,2025-06-19 15:42:13.123222
+de1f9d5d-eb41-4261-bffa-e18e8c976fd7,Instalación Solar Fotovoltaica PE-672,generation,0.97867,MWp,,2025-06-19 15:45:18.225589,2025-06-19 15:45:18.225596
+d62d3325-c4f0-4c23-a32f-00dd4a9fe1e3,Campos del Turia,generation,90.46,MW,11126255-d2cd-4d1c-bd6d-bd12ebdf8da8,2025-06-19 15:27:56.305759,2025-06-19 15:27:56.305767
+a058c514-cee1-4ddb-b20e-bcd66c96827d,ISF Anzo,generation,2.0096,MWp,,2025-06-19 15:31:36.235712,2025-06-19 15:31:36.235731
+f918794c-fcaf-4a0f-8da8-c6e1475c0e63,Ejecución de soterramiento de LAMT Don Álvaro,grid,20.0,KV,,2025-06-19 15:38:59.181703,2025-06-19 15:38:59.181709
+4a8137f0-f427-4cb4-a93c-8eec7714bd75,PS El Magí,generation,3.63,MWn,,2025-06-19 15:35:45.506060,2025-06-19 15:35:45.506067
+2407ff72-8ab6-453c-9014-c0a7af2b4226,PFV Los Morenos de La Tejera Solar,generation,2.996,MWp,,2025-06-19 15:22:52.326104,2025-06-19 15:22:52.326110
+a846571c-48b7-460f-aa03-113202d1724c,Planta fotovoltaica Huércal Overa II,generation,,,,2025-06-19 15:25:34.363600,2025-06-19 15:25:34.363606
+0c1f9fda-ed0b-4936-9750-d57af89ff9f7,Ejecución variante de LAMT denominadas 'Aceuchal' y 'Circunviln',grid,15.0,KV,,2025-06-19 15:39:05.231188,2025-06-19 15:39:05.231195
+45f148cf-40a9-47c6-9268-22021c2ce4f7,Renovación de los módulos I y II de celdas de MT a 20 kV en la subestación transformadora ST Torrente,grid,400.0,KV,,2025-06-19 15:36:22.943205,2025-06-19 15:36:22.943211
+d500430a-3c42-4d54-a79a-ad0392bf2994,LAT 30 kV para evacuación del PE Vilacova,grid,,,,2025-06-19 15:24:32.951354,2025-06-19 15:24:32.951359
+a7307db0-d4e1-40d4-80ee-4e0ab042f004,Telesto Solar 2,generation,49.97,MWp,cc22b26d-9076-4951-9a1a-c7c365fe8850,2025-06-19 15:44:27.275990,2025-06-19 15:44:27.275997
+f294839e-0981-4c98-8b8c-9fc8c11ab396,Planta fotovoltaica Siluro,generation,25.0,MW,,2025-06-19 15:22:57.248631,2025-06-19 15:22:57.248637
+a32ec620-0a01-43ef-a5b0-c70bd7e9b214,PSF CAMINO DE INDIAS 50,generation,,,7fb87ac5-9ecc-4bfa-8305-5af353256861,2025-06-19 15:37:31.494588,2025-06-19 15:37:31.494595
+df5d885f-c579-4f9d-9a86-9529e02b12c6,Teixo,generation,10.395,MW,,2025-06-19 15:35:28.469385,2025-06-19 15:35:28.469392
+55e588a3-8043-4ba3-bfa3-6d688bb7d91d,Reforma de línea aérea MT Gracia para nuevo suministro MT,grid,4.772,KV,,2025-06-19 15:30:19.142006,2025-06-19 15:30:19.142011
+138bc17c-aa4e-41fe-9a1e-18f5b2d3c284,PE Erik,generation,30.5,MW,62a3d5da-f8aa-4b33-8713-de11512ac5ab,2025-06-19 15:40:42.127480,2025-06-19 15:40:42.127485
+f4acc652-612d-4ac5-a79c-2c67e1726c96,Instalación de Placas Solares para Producción Fotovoltaica 200 kW,generation,0.2268,MWp,,2025-06-19 15:44:41.469730,2025-06-19 15:44:41.469737
+a6bfd9ce-3847-459b-b778-58deef13503c,Fachina,generation,6.26,MWp,91a39d77-7f0a-45d4-ab47-bb8084660fe0,2025-06-19 15:39:58.809455,2025-06-19 15:39:58.809462
+295e4b40-4ca5-4271-866d-d52cf4a9cebd,TOBIZAR,generation,27.25,MWp,5a8a24ea-93bd-49e6-8a42-9d7870d71122,2025-06-19 15:24:56.367796,2025-06-19 15:24:56.367804
+dbd83683-5320-4e8e-b941-6ebd8339a064,Ejecución nuevo tramo SFA0191_1 LAMT denominada F_Cantos_1,grid,15.0,KV,,2025-06-19 15:39:03.264908,2025-06-19 15:39:03.264915
+33c056a0-4c66-46a2-a160-bf80581ab5b7,Línea directa subterránea a 20 kV de conexión de instalación de generación fotovoltaica de autoconsumo,grid,20.0,KV,,2025-06-19 15:44:34.071497,2025-06-19 15:44:34.071504
+e51e4f15-e51a-4bd0-aa85-839a2af7c951,PFV Alfonsica,generation,3.0,MWp,,2025-06-19 15:23:06.101646,2025-06-19 15:23:06.101652
+d4bf1f69-0821-4be1-b4a5-8918f7fa5e96,PSF Sancho y sus instalaciones relacionadas para la Evacuación de Energía Generada,generation,19.9214,MW,,2025-06-19 15:37:34.120563,2025-06-19 15:37:34.120571
+1e338d48-f574-4484-9e4e-d4ec63b62842,Instalación fotovoltaica de autoconsumo Hotel Riu Paraíso Lanzarote,generation,0.20293,MWp,,2025-06-19 15:42:08.231046,2025-06-19 15:42:08.231052
+f7e204c7-4fca-4efe-bf83-8b9d03da0b83,Parque Eólico Larragorri,generation,25.0,MW,5376bcbf-5658-4b8e-b6b1-8acd216c6d17,2025-06-19 15:23:35.652205,2025-06-19 15:23:35.652211
+cbe110d8-72ce-4a03-8205-56f8c38fb032,FV Son Orlandis,generation,3.343,MWp,dfe8bcd5-bdb4-475c-89b7-5b4b96667d42,2025-06-19 15:32:26.160120,2025-06-19 15:32:26.160127
+5e517d2f-fb25-423e-ba7d-1dbe4c158e13,Nueva línea aérea y subterránea Talamanca-Navarcles2,grid,25.0,KV,,2025-06-19 15:26:05.619703,2025-06-19 15:26:05.619710
+b4a5950c-6004-4a93-ba71-fb200b1a22af,Las Gabias Suntrap,generation,3.0,MWp,8fff27b3-6f33-4e7a-b375-78314a83ece6,2025-06-19 15:24:39.446610,2025-06-19 15:24:39.446616
+f8caec95-2332-472b-8df1-ce3cad6eee62,Parque Solar Fotovoltaico Murillo II,generation,0.9996,MWp,,2025-06-19 15:37:59.006876,2025-06-19 15:37:59.006881
+495ce186-cfb9-4877-a9d2-53d7c01d8adc,PS Perafort Mapesol I,generation,50.27,MWp,4fa25c0f-28cb-4a21-b81c-12dc79ee5c24,2025-06-19 15:36:14.025050,2025-06-19 15:36:14.025059
+ff18fad5-96c7-492e-837b-a52c354251b7,Nueva posición salida de línea 15 kV Solmer 3,grid,15.0,KV,,2025-06-19 15:38:56.590888,2025-06-19 15:38:56.590895
+f14bd2a4-3013-46be-8fc3-27b3630aae05,Las Fresas,generation,10.0,MWp,,2025-06-19 15:25:34.446977,2025-06-19 15:25:34.446984
+4358bf88-70a8-4473-9654-73f5b71acc39,Renovación del transformador trifásico de potencia de la subestación Can Jardí 400/220 kV,grid,600.0,MW,,2025-06-19 15:26:33.535032,2025-06-19 15:26:33.535040
+9be8b717-1521-4f26-abdc-bb392cfbed67,Planta solar fotovoltaica fija n.º 2 para autoconsumo sin venta de excedentes en fábrica de piensos,generation,0.86,MW,,2025-06-19 15:33:44.609359,2025-06-19 15:33:44.609369
+8d829e69-e9b9-4ea2-8ef7-e5aa4197e2d8,Infraestructuras de evacuación de parques eólicos Borbollón y Perdices,grid,220.0,KV,,2025-06-19 15:37:42.045003,2025-06-19 15:37:42.045010
+65894248-a83f-45fe-90e8-d8448f377b7d,Belorado 1,generation,,,,2025-06-19 15:34:15.605530,2025-06-19 15:34:15.605536
+c86cb6a1-5e54-45b9-b234-3be0eaa5f33a,La Cerca,generation,49.94,MWp,d00dc1f7-4325-4367-8d7a-353478b51920,2025-06-19 15:37:39.231636,2025-06-19 15:37:39.231642
+da29a4a5-03ad-40d4-9bfb-58dc155d8ecf,PS Carrerada,generation,29.988,MWp,e2060630-ed7e-4ee3-a91c-bd41bea47d16,2025-06-19 15:36:15.962623,2025-06-19 15:36:15.962630
+38c5ef65-3670-435b-98cd-4ac167c36121,PE Cantagalls,generation,30.0,MW,,2025-06-19 15:35:57.088364,2025-06-19 15:35:57.088371
+afc9b76d-8a8b-4cca-95c5-174f735a744e,Comunión II,generation,2.62,MWp,,2025-06-19 15:23:41.958449,2025-06-19 15:23:41.958456
+078a53e8-7297-42fb-a52f-351a6475ae1c,Ordenanza Administrativa Número 6 reguladora de las Instalaciones Solares Fotovoltaicas de Autoconsumo Conectadas a la Red,generation,,,,2025-06-19 15:23:18.483002,2025-06-19 15:23:18.483008
+c6938cad-269f-4c2e-a4e9-98b52bf40e6e,Línea eléctrica aérea en Monte Solanillas,grid,,,,2025-06-19 15:44:20.615634,2025-06-19 15:44:20.615641
+ead7bdf1-53db-4f9c-993b-11e4fcecf4db,Línea eléctrica SET Elawan - SET Promotores,grid,132.0,KV,,2025-06-19 15:41:03.269771,2025-06-19 15:41:03.269777
+943b8b44-4ff4-4786-895d-a3586dec9d51,Infraestructura de evacuación SET Almazara y LAAT,grid,220.0,KV,,2025-06-19 15:40:37.763842,2025-06-19 15:40:37.763849
+49bf1523-4e03-4657-89a0-278e586a1d22,FV MEDITERRANEO II,generation,33.0,MW,5f72f147-0c91-478a-a296-0262b4b462bb,2025-06-19 15:36:20.620157,2025-06-19 15:36:20.620164
+732d0c51-d127-443d-b6ff-f378d69525a8,BAYARD,generation,48.0,MW,0e10e22f-a7d6-477a-9f16-30776367cb90,2025-06-19 15:24:44.899776,2025-06-19 15:24:44.899782
+b68dfc44-5be7-4585-ae27-4c0a5f4a1469,La Amapola,generation,3.98,MWp,,2025-06-19 15:22:40.235716,2025-06-19 15:22:40.235722
+e6aa4d1e-bc8b-4d2d-b45b-7d0ef9fd032a,Alarilla,generation,4.998,MWp,602ccc8f-4295-4ca0-9bc9-a99cfeb47ba0,2025-06-19 15:43:31.946139,2025-06-19 15:43:31.946147
+d2b4931d-2d32-49ed-82e2-599745810b15,Piñuela,generation,9.537,MWp,3888b821-bcab-4133-ac80-70f9ff0fc74d,2025-06-19 15:30:23.946285,2025-06-19 15:30:23.946290
+f1c20211-c51b-4301-9d85-53c7ae995827,Parque Eólico Lyra,generation,42.0,MW,1667d9f6-e00f-4173-8361-2927cf3488a9,2025-06-19 15:30:20.141218,2025-06-19 15:30:20.141226
+ac57d071-79bc-468c-9b69-4895fde0c85f,"Parque Eólico Montañés, Subestación Montañés y línea aérea de alta tensión desde la Subestación Montañés a la Subestación Valdeconsejo",generation,24.0,MW,,2025-06-19 15:41:17.977810,2025-06-19 15:41:17.977817
+c7b758e9-7e22-4711-b3b6-0cd4b93222d0,Parque de baterías BESS Lloreda 1,storage,5.0,MW,cf8b1399-7dcf-4e68-9bd5-e5543560df9e,2025-06-19 15:35:25.092191,2025-06-19 15:35:25.092198
+69a7e2cf-3d0c-4166-85da-ace141a652a8,Ampliación de almacenamiento de equipos y maquinaria,other,,,,2025-06-19 15:44:13.381146,2025-06-19 15:44:13.381154
+c4969501-8c1c-44f2-a51f-8a2f8d8b48f2,INSTALACIÓN HÍBRIDA FV CARRASCOSA,generation,38.0,MW,,2025-06-19 15:29:28.881110,2025-06-19 15:29:28.881117
+b4f28eb7-551c-408d-abe6-a0d4c12872d1,El Valle,generation,125.0,MW,d251c1c2-e65a-4a77-b0d8-5ddcdedb9599,2025-06-19 15:28:37.982593,2025-06-19 15:28:37.982607
+aa252670-51c5-45a0-8f0f-a366c9d2d26a,PS MAS GURI,generation,3.588,MWp,,2025-06-19 15:36:06.293822,2025-06-19 15:36:06.293830
+5d6e587c-094e-4918-a5e3-23d51ba4fd9b,Reforma Línea Aérea de Media Tensión La Puebla 20 KV entre Z03484 CD Caparrates y Z03485 CT Valdecebro,grid,20.0,KV,,2025-06-19 15:41:57.649415,2025-06-19 15:41:57.649421
+5f018f2a-5d41-452c-a8bb-86dfc6485e4e,Ampliación SE Begues 400kV,grid,400.0,KV,,2025-06-19 15:27:40.480805,2025-06-19 15:27:40.480814
+f664a19c-0a15-4643-bc81-cf17c90ed6f5,PE Los Nicolases,generation,,,,2025-06-19 15:32:08.806694,2025-06-19 15:32:08.806700
+d7c15f5f-d2da-4206-9042-4e9023bb71dd,Ampliación del centro de almacenamiento de GLP en Pina de Ebro,other,49.5,m3/h,,2025-06-19 15:41:19.139398,2025-06-19 15:41:19.139404
+dfede9f8-578e-4dd0-805c-53a95065a69e,Instalación fotovoltaica de autoconsumo sin excedentes de la estación de bombeo del Sector VIII.1,generation,2.33592,MWp,,2025-06-19 15:39:09.310066,2025-06-19 15:39:09.310073
+ec5770ad-cb26-400f-b60c-52d243febaf1,Talavera de la Reina 5 MW,generation,4.9572,MWp,,2025-06-19 15:43:12.244138,2025-06-19 15:43:12.244146
+47d5c7e4-59c8-43d3-a6b6-d129d4eb647a,Planta Solar Fotovoltaica Improving,generation,45.0,MWp,,2025-06-19 15:37:28.642668,2025-06-19 15:37:28.642678
+af91902e-bbf6-4093-a748-242b08dac252,Planta Solar Fotovoltaica LEDA,generation,8.918,MWp,fd26196b-028b-43f7-8c73-9417dec0eea4,2025-06-19 15:41:08.173892,2025-06-19 15:41:08.173903
+ae8d486b-1df8-4ec2-9022-59c6c4b9856b,Carpio de Tajo,generation,46.2,MW,,2025-06-19 15:26:51.056941,2025-06-19 15:26:51.056948
+a358ebfa-3bd6-47bd-887f-5332c858fdb4,Andresina,generation,24.9,MWp,,2025-06-19 15:25:20.726106,2025-06-19 15:25:20.726112
+be014e31-dd85-4a7a-bb17-f96c6003c3bc,Granada Solar 167,generation,50.0,MW,,2025-06-19 15:28:41.150596,2025-06-19 15:28:41.150603
+91c39408-1034-45cb-8b09-085077e5b9a6,Gil Martínez,generation,2.4,MWn,d56b43e6-76a7-4c79-b0ed-6fd68b4b4204,2025-06-19 15:36:26.243878,2025-06-19 15:36:26.243885
+317b8607-83e0-485e-b369-7a3c32b99e1e,Villanueva del Rey,generation,50.0,MW,f47d0779-d38e-4b5b-a646-92e4ccba11eb,2025-06-19 15:25:56.983064,2025-06-19 15:25:56.983070
+5b9c4c79-3fda-4633-b929-675552c6663a,Ampliación de la Subestación Caletillas a 220 kV,grid,220.0,KV,,2025-06-19 15:42:11.107964,2025-06-19 15:42:11.107978
+c96893d8-7dbb-4fc4-8aea-87803e9d5fb6,Parque eólico Oficus,generation,49.5,MW,21daa69d-1d24-4b47-b6df-e569bc504394,2025-06-19 15:28:19.380731,2025-06-19 15:28:19.380738
+192a3c6d-6357-412d-9dd3-e072cd04e873,"Ampliación y reforma de la subestación eléctrica a 45/15v, incorporando caseta de celdas primarias, centro de seccionamiento, sala de control de distribución eléctrica y almacén",grid,45.0,KV,,2025-06-19 15:34:54.827003,2025-06-19 15:34:54.827011
+117da3c5-767b-4370-931b-a79784425711,Mares 25,generation,4.99,MW,,2025-06-19 15:38:46.884015,2025-06-19 15:38:46.884022
+b75478a0-32ac-4110-a4f8-f443a5791b05,Huerto solar fotovoltaico para autoabastecimiento,generation,0.1,MWp,,2025-06-19 15:34:50.797420,2025-06-19 15:34:50.797428
+80003e89-3aeb-4279-a057-2b87fbab7863,El Vegón,generation,49.96,MWp,12155c45-01b6-4519-9470-9114feed250b,2025-06-19 15:31:07.538409,2025-06-19 15:31:07.538414
+9f4bd1cd-61a6-4459-9b88-ce194ef0987f,Planta Solar Fotovoltaica Cascabel,generation,3.06936,MWp,,2025-06-19 15:40:13.036967,2025-06-19 15:40:13.036973
+668bde6c-7c40-4eee-88bb-1b92abddfe8d,Planta Solar Fotovoltaica Guadame IV y Línea de Evacuación,generation,49.99,MWp,,2025-06-19 15:37:41.141070,2025-06-19 15:37:41.141077
+51a098ad-c2da-4875-92d7-f6f7f234530c,FV 2026,generation,0.5,MWn,,2025-06-19 15:43:52.528764,2025-06-19 15:43:52.528771
+c44eb076-c975-42d8-b46f-72a8eaf9119c,Caléndula,generation,,,,2025-06-19 15:35:02.414422,2025-06-19 15:35:02.414429
+aaa96f95-e911-4639-8565-e0250a7e3e83,Construcción de naves para almacenamiento de medios mecánicos y agua para sistema de nebulización y riego de minerales en explanada portuaria,other,1.0,m3/h,,2025-06-19 15:24:16.086407,2025-06-19 15:24:16.086413
+9c0bfde5-fdc4-4989-9bbf-304db7f12203,Instalación fotovoltaica de autoconsumo Can Canut,generation,0.55,MW,,2025-06-19 15:32:23.218631,2025-06-19 15:32:23.218638
+7c56ab18-db91-41c2-ba37-0cccd6c228f5,Infraestructuras compartidas PFot-724,grid,,,,2025-06-19 15:28:57.552937,2025-06-19 15:28:57.552943
+04b5d687-f09d-47f3-a9d6-c9161022418a,El Doblón,generation,48.438,MWp,c8004055-fc84-4170-a1ee-504f3b5a28c7,2025-06-19 15:39:20.764825,2025-06-19 15:39:20.764831
+c50bea76-9b0f-4ff9-9941-0656f13ecd00,"Nueva línea aérea media tensión conductor 94, AL1/22-ST1A (LA-110) y nueva línea subterránea de media tensión 20 KV, conductor RH5Z1 240 mm², entre LAMT CHARILLA y subestación MAZUELOS",grid,20.0,KV,,2025-06-19 15:28:16.291079,2025-06-19 15:28:16.291085
+46bc959b-e474-4f48-a84f-3b221930bef5,Valle del Sol,generation,49.96836,MWp,bed0cc05-96c0-4b08-a443-bf8e9fef61fc,2025-06-19 15:36:33.558513,2025-06-19 15:36:33.558523
+20e3360d-b262-4a9f-969d-5edb4866c3a7,Reforma de LAMT denominadas 'Riosa' y 'Granadilla' a 20 kV procedente de la subestación 'S. Marina',grid,20.0,KV,,2025-06-19 15:38:14.761517,2025-06-19 15:38:14.761524
+06565dd7-35d6-42db-97f3-d395cfc67861,Variante de línea aérea de alta tensión 132 kV Laspuña-San José,grid,132.0,KV,,2025-06-19 15:41:53.068222,2025-06-19 15:41:53.068228
+45da82ad-7418-4cdf-92c3-8ee1c465be08,Ampliación de la subestación Dragonera 132 kV. Nueva posición EvRE,grid,132.0,KV,,2025-06-19 15:27:36.825664,2025-06-19 15:27:36.825670
+0410ab30-34e8-49c5-b099-fcba59f6a650,Ampliación de la subestación Mezquita 400 kV,grid,400.0,KV,,2025-06-19 15:32:17.359318,2025-06-19 15:32:17.359324
+503aea92-724e-49fd-a5b2-cb327e2ee07d,Ojeador Solar,generation,59.02,MW,1a67dcba-e9f0-4c27-9d48-16c129cb8eb5,2025-06-19 15:29:12.035116,2025-06-19 15:29:12.035122
+09e76e3a-caf7-4d18-a307-8044096b205d,Alcornoque Solar,generation,47.16,MW,04d2d3f1-4b58-44c3-92f9-e3aa8e5b8587,2025-06-19 15:33:34.220932,2025-06-19 15:33:34.220940
+bfff63c6-1cbf-46a7-84a9-6a800136a857,HSF Aljarafe,generation,6.31,MWp,2af64d16-0e13-465d-bab9-1f7e76e5bb9e,2025-06-19 15:37:23.054952,2025-06-19 15:37:23.054957
+791527a9-eea0-4f81-81df-93fc634cc8e7,"Planta Solar Fotovoltaica Casa Grande 5,994 MWp y Línea de Evacuación Subterránea 20 KV",generation,5.994,MWp,dc88cdfa-a9dc-4261-90bf-fe5402ac15cb,2025-06-19 15:22:59.606789,2025-06-19 15:22:59.606795
+904771f3-86b8-44ea-864d-1644a1580fdc,Planta fotovoltaica 3 nudo Vilecha,generation,50.0,MWp,c2d55344-c665-4708-b4c9-a21053e32059,2025-06-19 15:34:22.848767,2025-06-19 15:34:22.848776
+68d887b2-737a-4be4-b9cc-40f7ee0dffec,LAAT 132 kV SE Santa Cruz-SE Monzón,grid,,,,2025-06-19 15:41:26.266277,2025-06-19 15:41:26.266285
+73a76919-186c-420d-b327-ee212e2e8c27,Subestación Montepino,grid,,,,2025-06-19 15:40:27.793386,2025-06-19 15:40:27.793391
+115a30ac-da3a-4062-9b32-a9803247f3be,Puertollano 2,generation,50.0,MW,980ca2f3-5113-41cb-820b-5acd96d6f626,2025-06-19 15:45:08.420359,2025-06-19 15:45:08.420364
+40ba5b77-7991-456b-a6c3-baf0bffa3246,Instalación fotovoltaica Comunión I,generation,4.995,MWn,5c48a649-1961-44d5-b788-eee99f811b30,2025-06-19 15:23:41.119875,2025-06-19 15:23:41.119881
+77a0866b-3e4b-4244-9c34-376a4eef7043,Parque eólico Aequitas,generation,36.0,MW,a788b7ac-ff75-402c-84fc-e62afcfa143d,2025-06-19 15:30:22.949768,2025-06-19 15:30:22.949775
+0063bbbd-af66-4f65-a161-40230d53f1b0,Parque eólico Suime,generation,26.4,MW,,2025-06-19 15:24:30.324651,2025-06-19 15:24:30.324658
+321029bd-dbda-4406-839a-cd201450f7ae,Ampliación y compactación STR La Plana,grid,30.0,KV,,2025-06-19 15:23:29.342097,2025-06-19 15:23:29.342102
+607f19b3-3568-4107-a89c-4daf5cee9bc2,Subestación Eléctrica Colectora Belinchón 400 KV,grid,400.0,KV,,2025-06-19 15:44:52.559926,2025-06-19 15:44:52.559933
+e7b9dac0-bd11-4b97-8b05-e35b32dac5cd,Parque eólico Cordal de Montouto Pando,generation,,,,2025-06-19 15:24:13.255096,2025-06-19 15:24:13.255102
+98371f04-a997-489b-b1a2-4264b98cffe4,Ampliación Subestación Porís 220 kV,grid,220.0,KV,,2025-06-19 15:42:11.986014,2025-06-19 15:42:11.986021
+0fd7abc5-c16b-4045-beda-e31f1227a00e,PE-637,generation,49.5,MWp,235bd848-6d2d-4d4f-8da1-72825bfcf201,2025-06-19 15:44:38.737358,2025-06-19 15:44:38.737396
+6e7c60f3-55d0-4090-84d6-6decb5136a0d,Línea aérea de alta tensión 132 KV entrada/salida SET Valdepilas,grid,132.0,KV,,2025-06-19 15:40:06.752780,2025-06-19 15:40:06.752786
+5a64aec9-f8a6-416c-bc28-e941a58e88d3,Lafotovol VII,generation,4.139,MWp,,2025-06-19 15:41:30.185528,2025-06-19 15:41:30.185535
+5c7f9b11-d169-447d-a214-869a846fbafa,Planta fotovoltaica en Coca de Alba,generation,1.0,MW,,2025-06-19 15:33:57.377037,2025-06-19 15:33:57.377043
+c242054e-0630-4234-ad67-e8cc77a7bc8c,Corral del Molino I,generation,23.2,MW,a4ad77f5-0f8c-4250-a470-4750c35c0190,2025-06-19 15:36:36.215960,2025-06-19 15:36:36.215966
+1de63850-202e-43da-ac75-b8cd2fde634b,Ampliación SE Pobla,grid,16.0,MW,,2025-06-19 15:26:22.277092,2025-06-19 15:26:22.277098
+075fa330-6445-41ac-98f4-00aa591c06a9,Instalación autoconsumo fotovoltaico en Granja de ovejas en Lumbrales,generation,0.001,MW,,2025-06-19 15:33:52.883109,2025-06-19 15:33:52.883116
+03a74227-9b26-439f-9eb4-2bf999d0b9c5,Planta Solar Fotovoltaica para Autoconsumo con Conexión Interior en Higuera de las Dueñas,generation,0.1,MWp,,2025-06-19 15:34:06.645603,2025-06-19 15:34:06.645611
+3f17985f-fdd5-4ed0-b35b-0a8f9b11c249,Nuevo trazado para enlace aéreo entre la subestación Labarces y las L.A.A.T. CABEZÓN-VALDÁLIGA y S_VICENTE-CABEZÓN 1,grid,20.0,KV,,2025-06-19 15:23:31.474144,2025-06-19 15:23:31.474149
+983908d6-c141-41da-822d-29e720fbd98e,Cruceta Solar,generation,50.09,MWp,9c5cd74b-d54c-4f2d-9ff9-ba4548c45281,2025-06-19 15:27:20.728853,2025-06-19 15:27:20.728858
+0ba6bdbf-ec69-45ab-8faa-7705b79b860c,Planta fotovoltaica Benejama-Rotonda 1,generation,57.53,MWp,,2025-06-19 15:26:11.822028,2025-06-19 15:26:11.822035
+339ffc28-4b59-4231-975e-5a5370e88643,ISF Berja,generation,27.3,MWp,,2025-06-19 15:37:34.168747,2025-06-19 15:37:34.168753
+7f95df3e-cd18-4bb8-9ef2-2fefa30f2614,Arroyo Caballo,generation,20.0,MWn,,2025-06-19 15:39:07.694378,2025-06-19 15:39:07.694385
+393b727a-396f-4ce9-8478-fad7876d361a,Lucero,generation,,,fb5e835e-3fb6-4c8f-93a2-e7e5742d7834,2025-06-19 15:24:57.915391,2025-06-19 15:24:57.915397
+8aa6ca0f-2a7f-4af3-b3ec-f883745ede1b,San Cristóbal,generation,60.0,MW,97bca008-ca3f-4bab-926d-27c3f952b076,2025-06-19 15:28:21.986367,2025-06-19 15:28:21.986373
+b7c78f47-aa0e-4aa1-b7a1-5b587be5264e,Tabernas Solar 2,generation,49.99527,MWp,1fd1b040-d558-4486-b95b-9a4f688c6cda,2025-06-19 15:37:35.682139,2025-06-19 15:37:35.682145
+34544e06-709a-432c-8c3b-125d7e016bfd,Parque eólico Outeiro Grande,generation,18.0,MW,27df1d9e-b8cb-471e-a6a4-2108c443ef5b,2025-06-19 15:23:48.624455,2025-06-19 15:23:48.624460
+6cfc3eb1-0595-4f75-88c2-31d5d82bd611,Parque Eólico El Cortijo y Línea de Evacuación,generation,,MW,,2025-06-19 15:37:34.355256,2025-06-19 15:37:34.355262
+e1f9273b-fc1d-4f71-b9dc-9d56a6bb6072,parque eólico Merendón,generation,21.0,MW,,2025-06-19 15:23:50.340214,2025-06-19 15:23:50.340220
+cd851862-a406-4d31-b337-de0182073d0b,T1 y T2 de dos instalaciones fotovoltaicas,generation,1.0,MWp,,2025-06-19 15:34:36.642386,2025-06-19 15:34:36.642402
+3fb2bbd7-e8e3-442e-bd3d-cfbf36ab234c,PS Esporc Sils,generation,1.708,MWp,,2025-06-19 15:35:31.975655,2025-06-19 15:35:31.975660
+2422251b-3d38-4005-8938-ecd1b70b1d31,Centro de almacenamiento de GLP y red de distribución en Baqueira,other,118.8,m3/h,,2025-06-19 15:26:30.852765,2025-06-19 15:26:30.852770
+fccc8b9d-e76d-4090-837c-3b284339cd1f,BESS Hibridación del Parque Eólico Las Tricias,storage,9.0,MWh,,2025-06-19 15:42:14.236153,2025-06-19 15:42:14.236159
+2f454398-05a7-43cf-a8e0-e6b0f4674b9f,Reforma de varios tramos de línea aérea a 15 kV STR Casavieja - 02 Sotillo,grid,15.0,KV,,2025-06-19 15:34:44.179962,2025-06-19 15:34:44.179969
+96f1721f-1277-4ec9-8a93-887f3f12a34a,PSF-Torralba,generation,0.1,MW,,2025-06-19 15:43:56.819792,2025-06-19 15:43:56.819816
+a75734b0-806a-4c32-85ae-31cad93ec98f,Hiberus,generation,281.0,MW,74f5815d-5837-4d36-a47e-32942df756d7,2025-06-19 15:28:11.832356,2025-06-19 15:28:11.832363
+6bf6b277-fdd8-48cf-b0ad-4b091987be0f,"Anexo a proyecto de línea aérea media tensión 20 kV, desde Fresnedoso de Ibor a Castañar de Ibor",grid,20.0,KV,,2025-06-19 15:38:56.317263,2025-06-19 15:38:56.317270
+bb63a21b-e3eb-48c8-a38e-a17be51dcfdc,Parque Eólico Hoyalta,generation,50.0,MW,,2025-06-19 15:39:56.348638,2025-06-19 15:39:56.348643
+5f23698f-5561-4408-8a73-621adbad70a5,Instalación fotovoltaica Olmedilla Hive 169 MW,generation,169.0,MW,,2025-06-19 15:31:50.526666,2025-06-19 15:31:50.526676
+5495e764-8f02-4b37-9fca-4cc83b4336fe,Centro de almacenamiento de gas propano del polígono industrial de Erla,other,10.0,m3/h,,2025-06-19 15:42:03.861468,2025-06-19 15:42:03.861475
+2d260d56-a6e8-4bd8-a3b0-2788c5a8f83d,Quintanilla,generation,,,,2025-06-19 15:35:05.602554,2025-06-19 15:35:05.602563
+20974781-4f37-4618-b4c9-7059a8e5b934,Parque eólico Lantueno,generation,45.0,MW,3772be60-a8ca-4df5-aa75-802b7b521c5e,2025-06-19 15:23:31.640552,2025-06-19 15:23:31.640559
+1cb211c3-7a9b-4343-af89-32e5fe63fcd1,Bierzo 3,generation,50.0,MWp,be1b037d-df9a-488e-a40d-2fe25d6d2308,2025-06-19 15:32:34.726124,2025-06-19 15:32:34.726180
+454eeff7-7483-467e-ad01-0563f9859d3f,Portalrubio,generation,31.0,MW,62a3d5da-f8aa-4b33-8713-de11512ac5ab,2025-06-19 15:40:43.732292,2025-06-19 15:40:43.732299
+17fe9dc8-0379-41d3-baad-16bea1e0762c,Parque eólico experimental Las Brañas,generation,4.5,MW,,2025-06-19 15:35:11.727992,2025-06-19 15:35:11.727999
+74cbfe90-2e25-4f92-bf14-4e8314110778,PSF Andrómeda I,generation,49.68,MWp,3d577fd4-0611-48e9-bb38-0aad2a4aca4d,2025-06-19 15:37:40.781309,2025-06-19 15:37:40.781317
+b71535c1-e5b5-4045-bed6-07dd7c3e8b87,"Subestación Anchuelo, ampliación parque 400 kV (posición AT-1)",grid,600.0,MW,,2025-06-19 15:29:56.924854,2025-06-19 15:29:56.924860
+92d4e4ad-3b06-482f-bd33-0804135d91ff,Parque Eólico Contrebias 2,generation,49.4,MW,,2025-06-19 15:42:00.582392,2025-06-19 15:42:00.582400
+5a7f809c-d8c0-4bf3-aac8-872c272bfd35,Valdelitera,generation,5.985,MWp,8eed0d8a-009b-4229-9888-44c85dc84f92,2025-06-19 15:40:28.799726,2025-06-19 15:40:28.799733
+7e78d7b9-aa94-458c-8006-b5863b5f65c1,Campos de Córdoba XVI,generation,4.99,MWp,,2025-06-19 15:37:17.214210,2025-06-19 15:37:17.214218
+263e5742-8a46-4608-bc62-b23c1dd4ce3e,ST Fuente Hito,grid,66.0,KV,,2025-06-19 15:23:12.098830,2025-06-19 15:23:12.098835
+68cb5385-d2ad-4804-bd30-397dc64feab2,Parque eólico Cabecero IV,generation,36.6,MW,198d0b00-a251-45d8-bd8c-b0f058f1791b,2025-06-19 15:29:16.374941,2025-06-19 15:29:16.374948
+f8465cad-2fce-4458-b5da-5aa93f918afd,"Saneamiento de la Janda: Colectores Generales, Estación de Bombeo y EDAR conjunta de Barbate-Zahara de los Atunes",other,1.0,m3/h,,2025-06-19 15:32:17.746535,2025-06-19 15:32:17.746541
+95435d31-06ba-42cb-9b3b-2195558375c7,Elawan Manzanares I,generation,35.7604,MWp,b77660c9-3524-44dd-bb1a-379f01ad8409,2025-06-19 15:44:59.013429,2025-06-19 15:44:59.013435
+2dd840c3-f59c-4d99-8160-9aa066480cd0,PSFV Els Rasos,generation,25.005,MWp,c43c2f29-0c97-4cfe-ada5-e24890d42fa9,2025-06-19 15:36:04.674413,2025-06-19 15:36:04.674421
+c1d936c3-9812-423f-b3aa-316e240ef874,Castillo del Cid IV,generation,0.784,MWp,,2025-06-19 15:45:08.516388,2025-06-19 15:45:08.516398
+0c8cfad5-6181-40c5-99d3-d0afad2da05e,"Entrada y Salida en Alange de Bienvenida- Almaraz CN 400 kV, circuito 1",grid,400.0,KV,,2025-06-19 15:30:51.188953,2025-06-19 15:30:51.188958
+049f31c9-7802-4f2c-9509-789723ff36ff,Daimiel Sol,generation,3.82,MWp,,2025-06-19 15:44:21.582533,2025-06-19 15:44:21.582561
+ba7cb2eb-7192-4b0c-94cf-fd674dd5cc21,Ampliacion FV Boned Vicién,generation,0.88635,MWp,cbb43736-97af-439b-afc5-5858197d23fb,2025-06-19 15:41:33.874144,2025-06-19 15:41:33.874149
+5e921a05-1113-4a13-aef1-f792a1574f3e,PS General d'Olis i Derivats,generation,1.8252,MWp,9647209d-ea55-44fc-adf8-8863dbfb5d9a,2025-06-19 15:36:16.200998,2025-06-19 15:36:16.201008
+f7bbb346-3c39-4025-80d3-a4a1ddca9681,Planta Solar Fotovoltaica Tibicenas,generation,1.3,MW,,2025-06-19 15:24:46.179486,2025-06-19 15:24:46.179493
+b1f1801b-6af2-4360-a8ac-91c96bf873d3,Infraestructuras de evacuación SET Las Caleras - SET Pisón,grid,220.0,KV,,2025-06-19 15:41:28.744992,2025-06-19 15:41:28.744998
+a7479ebf-b704-4e2c-b63c-87443a247596,Parque eólico La Vacada VI,generation,42.3,MW,198d0b00-a251-45d8-bd8c-b0f058f1791b,2025-06-19 15:29:18.829642,2025-06-19 15:29:18.829649
+8dc31a3a-2c3b-4687-8fa0-e6bd2e978f85,Reforma LAMT 15 kV Torla,grid,15.0,KV,,2025-06-19 15:40:08.539950,2025-06-19 15:40:08.539955
+ff7e8f26-9002-45ac-b4b2-3d364df729f5,Jaca I Ampliación,generation,0.41865,MWp,,2025-06-19 15:39:39.514163,2025-06-19 15:39:39.514169
+9666d473-1070-40b7-bdf4-e7ad1897de7d,FV Hibridación P.E. El Ruedo,generation,1.0,MW,,2025-06-19 15:37:20.456820,2025-06-19 15:37:20.456827
+b6511f31-8465-4557-bb07-9c9ca1442b46,Parque eólico Borrasca,generation,84.0,MW,5ca8a6a3-e5ef-4870-96aa-315e05e756f7,2025-06-19 15:31:09.203024,2025-06-19 15:31:09.203029
+78bf4fd1-8693-47ea-bc09-4b151d4d07a9,PE La Bechida,generation,84.0,MW,695e9c95-4033-42a0-80d6-5a51be157f91,2025-06-19 15:27:34.349971,2025-06-19 15:27:34.349978
+7472948b-42e1-4fda-965e-b8c32f36315a,parque eólico Monte Inxeiro,generation,41.6,MW,,2025-06-19 15:24:16.295794,2025-06-19 15:24:16.295800
+81cbce4f-b1e8-4928-817f-630745c2b39a,FV Hincadas,generation,0.5,MW,,2025-06-19 15:44:02.858385,2025-06-19 15:44:02.858395
+9ce5eb1b-7b23-4a51-b5cf-ba6de34ad99f,Instalación solar fotovoltaica conectada a red de 500 kW,generation,0.5,MWp,,2025-06-19 15:44:00.825666,2025-06-19 15:44:00.825674
+8c8e72ce-0e8f-4547-9656-eaaac3de6b20,PFot-790 AC,generation,129.08,MWp,0e10e22f-a7d6-477a-9f16-30776367cb90,2025-06-19 15:24:43.860602,2025-06-19 15:24:43.860610
+885cb62e-648a-4fe7-b68f-57ee3de26f39,FV Elawan Ayora II,generation,31.46,MWn,913bf83c-a978-43a8-8b76-fb9cb654f245,2025-06-19 15:36:31.848196,2025-06-19 15:36:31.848204
+81f05470-5a4d-4e55-aba1-afe20d8358ba,Parque Eólico Cantoblanco,generation,49.6,MW,033cdaa0-6e87-4c85-b311-0de1065648b9,2025-06-19 15:23:39.700464,2025-06-19 15:23:39.700470
+3d585bd3-4676-4a20-931e-8a4651827032,El Espartal II,generation,4.0,MWn,4fdd1a4c-cba1-4b2a-bf49-6b1a98a758cd,2025-06-19 15:40:45.839878,2025-06-19 15:40:45.839883
+259fd302-de2e-4d8b-9a9f-109290b384c6,Valdejalón II,generation,5.7,MWp,e99e84b4-643a-408d-b41e-b6a8ee8474a5,2025-06-19 15:41:03.408328,2025-06-19 15:41:03.408335
+3bc0cbf1-70ea-4c13-9297-2e8923bb23f4,LAAT 220KV SET Valdompere - SET Fuentes,grid,220.0,KV,,2025-06-19 15:39:35.254832,2025-06-19 15:39:35.254837
+0313a1fd-d95f-4d61-befb-cad884c1f6d6,Variante de línea aérea de 45 kV a Polígono Industrial Borao,grid,45.0,KV,,2025-06-19 15:41:55.333965,2025-06-19 15:41:55.333970
+7e813d66-0dbc-473a-a50f-f15869fbbcc1,PS Pla del Corb,generation,29.988,MWp,,2025-06-19 15:36:09.694714,2025-06-19 15:36:09.694721
+c48b1105-7789-4176-b95d-9e9d1fa3b132,MIRABAL_0,generation,105.0,MWp,597ad670-ca14-4255-997a-508a97effe34,2025-06-19 15:28:15.825387,2025-06-19 15:28:15.825393
+b5fee911-4703-437f-b566-59231d9a8b83,Parque eólico Piago,generation,27.6,MW,6201ee07-d93e-483c-bc58-cc1505a63333,2025-06-19 15:24:04.961796,2025-06-19 15:24:04.961801
+fcd70799-4a96-4f96-a174-4201510c1c4c,FV Zamoranas Almeida,generation,0.25,MWn,,2025-06-19 15:35:16.391413,2025-06-19 15:35:16.391420
+0d173f42-3ada-44ba-ab77-44862fdc8ce3,FV Fuente Álamo 1,generation,49.6,MWn,,2025-06-19 15:22:38.450870,2025-06-19 15:22:38.450877
+0517b4c3-9817-4944-882d-46b69bf17199,Parque Eólico Miritxa,generation,27.0,MW,,2025-06-19 15:23:33.095010,2025-06-19 15:23:33.095016
+f7354108-abd5-4612-94db-3697256532f7,Parque Fotovoltaico Casafuerte VIII,generation,37.5,MWp,d65ad7a7-da5c-4e18-910b-1b67bca2366c,2025-06-19 15:37:48.367652,2025-06-19 15:37:48.367660
+7b4c206f-53a0-4aed-9215-0f981d6be321,Abarloar Solar,generation,87.5,MWp,c2210a7d-e88f-4458-a71b-b622148e0815,2025-06-19 15:25:36.397417,2025-06-19 15:25:36.397424
+022d33d4-9e1a-4fb6-afa4-a720ff31ba07,Parque eólico Mefitis,generation,33.0,MW,f379b4a3-c075-4805-9790-ea261864022c,2025-06-19 15:27:57.217693,2025-06-19 15:27:57.217698
+dd5f399f-149b-4d0c-b413-e638173ef256,Subestación O Barco de Valdeorras 132/20/15 kV sustitución T-I y nuevo transformador T-III,grid,132.0,KV,,2025-06-19 15:24:29.819673,2025-06-19 15:24:29.819679
+96951eb8-1d0e-4ea6-b7a3-b12b5be846ae,Parque eólico caseta del pintor,generation,36.0,MW,,2025-06-19 15:36:26.979881,2025-06-19 15:36:26.979887
+045c6822-79e2-42af-84fd-67d21055f87a,Roblasun 3,generation,30.61632,MWp,f767eeb7-b683-481d-a36d-7e67840629ad,2025-06-19 15:34:32.637835,2025-06-19 15:34:32.637873
+577c1bad-368a-4a0e-bf53-e81fd3abbb91,Parque Solar Fotovoltaico Tudela 2 (GEV),generation,28.9,MWp,,2025-06-19 15:37:16.505021,2025-06-19 15:37:16.505029
+85c71989-c917-43ac-8648-20d525433fa5,Ejecución de la línea aérea de transporte de energía eléctrica a 220 kV simple circuito. Modificación de la línea Almaraz ET-Plasencia 1 en el tramo T-24 - T-28,grid,220.0,KV,,2025-06-19 15:39:03.697384,2025-06-19 15:39:03.697390
+95cce444-be9d-434d-afa2-9a4fd07e9556,Parque eólico Gamonal,generation,50.0,MW,,2025-06-19 15:35:10.322695,2025-06-19 15:35:10.322703
+c8b9ee20-7aee-45fa-ab22-3103265ac1d5,"Projecte d'instal·lació de planta solar de 100 kW a l'estació de bombament EB3-4 de primeres etapes (I, II, III) del regadiu del Garrigues Sud",generation,0.1,MW,,2025-06-19 15:36:12.052325,2025-06-19 15:36:12.052332
+c4fb5d04-d7ff-47d6-8146-a8f06297941f,PE Tallisca,generation,,,832d7051-a69d-491f-9367-e6b37e1156de,2025-06-19 15:28:02.832093,2025-06-19 15:28:02.832099
+0bf2c692-358f-4399-bf47-2911a031af39,Planta solar fotovoltaica Andújar I,generation,39.99996,MWp,835916be-b033-4297-bcdf-3d66db025f31,2025-06-19 15:31:30.151202,2025-06-19 15:31:30.151209
+9e976837-70c1-4595-b498-1dd39423f9ca,PEol-FV-119,generation,10.89,MW,390be6a1-609a-4be1-bbea-8c0d88fdcd1e,2025-06-19 15:30:35.512796,2025-06-19 15:30:35.512802
+7fbf83fb-d92d-4d32-8e70-35a053d67263,El Boyal,generation,3.9,MWp,fd26196b-028b-43f7-8c73-9417dec0eea4,2025-06-19 15:39:36.963090,2025-06-19 15:39:36.963097
+82fc199a-11ec-4692-b7a7-f5a45127cd24,Proyecto de Actuación Especial para actividad de producción y almacenamiento de mortero seco,other,,,,2025-06-19 15:23:12.317409,2025-06-19 15:23:12.317415
+38bde8c9-ac1e-493a-b437-8c5575864aa6,Planta Fotovoltaica para Autoconsumo sin excedentes,generation,1.0,MWp,,2025-06-19 15:34:46.927536,2025-06-19 15:34:46.927543
+388fcc7c-ff2b-4378-b85e-9102f61f5a79,HSF HERACLES,generation,41.415,MW,,2025-06-19 15:26:08.647723,2025-06-19 15:26:08.647730
+8448547f-f2b6-4856-9c6d-f1159e24aefc,parque eólico Batifol,generation,12.47,MW,,2025-06-19 15:24:06.785113,2025-06-19 15:24:06.785120
+14694aa7-4e45-4ca6-a282-db604224ef18,Guillena 1,generation,,,3d577fd4-0611-48e9-bb38-0aad2a4aca4d,2025-06-19 15:30:56.855322,2025-06-19 15:30:56.855330
+49164de3-5ad6-4773-b837-3c9df8c044d0,Mejostilla FV 5,generation,4.99,MWp,,2025-06-19 15:38:21.746944,2025-06-19 15:38:21.746952
+0a1ac4d9-c118-441d-8501-b580ed40dd20,Planta Solar Fotovoltaica 229 MWp,generation,,,,2025-06-19 15:42:37.351873,2025-06-19 15:42:37.351881
+d8e428c5-70db-4453-b189-d171033f7343,PFot-1134,generation,115.0,MW,62a3d5da-f8aa-4b33-8713-de11512ac5ab,2025-06-19 15:27:09.588604,2025-06-19 15:27:09.588609
+72cc84b9-6dbb-4465-b696-294b05364778,Ampliación subestación de Rubí,grid,400.0,KV,,2025-06-19 15:27:40.380830,2025-06-19 15:27:40.380837
+c077fb2b-3f1d-4e4f-b7df-25b3ec4b7902,Parc solar fotovoltaic Amepersol 1,generation,34.53,MWp,,2025-06-19 15:36:17.342754,2025-06-19 15:36:17.342760
+2c98955b-252c-4159-852c-70448eafe9cc,Veredilla FV3,generation,1.821,MWp,,2025-06-19 15:42:52.068210,2025-06-19 15:42:52.068226
+27e7c3e3-44dc-4e7c-91ad-3f92bb42ece6,HSF Huévar de Aljarafe,generation,6.38064,MWp,,2025-06-19 15:37:23.196683,2025-06-19 15:37:23.196689
+8aeb071a-4391-4663-909c-6c0e8d97d487,PE Circonio,generation,26.5,MW,62a3d5da-f8aa-4b33-8713-de11512ac5ab,2025-06-19 15:40:44.528011,2025-06-19 15:40:44.528016
+0674e97a-b2aa-4381-b25b-f76fed640795,Central Solar Fotovoltaica Los Alcázares 2,generation,2.184,MWp,,2025-06-19 15:23:00.845033,2025-06-19 15:23:00.845039
+b0fde708-7ca4-43dd-8e20-e947459fa65b,PSFV Orquídea,generation,11.0808,MWp,21eed1d2-d9fc-4986-92bc-4ffb4782d0fd,2025-06-19 15:34:07.314247,2025-06-19 15:34:07.314252
+61a22ded-b94b-42d8-9b49-05705f98d40e,PE El Corral,generation,29.2,MW,695e9c95-4033-42a0-80d6-5a51be157f91,2025-06-19 15:27:34.184947,2025-06-19 15:27:34.184953
+6c8204af-5a37-4f3b-a193-26e385c5e101,PE Asia 1,generation,4.99,MW,,2025-06-19 15:36:53.060820,2025-06-19 15:36:53.060833
+f5a98288-724a-4753-a917-56ddfa8d20ba,Hibridación PE Pitarco C,generation,12.0,MW,,2025-06-19 15:40:34.033137,2025-06-19 15:40:34.033142
+242462f4-1daf-4c47-acd8-8b7ceb767389,Centro de seccionamiento CD SEVA AUXILIAR EAEC270,grid,24.0,KV,,2025-06-19 15:26:56.668979,2025-06-19 15:26:56.668988
+2f7fda20-0daf-48e1-91a7-7ad622eb5ca9,Planta Fotovoltaica Escatrón Rotonda 3,generation,,,,2025-06-19 15:41:34.851015,2025-06-19 15:41:34.851020
+15699d50-4cdb-4d5e-beae-5072a57d451f,Las Prietas,generation,6.20568,MWp,,2025-06-19 15:23:09.670538,2025-06-19 15:23:09.670543
+ee10cdb3-40e6-412a-bc89-0f8ef2d194f4,Subestación eléctrica S.T. Lavanderas,grid,66.0,KV,,2025-06-19 15:23:08.651219,2025-06-19 15:23:08.651226
+4057439e-5e58-43bd-9bd0-3b99eceb506f,HSF Alcalá de Guadaira II,generation,,,ef85d337-cf71-47ad-8af4-506a38a21ed4,2025-06-19 15:32:07.059730,2025-06-19 15:32:07.059737
+35acde2b-683b-4dfd-bda1-f029930e8ba1,PFV El Coto,generation,15.58,MWp,,2025-06-19 15:41:04.035154,2025-06-19 15:41:04.035159
+f9e0e519-62d5-4d80-8e4a-69c9337eacf6,Modificación ST Los Berrocales,grid,132.0,KV,,2025-06-19 15:23:10.377321,2025-06-19 15:23:10.377326
+f5827b39-5d75-4f35-9542-c5cf3b01004c,Proyecto de adecuación y reforma de LAMT Nívar Subestación Fargue,grid,20.0,KV,,2025-06-19 15:37:39.667425,2025-06-19 15:37:39.667432
+10f83f45-db1f-4b6f-9f8b-3cee48e77581,Parque Eólico Angus,generation,56.0,MW,c8b935e9-a2ed-43b1-a73c-9d732463918e,2025-06-19 15:29:33.381075,2025-06-19 15:29:33.381082
+19eb2655-b715-481e-bc85-400b276f7cae,Larral,generation,54.9822,MWp,,2025-06-19 15:40:18.768070,2025-06-19 15:40:18.768078
+260973f8-418a-4baf-9707-850444b69e7e,Planta Fotovoltaica Híbrida Sierra del Boquerón,generation,21.45,MWp,,2025-06-19 15:43:27.530661,2025-06-19 15:43:27.530669
+6372f095-0241-4861-b926-8f63d1956a5e,Parque eólico Mizar,generation,20.6,MW,309906cd-85d0-4779-b82c-989f5e6bac9c,2025-06-19 15:28:14.477137,2025-06-19 15:28:14.477143
+73203e79-3857-4787-9730-46d901aafc80,"PSF Selva 3,00 MW",generation,3.28104,MWp,,2025-06-19 15:22:26.789442,2025-06-19 15:22:26.789449
+684558ed-9357-4c83-89b7-efafa76e9845,Lorbes,generation,50.0,MW,a4ad77f5-0f8c-4250-a470-4750c35c0190,2025-06-19 15:28:55.702440,2025-06-19 15:28:55.702447
+0dc3c293-58dc-4c03-abb0-4e207eec4893,Los Cinco Océanos 4,generation,4.9,MWp,437a5814-31f8-4f20-9941-86265376b7e5,2025-06-19 15:38:46.974570,2025-06-19 15:38:46.974576
+2db5b1b7-bf77-47ff-b381-f27651dc5a7d,LAAT SET Canteras IV-V SET María Promotores,grid,220.0,KV,,2025-06-19 15:41:30.785706,2025-06-19 15:41:30.785712
+7540f45e-bc5b-4260-80a7-ee52f07dd7ae,Fotovoltaica Saucelle,generation,0.62426,MW,,2025-06-19 15:35:01.285090,2025-06-19 15:35:01.285097
+9241f3a4-b55f-4b2a-b3bb-c7bf1f78f47a,Solana I,generation,4.5,MWn,27e4ef63-d46c-4382-aae2-9e932668ff8d,2025-06-19 15:32:04.246978,2025-06-19 15:32:04.246989
+3fe6beb4-0639-49a5-87ac-58914ff54f60,Balsa de almacenamiento temporal de lodos,other,1.0,m3/h,,2025-06-19 15:33:44.516102,2025-06-19 15:33:44.516110
+c396823f-5e51-4ccb-8a31-38ac9900f491,Bardina 1 y ampliación,generation,12.6,MW,,2025-06-19 15:41:02.059122,2025-06-19 15:41:02.059128
+4425c0e1-a2e8-4d9a-94f5-ebcbcc034043,Parque eólico Forfoleda,generation,8.0,MW,e51ed979-7b3d-4691-918f-4ab4eae7d34b,2025-06-19 15:34:04.423551,2025-06-19 15:34:04.423556
+5abfd2ea-8915-47bc-898d-9c6f0a8db6bc,PSFV Los Milanos,generation,4.29,MWn,,2025-06-19 15:36:24.457542,2025-06-19 15:36:24.457548
+225dfc26-8d88-45eb-83d9-56e4d50a3ba0,PSF TWINHOUSE,generation,1.0,MW,0a5ddd42-ce1a-4a44-ad28-5fa986c63b14,2025-06-19 15:36:23.414456,2025-06-19 15:36:23.414463
+b8de8331-94d7-4a36-9324-183c16a7cca1,Parque fotovoltaico para bombeo de agua potable de Alloza,generation,0.1,MW,,2025-06-19 15:41:17.213006,2025-06-19 15:41:17.213013
+ce6399ae-81e2-4388-b6be-9e04be36c4ed,Parque eólico Páramo de la Mesuca,generation,15.0,MW,,2025-06-19 15:35:03.977270,2025-06-19 15:35:03.977277
+cd354e4e-01bc-4957-9822-7b4f7e1094d5,Línea de alta tensión a 132 kV desde la subestación de Ludrio hasta la subestación de San Cibrao,grid,132.0,KV,,2025-06-19 15:24:17.996288,2025-06-19 15:24:17.996294
+ef63003e-73c6-4e28-aeed-ff7f4fc75811,Hibridación HFV Loma Viso II,generation,3.0,MWn,583bc1f9-7374-4d9f-97fa-34543474c806,2025-06-19 15:44:14.446245,2025-06-19 15:44:14.446252
+b6659c2b-dac8-4b3d-9b19-caac1edff57d,"Línea aérea a 13,2 kV simple circuito de cierre 'Antena Bañares y San Torcuato'",grid,13.2,KV,,2025-06-19 15:38:00.391489,2025-06-19 15:38:00.391499
+da3c36ad-bde8-4065-b5ee-d46e43451e1d,"Uso industrial para campa almacenamiento de vehículos y maquinaria, con instalación de grúa torre fija",other,1.0,m3/h,,2025-06-19 15:45:16.572079,2025-06-19 15:45:16.572084
+620527b1-12e9-4b6e-b02a-5385de456104,Las Quinientas,generation,109.5039,MW,5d25501f-e5be-4437-874f-45559516b9f3,2025-06-19 15:32:08.016090,2025-06-19 15:32:08.016098
+fd4d5ab0-4198-48d6-95c2-71eabce319e3,Zaurro,generation,0.5,MWn,880d1525-a7a7-470a-bbff-3239e0a883d2,2025-06-19 15:40:33.747101,2025-06-19 15:40:33.747108
+6cf73e92-46d2-4937-94fc-6b1453313eaf,Planta solar fotovoltaica 2100 kW FV Landesol,generation,2.1,MWp,,2025-06-19 15:43:41.817185,2025-06-19 15:43:41.817194
+4dc1cd8d-ee58-43fd-ab61-f18c7cf469bd,Virgen de Fátima,generation,4.0,MW,b30e9032-396b-4c19-9251-adb4aafb9e91,2025-06-19 15:39:42.692446,2025-06-19 15:39:42.692453
+ba6fec7c-95a7-4352-a9e0-70cf399afac0,Nueva subestación Puerto Sevilla,grid,125.0,KV,,2025-06-19 15:27:09.372598,2025-06-19 15:27:09.372605
+24a7682c-c7f5-459f-bf9e-9e4c425dd424,"Sustitución de centro de transformación de intemperie sobre apoyo 'Alagón 1' n.º 140300100 por un CT prefabricado de superficie tipo EP-1T, así como desdoblamiento de la línea aérea media tensión-4854-3 'Coria' de la STR 'Coria 1'",grid,13.2,KV,,2025-06-19 15:38:38.521909,2025-06-19 15:38:38.521915
+124b376a-72c1-4b22-898f-a7dbabb4f7b2,Línea aérea de media tensión y centro de transformación Castejón de Sos,grid,20.0,KV,,2025-06-19 15:41:53.213430,2025-06-19 15:41:53.213436
+1d211fee-7ce3-4b5e-87f3-0c2228c96e60,"Línea a 132 kV aérea-subterránea, doble circuito, entre la subestación Puerto del Rosario y la subestación Gran Tarajal",grid,208.0,MW,,2025-06-19 15:31:49.492898,2025-06-19 15:31:49.492906
+721b4739-d4c7-40cf-9918-44455537d825,"Reforma de línea aérea de 13,2 kV «04-Tábara» de la S.T.R. «Losacio»",grid,13.2,KV,,2025-06-19 15:34:01.254110,2025-06-19 15:34:01.254115
+df1752e4-1f1b-42e6-8be6-a0cef504822b,Parque eólico Merindad,generation,40.0,MW,,2025-06-19 15:34:58.974521,2025-06-19 15:34:58.974529
+a214ecaf-f5fe-419a-ab7b-0625957a3822,Trespuntas I,generation,46.8,MW,0c000bbb-9c42-490d-998e-72b6ff6e3f45,2025-06-19 15:31:02.725473,2025-06-19 15:31:02.725481
+4cee96f3-66e9-4b91-be6a-17a318247d5e,HSF Parque Solar Aznalcóllar,generation,49.9,MWp,,2025-06-19 15:37:36.987029,2025-06-19 15:37:36.987035
+0e8da629-5643-4b06-8b2b-caa141f08666,Valdemoro VI,generation,49.95,MWp,d8e97cb7-0d41-477e-9d3c-35f60909d5fa,2025-06-19 15:25:16.741569,2025-06-19 15:25:16.741575
+b0750ac6-e9bf-4d87-8fd4-baef175e4250,Parque de Baterías Fragonia Siero,storage,41.23,MW,191afeb4-cc53-4584-8583-94e914691e53,2025-06-19 15:35:29.861383,2025-06-19 15:35:29.861389
+cd5d03a3-e554-4dba-a6a0-a52c398a09a2,FV Monclues,generation,11.682,MWp,,2025-06-19 15:35:49.530806,2025-06-19 15:35:49.530814
+6d9112bc-e2d0-4b5e-8934-45e13c3b8f99,SOLAR FOTOVOLTAICA HURIAMEN III,generation,5.0,MWn,b8933da8-8abb-4660-b4f3-36e3fe380973,2025-06-19 15:32:07.735824,2025-06-19 15:32:07.735831
+d0ffb94a-f577-4fd9-8864-4d9b0eb2c438,Hibridación FV Reventones,generation,26.195,MWp,,2025-06-19 15:23:03.582936,2025-06-19 15:23:03.582943
+79459ee6-554f-446f-9e48-dacbe7aa23d6,Instalación planta solar fotovoltaica denominada Paperos,generation,0.999,MWp,,2025-06-19 15:45:07.971797,2025-06-19 15:45:07.971805
+571a779d-bd1b-45bd-b3b6-0888ff465608,Milano Solar,generation,50.0,MWp,7c6a460c-5562-4962-8942-9b13772552f6,2025-06-19 15:33:06.728808,2025-06-19 15:33:06.728818
+acd0d36a-6f38-4124-99c7-b3cc5ac0160a,Casademont I,generation,0.991,MWp,,2025-06-19 15:36:19.813764,2025-06-19 15:36:19.813770
+9ec5b7fe-65c9-4b8e-a572-287bf3a8e5f4,Parque Eólico Armillas,generation,34.66,MW,,2025-06-19 15:39:40.021863,2025-06-19 15:39:40.021869
+e3a58a2b-415c-4d7b-9b16-fce4dd43c43f,El Madroño I,generation,4.9896,MWp,,2025-06-19 15:43:27.193757,2025-06-19 15:43:27.193762
+d9ef4401-d1bc-4790-a101-507f976e8260,Padornelo 3,generation,20.0,MW,ae4fea9e-1b2b-4194-821f-933dd8558b9a,2025-06-19 15:32:53.022165,2025-06-19 15:32:53.022175
+87c8321a-c1fd-4cca-8887-1e355dc50131,Parque eólico Menkar,generation,49.5,MW,21daa69d-1d24-4b47-b6df-e569bc504394,2025-06-19 15:30:37.717568,2025-06-19 15:30:37.717575
+dabae6d4-9feb-4588-908b-6396a1d9c04d,Zancones,generation,6.85,MWp,55b572a9-07fa-4480-ab6d-032be1b30a99,2025-06-19 15:38:20.898338,2025-06-19 15:38:20.898352
+ed115f2f-0270-4cc2-a3a0-72045f8c21b5,Lafotovol X,generation,4.139,MWp,,2025-06-19 15:41:30.541831,2025-06-19 15:41:30.541839
+424fdd4b-df82-4fc7-834d-1e0425eae2cd,Majadas Solar,generation,3.59,MWp,c49b5ac1-64b1-4173-aac5-d38667fe0953,2025-06-19 15:43:47.357013,2025-06-19 15:43:47.357027
+6862df5b-a4d8-4867-94d8-48cfe0685099,Hibridación Cuesta Colorada,generation,49.5,MWp,,2025-06-19 15:29:27.006399,2025-06-19 15:29:27.006406
+a5862711-fae9-4af9-b34c-970f891a6714,Línea aérea Mas Figueres - Hospitalet,grid,82.15,KV,,2025-06-19 15:25:22.579415,2025-06-19 15:25:22.579421
+2e883fb7-d9bc-465e-9dd7-06674c9aa220,Palma del Condado Solar 555,generation,6.3,MWp,,2025-06-19 15:31:01.126375,2025-06-19 15:31:01.126380
+57178afa-d996-491b-ae5e-fbe92f2c5a7f,Serena Solar 3,generation,1.0,MW,bd396b59-3929-4ee5-bdb8-f2f91b7c2dad,2025-06-19 15:37:05.126216,2025-06-19 15:37:05.126223
+dceed17e-033d-4fb7-8c96-b29011475c06,Formentor Solar,generation,69.0,MWp,3d189594-d3d8-4b2b-97ca-e1ce35bf8082,2025-06-19 15:25:53.745690,2025-06-19 15:25:53.745695
+7e6035f5-a0b0-4de5-9190-e352f8e7302b,PS Variant Sud,generation,2.795,MWp,,2025-06-19 15:36:03.938407,2025-06-19 15:36:03.938415
+0bdce651-f345-406e-909b-4f45e4c4d36d,Telesto Solar 10,generation,10.0,MWp,cc22b26d-9076-4951-9a1a-c7c365fe8850,2025-06-19 15:42:40.712970,2025-06-19 15:42:40.712976
+b6de50f9-92e3-4782-b7c6-5760e5250a2b,Parque fotovoltaico Es Pelai,generation,11.64883,MWp,6ffd7155-45aa-4f23-b490-8b12049beb60,2025-06-19 15:32:21.318987,2025-06-19 15:32:21.318996
+42f2279f-9873-4c2a-9f49-9728a378d1af,Parque Eólico Ayamonte,generation,27.0,MW,,2025-06-19 15:32:21.216856,2025-06-19 15:32:21.216861
+be976320-cc8e-4e61-884a-d3b7802b569d,"Instalación de nuevo apoyo bajo la línea aérea de alta tensión de 45 kV, 3760-21 'Cucoto' de la ST 'CH Valdeobispo'",grid,45.0,KV,,2025-06-19 15:27:06.732885,2025-06-19 15:27:06.732892
+426d3f95-165c-475f-a9f4-2de0367212b7,INCA BESS 66kV,storage,55.0,MW,9cf23be0-b0b1-420a-9971-b97e46a69614,2025-06-19 15:28:20.463777,2025-06-19 15:28:20.463784
+aea8df64-f366-4c24-97bc-752e2025148d,Línea eléctrica aérea de alta tensión 132 kV SET Hazapierna - SET Medinaceli II,grid,132.0,KV,,2025-06-19 15:34:38.233893,2025-06-19 15:34:38.233899
+29a0b723-a46d-4ec9-aa3b-b386cf6298d8,Línea aérea de media tensión para abastecimiento de estación de bombeo de Montesusín,grid,20.0,KV,,2025-06-19 15:41:55.482729,2025-06-19 15:41:55.482737
+72f21760-70ea-4aa6-a7ad-ae1a555d431c,Planta solar fotovoltaica para autoconsumo Barchín del Hoyo,generation,0.1,MWp,,2025-06-19 15:42:33.891231,2025-06-19 15:42:33.891237
+f9a318c2-5420-4646-9665-4c4d8d3c671c,PROYECTO DE PLANTA FOTOVOLTAICA PARA AUTOCONSUMO EN LAS INSTALACIONES DEL BANCO SANTANDER EN SOLARES (CANTABRIA),generation,3.207,MWp,,2025-06-19 15:23:27.361749,2025-06-19 15:23:27.361755
+5d29ed02-5f3c-4d5b-8725-3f1b30296afa,Evacuación conjunta de los parques eólicos Maragouto y Banzas,grid,132.0,KV,,2025-06-19 15:24:18.121887,2025-06-19 15:24:18.121892
+8e86a139-fc12-455a-a22c-c9bcaab8f726,Grijota II,generation,49.96,MWp,04d2d3f1-4b58-44c3-92f9-e3aa8e5b8587,2025-06-19 15:33:01.950993,2025-06-19 15:33:01.951009
+d904c7fc-3572-43c0-91b8-160b54d97473,Parque eólico híbrido Ribaforada,generation,6.2,MW,2c1d3060-14bd-4715-940a-5811edf6a91c,2025-06-19 15:37:04.474935,2025-06-19 15:37:04.474942
+2f40c560-77a9-4f8c-8d3e-da4a882b4cf9,Rueda Solar 2,generation,,,ce60946d-d4b0-4c5f-b82c-21993e5f457f,2025-06-19 15:39:57.917411,2025-06-19 15:39:57.917419
+0538c0e3-3445-40a2-a9dc-7dfb0df69de4,Parque eólico El Planillo,generation,4.95,MW,6d5812c4-d1af-45ef-8dd0-21d9fc25b67f,2025-06-19 15:36:56.488445,2025-06-19 15:36:56.488452
+f61a4c68-93d9-4f17-ac6e-f871c828cd97,La Caya,generation,4.95,MW,,2025-06-19 15:36:51.909428,2025-06-19 15:36:51.909435
+c3f598f5-a14f-4c30-9198-0cf12494e66a,Mangana FV,generation,6.59,MWp,c49b5ac1-64b1-4173-aac5-d38667fe0953,2025-06-19 15:43:48.769537,2025-06-19 15:43:48.769545
+c94bc0ec-9904-4b43-81d2-a78b368ce102,Proyecto de almacenamiento y procesado intermedio de residuos,other,1.0,m3/h,,2025-06-19 15:44:36.186247,2025-06-19 15:44:36.186255
+d10e95f7-0965-44bf-a3e7-bed1ee023545,Plantas solares fotovoltaicas San Andrés,generation,138.0,MWp,,2025-06-19 15:45:05.998562,2025-06-19 15:45:05.998568
+50128326-acb1-49fc-b8b3-ca0126d2be9f,Modificación de la línea aérea de alta tensión 45 kv «Sabero I»,grid,45.0,KV,,2025-06-19 15:33:04.687179,2025-06-19 15:33:04.687187
+6a44fa3e-804f-43af-a2c3-54e0eb99d617,Los Morales,generation,2.2446,MWp,,2025-06-19 15:42:00.153741,2025-06-19 15:42:00.153746
+86f0c6e1-ab4c-4e07-889b-cefcc80f1f83,Villa Alta PH,generation,,,f9ea6e85-8c9e-4727-a851-7359a59a11e7,2025-06-19 15:34:02.278407,2025-06-19 15:34:02.278412
+669dc9a2-cd7c-4456-93ee-70d026d70141,Balsa de almacenamiento de aguas pluviales finca Maricara,other,6998.11,m3/h,,2025-06-19 15:38:58.934145,2025-06-19 15:38:58.934153
+75eb944b-2c14-4546-9dfc-7859aae1e1b8,La Selva,generation,6.05,MWp,f45274df-9f72-409b-a217-67510570bb17,2025-06-19 15:36:11.290247,2025-06-19 15:36:11.290254
+9213e6b6-c1b9-4354-b434-9f0ca71da1dd,Ampliación de la Subestación Abona 220kV,grid,220.0,KV,,2025-06-19 15:30:51.272104,2025-06-19 15:30:51.272110
+e64923ba-9f74-4690-a951-68f936403a5c,Ocupación de terrenos de monte de utilidad pública,generation,,,,2025-06-19 15:43:47.805751,2025-06-19 15:43:47.805763
+0c6717fd-9f95-4e72-a2cd-a34545584006,Planta fotovoltaica Saurus,generation,155.1,MWp,e50fdec5-08a7-488f-9474-cf5ecdd5d564,2025-06-19 15:30:39.568344,2025-06-19 15:30:39.568350
+2f0f97c7-290c-412b-b00d-d7fb006094dc,"Planta solar fotovoltaica FV Solillán de 4,89 MWn mediante seguidor a 1 eje",generation,5.6784,MWp,,2025-06-19 15:22:41.675277,2025-06-19 15:22:41.675283
+b7f9cb14-0ddb-413c-85fc-872698187b19,Planta Fotovoltaica La Estrella,generation,3.99,MWn,09b1a4e0-dd89-4669-ab5a-deb85faea66c,2025-06-19 15:28:43.670341,2025-06-19 15:28:43.670348
+7855fbf4-3627-4083-8889-58c660ef9e73,"Almacenamiento de residuos no peligrosos en las parcelas M6, M7 y M8 del polígono industrial La Cañada",other,220.0,m3/h,,2025-06-19 15:39:09.893799,2025-06-19 15:39:09.893806
+964e1f65-5e78-40f0-a00b-82fe091b4297,GUADALQUIVIR 4,generation,46.05,MWp,e50a0c57-d857-4bc9-b1a2-8cccced1c26b,2025-06-19 15:26:29.514494,2025-06-19 15:26:29.514500
+1164ccf4-7a0a-4fd4-b7cd-8101f939d648,Parque Eólico Rula,generation,55.0,MW,,2025-06-19 15:31:44.815580,2025-06-19 15:31:44.815589
+76c0d494-6207-4dea-80bb-da6fe47661f7,Instalación fotovoltaica Espadán,generation,4.8,MWn,f25b31fe-13b4-440b-91eb-9c059b5ad354,2025-06-19 15:36:28.983357,2025-06-19 15:36:28.983363
+8ffdc094-cb7c-4d1b-8512-7ebc49d153e4,Instalación de Planta Solar Fotovoltaica para conexion a red Torralba PV e infraestructura de interconexión,generation,1.0,MWp,,2025-06-19 15:44:37.301155,2025-06-19 15:44:37.301161
+354398e4-5fd5-4899-9c12-9f6be779cfec,Campo de Arañuelo,generation,299.46,MWp,045b1554-affe-4e1f-8b88-9489648d9e3a,2025-06-19 15:24:54.934889,2025-06-19 15:24:54.934896
+e138b74a-22bb-4cf8-864e-cb86959e46a3,Bolarque I,generation,40.0,MWp,6b1240e1-b680-4d60-bf06-3fdf464ade18,2025-06-19 15:42:53.047075,2025-06-19 15:42:53.047081
+c0cddae1-a034-4ca4-8957-9bf051fd3f49,FV Pedro Muñoz,generation,1.0032,MWp,,2025-06-19 15:42:35.443010,2025-06-19 15:42:35.443015
+09217542-7b83-423d-9969-adb532804631,Las Cuevas,generation,1.022,MWp,,2025-06-19 15:33:58.656316,2025-06-19 15:33:58.656323
+e25d213e-567f-4673-b640-556ea4e966c5,Parque Eólico Fabara,generation,6.6,MWp,6818cf18-3778-41ba-bfc6-dd700f4cce05,2025-06-19 15:41:09.647030,2025-06-19 15:41:09.647036
+a0d7b427-9493-4b21-bf44-01772cb27e2c,Parque eólico Campoliva II,generation,,,,2025-06-19 15:41:03.083899,2025-06-19 15:41:03.083907
+8e226846-cd8d-42eb-9621-c1414d4ebf96,Convocatoria almacenamiento energético,storage,1.0,MWh,,2025-06-19 15:38:19.928143,2025-06-19 15:38:19.928150
+4a953496-c483-46d8-8245-e3c441576880,Modificación de la subestación eléctrica Colmenar de Oreja,grid,45.0,KV,,2025-06-19 15:23:14.487035,2025-06-19 15:23:14.487041
+ca0689d8-63e7-4f6a-bd02-8af1aef905b1,Nuevas Unidades de Compresión de Aurín,other,15.0,KV,,2025-06-19 15:40:04.505801,2025-06-19 15:40:04.505809
+b22e9feb-8eee-438f-a7fa-197993675b6a,CF El Espartal III,generation,6.5,MWp,4fdd1a4c-cba1-4b2a-bf49-6b1a98a758cd,2025-06-19 15:41:58.127776,2025-06-19 15:41:58.127783
+c8c59f4c-50e2-4bdb-933a-e139ed1e17c3,Arco I,generation,50.06,MWp,3888b821-bcab-4133-ac80-70f9ff0fc74d,2025-06-19 15:38:20.246015,2025-06-19 15:38:20.246022
+6f457ab6-2f35-49e7-9f94-5c592dbd6a16,Modificación y soterramiento de la línea Don Rodrigo - Quintos Entrenúcleos - Quintos 1 en el Tramo AP. 11 B - Subestación Quintos,grid,220.0,KV,,2025-06-19 15:30:20.886164,2025-06-19 15:30:20.886170
+f1646492-28c1-4b3f-8d82-226ba6eb3315,Moncayo 3,generation,4.5,MWn,,2025-06-19 15:41:28.899421,2025-06-19 15:41:28.899430
+c6ea2f78-2706-46b7-ab53-4c3918a50da6,Valdemoro II,generation,50.0,MWp,d8e97cb7-0d41-477e-9d3c-35f60909d5fa,2025-06-19 15:25:27.899437,2025-06-19 15:25:27.899444
+49fb06f7-a31a-4754-9131-bba1ed188d19,Parque eólico Serra da Piñeira,generation,35.0,MW,3ef5069d-3d6f-4a0a-b217-b8220fbfea33,2025-06-19 15:24:00.156116,2025-06-19 15:24:00.156123
+1c13eab5-8049-4a9b-a924-5d0471787a50,Planta Solar Fotovoltaica Somera,generation,1.0,MWn,,2025-06-19 15:41:00.591786,2025-06-19 15:41:00.591794
+6b949637-8944-4c6f-a8b3-5ed93077f83e,Torremendo,generation,149.978,MWp,0bd19c95-5bff-429e-9085-7eab968d07c3,2025-06-19 15:23:02.874440,2025-06-19 15:23:02.874446
+92a80ae2-4d8f-404e-81f1-52f308b00623,Línea de descarga SET Villalba - SET REE La Mudarra,grid,220.0,KV,,2025-06-19 15:32:42.163021,2025-06-19 15:32:42.163031
+db4e0f5f-d938-446c-98cf-b8a00b53ba71,Soterramiento de línea aérea existente 15 kV en central hidráulica Bolarque I,grid,15.0,KV,,2025-06-19 15:45:09.160002,2025-06-19 15:45:09.160010
+c720207c-4006-4b11-8ad6-36a082666cd5,FV Adyba,generation,0.638,MWp,,2025-06-19 15:34:04.471070,2025-06-19 15:34:04.471077
+9d94664c-6090-489a-aa9b-ec4dbb527b1e,Pintia I,generation,4.9,MWn,2615a3df-b2cc-48d4-a362-b39ec0380c9b,2025-06-19 15:34:28.054962,2025-06-19 15:34:28.054970
+41284698-ca38-4710-af90-c0a32ed0f87f,Instalación solar fotovoltaica de autoconsumo sin excedentes Payuelas 2,generation,0.09768,MWp,,2025-06-19 15:44:05.122289,2025-06-19 15:44:05.122298
+8cab0e4e-3e5c-40c0-9c5b-82cf0b202d74,Proyecto constructivo de nueva acometida eléctrica en A.T. 45 kV a la subestación de Flaçà,grid,45.0,KV,,2025-06-19 15:27:17.247384,2025-06-19 15:27:17.247391
+dbab0593-51c0-4be5-86d6-81a0f2586241,Aguas Mansas,generation,31.31,MWp,7cd62903-98f4-48a5-923e-0608b3f4e536,2025-06-19 15:37:45.942028,2025-06-19 15:37:45.942035
+4fc20b4d-305a-4111-8adf-539868fb8c58,Envatios XXIV Fase III,generation,60.0,MWn,1545460a-e301-4b2f-9d79-7803d7b5b4cb,2025-06-19 15:24:36.335694,2025-06-19 15:24:36.335703
+c4bb7f3a-27a2-4889-aac7-4b877873727c,Mirabal I,generation,,,,2025-06-19 15:28:22.679900,2025-06-19 15:28:22.679907
+7e020268-f898-41bc-a446-c279959ac14d,Parque eólico Escorpio,generation,30.0,MWn,,2025-06-19 15:35:22.827957,2025-06-19 15:35:22.827962
+cc021c83-592f-4f7d-a748-39620ba83564,"Línea Subterránea de Media Tensión a 20/13,2 kV de enlace entre LAMT Haro-Anguciana y LAMT Pancorbo-Pancorbo",grid,4500.0,KV,,2025-06-19 15:24:46.221560,2025-06-19 15:24:46.221566
+c8e41dd8-1b6a-49ce-b931-c2950198a1b1,Línea eléctrica aéreo/subterránea de M.T. a 20 kV y centro de transformación 160 kVA para alimentación de servicios auxiliares de la subestación Beariz 400 kV,grid,0.16,MW,,2025-06-19 15:25:33.911843,2025-06-19 15:25:33.911850
+e8cbd002-6df7-46e0-a55a-15364296e5f6,Planta Fotovoltaica Llano de Aín,generation,4.998,MWp,,2025-06-19 15:41:54.151686,2025-06-19 15:41:54.151694
+acc102bd-84cf-4467-ab69-6971c20788cf,"Variante de línea aérea S.C. a 13,2 kV de alimentación al CT 'Estación (Calahorra)'",grid,13.2,KV,,2025-06-19 15:37:57.569765,2025-06-19 15:37:57.569773
+60ad3045-0aa3-4682-b666-0d25bb620a9c,PE Sierra de Pinilla,generation,,,00ac9129-8fd7-431f-add7-94499d751f45,2025-06-19 15:43:53.616612,2025-06-19 15:43:53.616620
+fb864737-13e0-4b3e-804c-8ec775c8487b,Villameca II Solar PV,generation,99.74,MWp,1f7d6732-c5dc-445b-8bef-99c4b0801cb4,2025-06-19 15:29:09.992875,2025-06-19 15:29:09.992882
+e34dad27-fd55-41e2-9b9d-8e2031c95baf,"Nueva línea de LAMT (25kv), subestación Albox, línea Oria",grid,25.0,KV,,2025-06-19 15:31:54.946542,2025-06-19 15:31:54.946550
+162ded1a-f9c5-4e66-a278-a8865edc4ce5,Valentia Edetanotum FV3,generation,200.0,MW,f379b4a3-c075-4805-9790-ea261864022c,2025-06-19 15:30:21.098158,2025-06-19 15:30:21.098164
+26314c9a-0644-4c5b-8d1c-040d6bd27763,Instalación fotovoltaica El Trancar-Valdelerín,generation,0.276,MWp,,2025-06-19 15:41:40.546208,2025-06-19 15:41:40.546215
+59847d1c-2822-4b29-86d5-39c16d49bb90,Los Borjas II,generation,20.118,MW,5df07c9d-e20f-419e-8620-7224f60f081d,2025-06-19 15:41:03.947090,2025-06-19 15:41:03.947097
+da68efd8-7777-403e-8ac0-9760be47f559,Instalación fotovoltaica de autoconsumo Quintanilla de Babia,generation,0.0048,MWp,,2025-06-19 15:34:04.516309,2025-06-19 15:34:04.516315
+d9ecb4b3-7aa6-41c6-83fa-ad91e8e76bb6,Infraestructuras de evacuación PFot-240,grid,,,,2025-06-19 15:28:25.583205,2025-06-19 15:28:25.583210
+84200af1-217b-465b-bf70-ea02617a847a,Planta Solar Fotovoltaica Vitale para hibridación con Central Hidroeléctrica Laverné,generation,1.7658,MWp,,2025-06-19 15:40:22.935644,2025-06-19 15:40:22.935649
+5832b72f-4284-4d2c-acb3-5db1f84a0d27,Zaldu I,storage,5.0,MW,,2025-06-19 15:36:50.028850,2025-06-19 15:36:50.028879
+4c315a4f-ddca-4181-a1c1-257af1d53f32,Ampliación planta solar fotovoltaica Vilardevós,generation,0.6735,MWp,,2025-06-19 15:24:32.156211,2025-06-19 15:24:32.156217
+26d92e99-a4f8-42ce-891f-0ea88191b58b,"Planta de almacenamiento de gas licuado, regasificación y producción de energía eléctrica de 70 MW en el Puerto de la Luz y Las Palmas",generation,70.0,MW,,2025-06-19 15:42:16.143790,2025-06-19 15:42:16.143797
+9607ea91-d8b6-48a0-850c-d0df62d5d7ac,Parque eólico Ágata,generation,110.0,MW,f74cdc71-a5f2-4239-a2cf-b3fb98b1891e,2025-06-19 15:30:31.460374,2025-06-19 15:30:31.460380
+00e85cd5-1a2d-4f61-bb36-cd40e7e44ac9,PFV Ictio Toledo Solar,generation,49.995,MWp,,2025-06-19 15:45:16.026627,2025-06-19 15:45:16.026633
+a231be56-d8de-4e80-98b6-72a1ac1d628b,Violeta Solar 3,generation,11.007,MWp,,2025-06-19 15:33:09.194350,2025-06-19 15:33:09.194357
+ed75d64a-59b1-4527-be3f-444143d7df62,LAAT 220 kV SET Sedéis-SET Fontanales-SET Escatrón Promotores,grid,,,,2025-06-19 15:41:01.207793,2025-06-19 15:41:01.207800
+09febea9-3f4a-4e18-b859-da7ea80475ed,Ampliación de la subestación Es Bessons,grid,320.0,MW,,2025-06-19 15:30:26.339251,2025-06-19 15:30:26.339258
+90ffe34e-60d3-40f4-b5ab-2ffbc7a8715d,"Línea aérea SC a 13,2 kV enlace entre el apoyo 103 de la línea áerea a 13,2 kV «Oyón-Casablanca» y el apoyo 560 de la línea aérea a 13,2 kV «Laguardia-El Villar»",grid,13.2,KV,,2025-06-19 15:23:42.943533,2025-06-19 15:23:42.943539
+390aa9a7-ebca-40a5-ab49-acf468f6b2c2,Ceñida Solar,generation,62.5,MWp,9c5cd74b-d54c-4f2d-9ff9-ba4548c45281,2025-06-19 15:27:23.667227,2025-06-19 15:27:23.667234
+3ee6bfaa-dab1-43fd-8c34-0c2a1b82b326,Plana de la Pena 2,generation,50.0,MWp,28bcb302-3422-4f67-a1df-f416056bf694,2025-06-19 15:39:41.951659,2025-06-19 15:39:41.951667
+9db3d847-993c-46c2-a2c9-72fbb030c697,PSF Cap Blanc,generation,,,,2025-06-19 15:36:06.794974,2025-06-19 15:36:06.794980
+7c768fdf-5246-4db2-b2e7-af315145263f,Los Llanos III,generation,46.725,MWp,11cf7e18-52a0-4805-a98b-66c6d8223e8a,2025-06-19 15:38:10.534048,2025-06-19 15:38:10.534056
+1524bc18-5636-4cea-af44-768960b8159d,"Planta de recogida, triturado y almacenamiento de residuos metálicos de aluminio, fundición de aluminio y colada en continuo, lacado en continuo de bobinas de aluminio y corte, laminación en frío, recocido y aplanamiento de bobinas",other,40.0,MW,,2025-06-19 15:38:53.720550,2025-06-19 15:38:53.720558
+2f579e13-0899-49d0-b525-b728fa6fd1b1,Línea Aérea Baja Tensión en Polígono 8 de Ricote,grid,,,,2025-06-19 15:22:52.134123,2025-06-19 15:22:52.134129
+2e26fef9-9084-4f19-af72-ad23e3b011c6,San Isidro,generation,48.0,MW,94e3b2a9-c4e8-4cbc-9a23-e6ef3fdd529e,2025-06-19 15:40:57.661362,2025-06-19 15:40:57.661372
+963e7725-0f29-4c45-91a9-e6828f97e11e,Murillo Sol,generation,4.89,MW,,2025-06-19 15:38:00.542900,2025-06-19 15:38:00.542906
+79720a0f-b6e1-493b-ad83-3bcecc080f62,Planta de valorización de residuos no peligrosos para la producción de biogás,generation,1.0,MW,,2025-06-19 15:34:27.888871,2025-06-19 15:34:27.888880
+30b5e4c2-c70d-450b-a1a4-6743a16ad1af,Parque solar fotovoltaico Meirama y su infraestructura de evacuación,generation,1.75,MWp,,2025-06-19 15:24:18.079542,2025-06-19 15:24:18.079547
+e500aa5c-dc80-4ee4-aaae-ad1ef840df9c,Modificación de la línea aérea de 30kV DC Gamarra-Alsasua 1 y 2 entre los apoyos n.ş 195 y n.ş 229,grid,30.0,KV,,2025-06-19 15:23:33.888148,2025-06-19 15:23:33.888154
+7b37bd2b-58d9-49d8-98c2-24ba63b8a0e5,Suzaku,generation,42.2,MW,033cdaa0-6e87-4c85-b311-0de1065648b9,2025-06-19 15:28:31.731182,2025-06-19 15:28:31.731189
+47702a6c-338a-441c-9915-7b74911a864e,FV-SII Tordesillas-II,generation,1.37484,MWp,,2025-06-19 15:34:41.122057,2025-06-19 15:34:41.122062
+af963fb6-2c30-4286-8055-6ded0320f8a8,Agripa Solar,generation,41.659,MWp,c8004055-fc84-4170-a1ee-504f3b5a28c7,2025-06-19 15:38:03.265563,2025-06-19 15:38:03.265571
+b3504169-9d13-48d3-87c5-ae411a5642f0,Envatios XXII-Fase II,generation,279.9,MW,1545460a-e301-4b2f-9d79-7803d7b5b4cb,2025-06-19 15:27:24.285935,2025-06-19 15:27:24.285940
+d97b662d-1941-4bf7-86ac-8ed3dac0d0b0,La Encantada II,generation,3.97,MWp,,2025-06-19 15:42:29.658085,2025-06-19 15:42:29.658092
+59b06191-0d77-4474-991b-97a59f4ab3ea,Parque eólico Llanos de Catín,generation,44.0,MW,,2025-06-19 15:37:43.041184,2025-06-19 15:37:43.041191
+37a0c740-61df-497f-8cea-71ffaebc17cb,ISF Geoide II,generation,25.0,MW,4fa25c0f-28cb-4a21-b81c-12dc79ee5c24,2025-06-19 15:35:40.017382,2025-06-19 15:35:40.017391
+0a154bf3-b5a9-4999-9cf6-32fbef8ec42a,Parque eólico Treboada,generation,1.0,MW,ef0c4f7a-2652-49fb-8d1d-bfe3ac86cbe5,2025-06-19 15:24:04.421729,2025-06-19 15:24:04.421735
+99e8bc9c-eb17-4222-90ad-b17fdd07a1e1,Ribadelago,generation,49.94,MWp,,2025-06-19 15:33:26.733181,2025-06-19 15:33:26.733188
+1e7b9bb2-cc94-451f-bc3d-34c9e4a2d9f6,Parque Eólico La Ladera,generation,,,,2025-06-19 15:42:08.962368,2025-06-19 15:42:08.962375
+8409eea5-5b75-4570-8c93-a272895098a8,Elawan Escuderos III,generation,49.99,MWp,,2025-06-19 15:44:52.718840,2025-06-19 15:44:52.718848
+daaa28b7-a9ed-4d48-9f87-2f7d849c73ce,Modificación línea aérea ULE3496,grid,15.0,KV,,2025-06-19 15:23:12.595406,2025-06-19 15:23:12.595414
+b7f78d40-8d0d-4efa-956b-73b31d66bb48,Instalación de almacenamiento y red de distribución de gas propano canalizado para suministro al núcleo de Molledo,other,,,,2025-06-19 15:23:17.702870,2025-06-19 15:23:17.702876
+ee31a8dd-1f6b-4696-9802-265c81ccbb19,Parque Eólico Fukei,generation,5.5,MW,,2025-06-19 15:30:27.623300,2025-06-19 15:30:27.623311
+d691bed4-869c-4513-a5c2-56c1d6deb747,PS ETAP TORRENT,generation,0.8,MW,,2025-06-19 15:35:50.406502,2025-06-19 15:35:50.406507
+10981f72-2fbe-4416-8680-b53fe587e15e,PS El Gassó - Querol,generation,1.54,MWp,,2025-06-19 15:36:16.305300,2025-06-19 15:36:16.305305
+19935fdf-e376-415b-8215-8cfad9011209,PEol-FV-043 AC Silver,generation,21.43,MWp,,2025-06-19 15:25:38.828313,2025-06-19 15:25:38.828321
+84449b05-c221-43a0-923c-f1bb5e3a5256,Planta Fotovoltaica Watt Colomera,generation,,,,2025-06-19 15:32:07.408518,2025-06-19 15:32:07.408524
+f0057613-292a-4a3f-8da7-b2f4cf92e7a5,EDF 260-Santa Marina I,generation,4.999,MWp,c7eeebae-87a0-4b4b-b762-d272083f5cf8,2025-06-19 15:39:08.674952,2025-06-19 15:39:08.674959
+4f819ca0-a07d-4b88-ab15-37e4be9e32b8,Instalación fotovoltaica para autoconsumo en cubierta de vivienda unifamiliar,generation,0.005,MW,,2025-06-19 15:34:50.700506,2025-06-19 15:34:50.700514
+b6143ce0-9908-4263-9f46-08b123145757,Huevar II,generation,50.0,MW,b4da1ecf-e260-4e0e-844f-b5dbb1942a87,2025-06-19 15:25:53.057694,2025-06-19 15:25:53.057702
+78957649-5cd9-4d2b-b9ff-d4c8fdb16ba5,Instalación Híbrida Cerro del Palo,generation,41.244,MW,bed0cc05-96c0-4b08-a443-bf8e9fef61fc,2025-06-19 15:28:18.349207,2025-06-19 15:28:18.349214
+48d48599-049e-4cb5-a27d-7e592cc6c35e,Almod I,generation,28.8,MWp,7e359a0b-5d08-4f50-a374-6340790678cd,2025-06-19 15:37:16.987414,2025-06-19 15:37:16.987420
+db7ee4ba-65cc-4de5-ac8e-b90b5c544f21,Parque eólico Bustafrades,generation,49.5,MW,3772be60-a8ca-4df5-aa75-802b7b521c5e,2025-06-19 15:23:26.463171,2025-06-19 15:23:26.463178
+66fc3cd8-c2a5-41a5-933e-49932fdb528e,Ampliación de la subestación Arinaga 66 kV,grid,66.0,KV,,2025-06-19 15:26:43.589144,2025-06-19 15:26:43.589150
+04ba3d83-9e11-414d-a629-3b2855fa0b91,Planta fotovoltaica 1 nudo Vilecha,generation,50.0,MWp,c2d55344-c665-4708-b4c9-a21053e32059,2025-06-19 15:34:22.751737,2025-06-19 15:34:22.751746
+fd0cbad1-a8e2-42ed-978a-57434b311bbc,Nueva planta de biomasa de 50 MWe en las actuales instalaciones de Ence,generation,50.0,MW,,2025-06-19 15:45:15.337174,2025-06-19 15:45:15.337178
+ece2742c-e212-4563-b402-095189a913f0,Fotovoltaica Palomares de Alba,generation,0.619245,MWp,,2025-06-19 15:35:12.586979,2025-06-19 15:35:12.586988
+25f54c03-ce48-4e88-9fad-89aed7bda1cc,Lanuza Solar II,generation,62.5,MWp,7644df89-5c4f-4828-b711-2c45233b9adc,2025-06-19 15:27:36.782998,2025-06-19 15:27:36.783004
+96225ef9-98a5-4cdb-a350-187fc1ddbb07,Proyecto básico de la instalación solar fotovoltaica sobre terreno para autoconsumo sin excedentes de instalación Power-To-Gas generadora de hidrógeno verde Torrecilla,generation,60.46,MWp,,2025-06-19 15:34:32.925525,2025-06-19 15:34:32.925530
+600b05be-6c2f-4227-b5d3-1342413de158,Parque Híbrido Humeón,generation,32.97,MW,,2025-06-19 15:27:00.054574,2025-06-19 15:27:00.054581
+f77e4be8-4679-4122-9c58-2e2fad8cb5f5,Repotenciación del parque eólico Serralta,generation,14.0,MW,,2025-06-19 15:37:01.307653,2025-06-19 15:37:01.307660
+72673377-5a2a-4206-83c4-0fb66802533e,Las Carolinas 4,generation,3.75,MWp,,2025-06-19 15:44:53.732706,2025-06-19 15:44:53.732713
+02c8eae3-a8e9-4014-8452-af4d74fb9e8f,Parque eólico Kaori,generation,49.5,MW,3957c619-3448-41e9-b07b-fb317d06981d,2025-06-19 15:30:26.173875,2025-06-19 15:30:26.173880
+cf8cbc4b-1cc7-43df-8a4a-7a14f2cdf303,Instalación fotovoltaica de autoconsumo con excedentes en la línea de presa del Canal de Montijo,generation,1.05,MWp,,2025-06-19 15:39:10.135490,2025-06-19 15:39:10.135498
+b8313909-949a-42a7-bf91-59aea6303321,Queiles,generation,3.0,MW,,2025-06-19 15:39:40.615919,2025-06-19 15:39:40.615926
+ed119d62-df9a-43d5-8b30-4d0da5637bfc,PS LA GRANADA,generation,1.3464,MWp,157ec900-c3d4-4fea-bc79-37044e692ec5,2025-06-19 15:36:00.853418,2025-06-19 15:36:00.853425
+d42463e8-b1bb-4996-a50b-5f0e5501039e,"Parque Eólico Los Corrales Ampliación de 26,95 MW",generation,26.95,MW,,2025-06-19 15:31:53.219396,2025-06-19 15:31:53.219405
+573049e1-3bc4-4822-97f0-736a4adb50eb,Infraestructuras comunes de evacuación El Anisal,grid,220.0,KV,,2025-06-19 15:35:15.687529,2025-06-19 15:35:15.687537
+e78033ac-3ce1-45c9-b417-0555967191c4,Punto de recarga exterior para vehículos eléctricos en la Central eólica de las Viñas,other,1.0,KV,,2025-06-19 15:34:50.020957,2025-06-19 15:34:50.020964
+7b68c465-2ebb-43b1-b6b6-89fc9ecaccb1,GR Bisbita,generation,63.84,MW,84a928c6-6e26-4ef1-8028-8c7af662eb68,2025-06-19 15:25:32.779884,2025-06-19 15:25:32.779890
+116f62f9-fa35-4c70-8408-9f98e7c38dfe,Parque Eólico Tramuntana,generation,70.0,MW,bb8bdebf-08d3-4b54-b41f-4a18e78a5b85,2025-06-19 15:28:21.899631,2025-06-19 15:28:21.899638
+be06f64e-5d55-4983-aefd-4b73be521420,Parque Eólico Viento de Sellía,generation,16.0,MW,,2025-06-19 15:35:28.798103,2025-06-19 15:35:28.798111
+61e0b252-cf1a-4a1c-8f3d-bbacb9c8202a,Vita Energy Fotovoltaica 3,generation,46.15,MW,3d870186-cd23-4b0f-a62f-14da4f4336f4,2025-06-19 15:26:29.142275,2025-06-19 15:26:29.142282
+8d6cac61-7fc4-4a84-b9a8-402574e9434e,Andarríos Solar,generation,62.0,MWp,551c3bb4-b0ec-4d47-9787-d5f0d5b9d560,2025-06-19 15:25:40.619359,2025-06-19 15:25:40.619364
+c21fd432-8a62-4be3-8292-128f124f37d2,PS Canet,generation,0.75,MWp,,2025-06-19 15:35:51.402049,2025-06-19 15:35:51.402054
+6ee8288e-94da-4a44-90b6-a25dc98e30ef,Infraestructura común de evacuación de plantas fotovoltaicas,grid,400.0,KV,,2025-06-19 15:25:25.042831,2025-06-19 15:25:25.042839
+2f864a69-b1b6-444b-97b0-947e9156212c,Proyecto Constructivo de la Línea de Acometida de 400 kv desde la Subestación de Transporte de Arañuelo de Red Eléctrica de España hasta la Subestación de Tracción de Casatejada de Adif,grid,400.0,KV,,2025-06-19 15:31:54.336326,2025-06-19 15:31:54.336335
+3eac26ed-3f23-4d94-92b2-a79de7b1821d,Planta Fotovoltaica Libienergy Fuendetodos 2,generation,1.0,MW,,2025-06-19 15:41:43.360805,2025-06-19 15:41:43.360811
+d2ac5579-3d9c-48a6-aef7-f6899837770f,Planta de almacenamiento y gestión de chatarra y metales,other,0.819,km,,2025-06-19 15:39:00.727371,2025-06-19 15:39:00.727378
+57ba5049-8521-41d1-9335-a2b54fbf4ae7,Subestación S6 400/132/30 kV y LAAT 400 kV,grid,400.0,KV,,2025-06-19 15:24:38.793284,2025-06-19 15:24:38.793292
+b2cbc324-b10c-4940-b95a-1897ea339b2e,Planta de biogás agroindustrial en Alhama de Murcia,generation,,,,2025-06-19 15:22:54.507449,2025-06-19 15:22:54.507456
+d9dd239d-f1a6-45f5-8aac-44591132f35c,Solución de evacuación conjunta de los PE Barrosino y Vilartoxo,grid,30.0,KV,,2025-06-19 15:24:33.653497,2025-06-19 15:24:33.653503
+f48ace90-81f7-4e49-9a5c-f4961955fb68,Planta fotovoltaica Huesca Sur,generation,3.9852,MWp,ef09e746-b28d-44da-ae7d-339ed760d0c1,2025-06-19 15:39:31.302566,2025-06-19 15:39:31.302572
+21048e41-7b4e-4ba5-8575-2625635cd9a3,Planta solar fotovoltaica Bellisens,generation,50.0,MWp,4616662c-79c0-418c-a703-83a4c5cd6666,2025-06-19 15:35:55.918690,2025-06-19 15:35:55.918697
+600a4c31-f9af-4d72-ab8a-6e2ffd62970d,Infraestructuras de evacuación y conexión a la red de transporte en el nudo de la subestación Grijota,grid,1.0,km,,2025-06-19 15:34:42.931932,2025-06-19 15:34:42.931939
+a260a0d8-848d-4a62-8747-9f2204d19006,Parque eólico PICO LIEBRES,generation,11.8125,MW,,2025-06-19 15:26:00.540506,2025-06-19 15:26:00.540513
+54e52a7c-cf18-4324-86f6-955f2201b250,Parque eólico Ampliación Graiade,generation,6.0,MW,9059fd18-e04f-49ad-b7a2-250d17f5ca12,2025-06-19 15:24:35.178590,2025-06-19 15:24:35.178595
+982ccb1a-72a3-405d-b4c8-b02e38593af9,Planta Eólica Oencia,generation,100.8,MW,,2025-06-19 15:26:51.772510,2025-06-19 15:26:51.772516
+c5224781-dad9-4eb9-94e6-70859db10f64,Modificación de la línea aérea de alta tensión 45 kV S.E.T. Los Rábanos- S.E.T. Almazán,grid,45.0,KV,,2025-06-19 15:34:39.215092,2025-06-19 15:34:39.215099
+cdeca711-d73a-4814-99d1-692a5a447bae,FV Morella Llivis,generation,,,,2025-06-19 15:36:27.818889,2025-06-19 15:36:27.818896
+30a598d3-fe4f-4f00-9114-0be52fd6de25,Infraestructura de evacuación LAAT 220 kV,grid,220.0,KV,,2025-06-19 15:38:22.261311,2025-06-19 15:38:22.261317
+102f0a1a-3d6c-4817-a610-d8edd12684ab,PS El Pla,generation,5.878,MWp,,2025-06-19 15:28:44.969888,2025-06-19 15:28:44.969895
+e66bbdd5-01cf-41da-9018-a7c73ca25637,Muruarte Solar II,generation,9.998,MWp,,2025-06-19 15:37:07.830406,2025-06-19 15:37:07.830413
+96696ffb-bfc6-4cf8-a947-a5f9fa1d0594,Aramaho,generation,0.925,MWn,,2025-06-19 15:44:21.639937,2025-06-19 15:44:21.639942
+4a205023-c4b6-42e4-9025-f04d4fa1e214,FV Argos,generation,84.0,MW,2db8181b-3ae4-4906-8e66-5bbca763c8ab,2025-06-19 15:29:52.712854,2025-06-19 15:29:52.712859
+35c078ae-999e-4466-bd69-c34d97af6e57,Plan Especial de Emergencia Exterior de la Subestación de Ibiza,grid,,,,2025-06-19 15:32:21.816516,2025-06-19 15:32:21.816525
+11e35796-73ea-407f-8d45-f04618207b13,Caravon Solar,generation,70.0,MWp,3d189594-d3d8-4b2b-97ca-e1ce35bf8082,2025-06-19 15:25:53.421756,2025-06-19 15:25:53.421764
+e2a1ea2b-c367-4807-af61-09f22a7e468d,Almacenamiento Energético Tabiella BESS 132 kV,storage,100.0,MW,efea244d-3e02-4538-8ba3-4a149f149ae3,2025-06-19 15:27:16.453841,2025-06-19 15:27:16.453847
+ca07dcd6-ea30-49d9-a04f-cc250df4868e,MARMICA,generation,108.0,MW,5a548871-f12a-4e28-b62c-8b2f875fd800,2025-06-19 15:29:50.290033,2025-06-19 15:29:50.290039
+ff71209f-3d18-47ce-9371-c605fd6b9b4b,PE Loma Viso I,generation,,,583bc1f9-7374-4d9f-97fa-34543474c806,2025-06-19 15:43:48.561113,2025-06-19 15:43:48.561120
+0302c22b-7d44-4942-9922-b5c1a52e2881,Alisio Solar,generation,100.0,MWp,e50a0c57-d857-4bc9-b1a2-8cccced1c26b,2025-06-19 15:24:56.992741,2025-06-19 15:24:56.992748
+7af67759-a923-481f-97d9-9d11fb5c3cef,Líneas subterráneas 45kV y ST Roble,grid,45.0,KV,,2025-06-19 15:23:10.293483,2025-06-19 15:23:10.293489
+c22ebb2b-9f91-4fab-8444-35b96cac332e,Castilla I,generation,3.585,MWp,,2025-06-19 15:43:27.724459,2025-06-19 15:43:27.724466
+039a652b-e400-4207-b0e2-eb76d7e63745,Instalación solar fotovoltaica PE-693,generation,18.02,MWp,6802be09-68d3-4a62-a7c4-4bcb60d4a372,2025-06-19 15:43:16.868030,2025-06-19 15:43:16.868038
+28afee63-6ad3-44fb-865e-7967e4af6b03,Ocupación de terrenos en Cañada Real Leonesa Occidental,other,1.0,m3/h,,2025-06-19 15:33:47.219122,2025-06-19 15:33:47.219128
+29b3f299-98f2-46de-850f-0b2902683c42,Parque Fotovoltaico Jumosa,generation,4.0,MWp,,2025-06-19 15:42:15.642367,2025-06-19 15:42:15.642391
+67a335a4-6fda-4010-bbf9-aaeccb0f63a3,FRV San Serván III,generation,49.98,MWp,,2025-06-19 15:39:15.578196,2025-06-19 15:39:15.578203
+9082a7c3-6ec7-46d7-9ad8-d7aec44a5ffd,Los Naipes II,generation,49.97,MWp,c8004055-fc84-4170-a1ee-504f3b5a28c7,2025-06-19 15:38:13.158326,2025-06-19 15:38:13.158334
+446df4c3-7a96-4d76-af2c-65de2f775bf2,Ralea,generation,138.0,MW,04e52d31-e26a-49e3-bda8-ab41a4f3cc34,2025-06-19 15:26:12.962829,2025-06-19 15:26:12.962834
+d9e3bca9-be53-4f11-ba95-ff2852b4d580,"Adecuación de las instalaciones de la planta de almacenamiento de hidrocarburos de HFS Trading Future, SL",other,1.0,m3/h,,2025-06-19 15:44:22.464376,2025-06-19 15:44:22.464386
+6fe26556-b1d4-4670-bcf5-ddef21b0a1c2,FV Hibridación PE Breña,generation,39.733,MWp,,2025-06-19 15:30:15.934781,2025-06-19 15:30:15.934788
+592a4b2c-22f6-4356-9d2f-bc71ebdfbc7e,Las Quemadillas,generation,49.5,MW,8976092d-a00f-4d5e-b533-a901457d89d9,2025-06-19 15:33:18.683630,2025-06-19 15:33:18.683637
+ce23acba-604c-4024-b119-d5c24901d335,Ampliación de la subestación El Sabinal a 66kV,grid,66.0,KV,,2025-06-19 15:30:51.852751,2025-06-19 15:30:51.852756
+e5c1e81f-4399-43c3-a22f-53825fefce91,FV Twinhouse Plant 1,generation,3.7128,MWp,,2025-06-19 15:22:30.086726,2025-06-19 15:22:30.086732
+7cf50965-7ae4-423b-900a-83fb43f83ee8,Variante del trazado de la línea aérea La Almunia - El Frasno,grid,45.0,KV,,2025-06-19 15:40:08.678449,2025-06-19 15:40:08.678455
+9d9aef83-42aa-4268-b8ad-f159a8701926,Fuentes,generation,49.99,MW,,2025-06-19 15:30:33.779770,2025-06-19 15:30:33.779777
+25951895-99db-42a6-9dfa-8c7cf632dd00,Iferma 1,generation,0.44,MW,,2025-06-19 15:34:12.020292,2025-06-19 15:34:12.020300
+ad3829b5-5713-4bee-9502-05099d96f04f,Itel,generation,119.916,MWp,0bd19c95-5bff-429e-9085-7eab968d07c3,2025-06-19 15:30:42.890755,2025-06-19 15:30:42.890762
+afee731e-743d-42ae-a37d-3938d0c0eaf4,OPDE Mudéjar 2,generation,33.7,MWp,b5ad3c1c-91bf-4707-8366-40f93297b62b,2025-06-19 15:39:58.384865,2025-06-19 15:39:58.384871
+0a41e8f0-0b85-43b2-87f0-107b5f75d1af,Ampliación SE Solórzano 400 kV,grid,400.0,KV,,2025-06-19 15:23:19.277401,2025-06-19 15:23:19.277407
+15b05824-c2dc-458a-910a-c7078c27c92d,Línea de entrada y salida en la subestación de Fuente de Cantos 400 kV,grid,2380.0,MW,,2025-06-19 15:29:47.490802,2025-06-19 15:29:47.490807
+37300e0a-1975-4db9-80a0-c496c9804d87,Modificación SE MAD03,demand,220.0,KV,,2025-06-19 15:23:10.419862,2025-06-19 15:23:10.419868
+4029c346-f334-4aa8-bce0-cb7d9318ab14,Parque fotovoltaico Rotes Noves,generation,3.485,MWp,,2025-06-19 15:32:28.012987,2025-06-19 15:32:28.012993
+9b4c805d-25b5-4df1-a0be-9ee0d56200cb,Instalación solar fotovoltaica de autoconsumo Contodo,generation,0.37962,MWp,,2025-06-19 15:32:37.643609,2025-06-19 15:32:37.643620
+ffa0d759-cbf7-4a1d-8e48-05273b1fc0a2,NORI,generation,49.5,MW,309906cd-85d0-4779-b82c-989f5e6bac9c,2025-06-19 15:30:17.059857,2025-06-19 15:30:17.059862
+7809ae23-ba29-4175-895c-81a802709e9c,"Sustitución de línea aérea de media tensión s/c, entre los apoyos A344576 y A431654",grid,36.0,KV,,2025-06-19 15:38:48.995593,2025-06-19 15:38:48.995601
+bc16c598-d7c9-4ead-83b2-16215fb3bc97,Ampliación de instalación fotovoltaica en la parcela 513 del polígono 6,generation,,,,2025-06-19 15:44:15.462125,2025-06-19 15:44:15.462130
+6b1750ce-8f5a-46fa-aa06-21bc1e53c248,Proyecto de instalación de conexión de transporte secundario MOP59 para inyección de biometano en el gasoducto Cuencas Mineras,grid,1.0,MW,,2025-06-19 15:40:27.741511,2025-06-19 15:40:27.741518
+d8064463-c2c9-4940-a119-a1fef9af6d4a,FV La Manga II,generation,,,,2025-06-19 15:22:27.789847,2025-06-19 15:22:27.789855
+94176698-e814-45ee-b342-d74384747bfb,CAPARACENA 220,generation,93.2,MW,174ede11-44da-411d-9403-918ecd7e28e9,2025-06-19 15:25:27.000500,2025-06-19 15:25:27.000507
+e6ac5b2f-e807-4a9f-b12f-857b292d5595,Luciérnaga,generation,105.28,MW,94d231d1-56a9-4fa4-8202-e4778abaee19,2025-06-19 15:24:36.999226,2025-06-19 15:24:36.999231
+84c186b7-e58d-482f-bad3-bbde21f90fb1,Planta fotovoltaica Dehesa Nueva del Rey 50 MW,generation,62.13,MWp,,2025-06-19 15:42:22.983904,2025-06-19 15:42:22.983911
+4d862197-7d7f-4630-b413-6152340e4265,Proyecto de Instalaciones para valorización de subproductos y residuos orgánicos y producción de biogás mediante digestión anaeróbica,generation,1.0,MW,,2025-06-19 15:35:15.404667,2025-06-19 15:35:15.404673
+95742297-f64b-41ff-8f72-0544d51d61b7,LAAT 220 KV SET Bonastre – SET Arbequina,grid,220.0,KV,,2025-06-19 15:40:41.658912,2025-06-19 15:40:41.658918
+705a1c1d-3fd0-4251-aa69-65a8d65b9569,Subestación 66/30kV Barranco de Balos y L.A.T. S.E. Barranco Balos y S.E. Lomo Gordo,grid,66.0,KV,,2025-06-19 15:32:15.622524,2025-06-19 15:32:15.622533
+4dd6e2c9-2981-4e78-a6b8-32fa74fb9eb7,Infraestructuras de evacuación 220 kV plantas fotovoltaicas de Quintana y Congosto,grid,220.0,KV,,2025-06-19 15:34:55.799491,2025-06-19 15:34:55.799500
+103a7146-420c-4b5a-864f-5327a1d7ae7b,Nuevo tramo línea aérea M.T. 25kV para cierre entre línea Zurgena subestación Albox apoyo A949292 y línea Ballabona subestación Vera entre apoyos A953608 – A953607,grid,25.0,KV,,2025-06-19 15:30:13.427330,2025-06-19 15:30:13.427337
+bdd5665f-5abe-4ed6-8cb4-84ae337a4006,Parque eólico La Serna,generation,9.8,MW,2615a3df-b2cc-48d4-a362-b39ec0380c9b,2025-06-19 15:35:09.366885,2025-06-19 15:35:09.366893
+7389dc35-22c7-4d56-8a4c-3fea9c05af27,La Posada FV,generation,1.244,MWp,,2025-06-19 15:44:16.891731,2025-06-19 15:44:16.891738
+d895f5f2-95e4-40d3-ab22-c6d314dc71fb,PSFV PAGOS DE SIERRA,generation,210.0,MWp,832d7051-a69d-491f-9367-e6b37e1156de,2025-06-19 15:27:02.149621,2025-06-19 15:27:02.149627
+f4998bd6-aa4d-4fed-b7c1-7ebbf827f3b7,Reforma y consolidación de L.A.M.T Líneas Alamedilla y P.Martinez,grid,,,,2025-06-19 15:29:41.148958,2025-06-19 15:29:41.148963
+5b5f0f31-f163-4a34-bb2c-b6d514ad7eae,PE La Maçana,generation,50.0,MW,8c8495f0-0027-460f-ab95-e9764f4065e9,2025-06-19 15:36:05.729768,2025-06-19 15:36:05.729774
+50c279a2-3668-4c06-b8f6-ff5753b0099b,La Pared 6,generation,49.973,MWp,1fd1b040-d558-4486-b95b-9a4f688c6cda,2025-06-19 15:37:39.280691,2025-06-19 15:37:39.280698
+b6558310-b104-48cf-a19f-328185286219,Casafuerte IX,generation,37.5,MWp,d65ad7a7-da5c-4e18-910b-1b67bca2366c,2025-06-19 15:37:50.291076,2025-06-19 15:37:50.291086
+276d942e-f51c-4bb1-8f4d-3423e0461263,Antequera II,generation,13.994,MWp,,2025-06-19 15:37:35.055454,2025-06-19 15:37:35.055460
+40acdbe8-edfa-4b08-85ed-587da11480f9,La Planilla,generation,49.95,MWp,788f43ae-7f56-4916-9b57-b3ba9aeee8c4,2025-06-19 15:37:46.633753,2025-06-19 15:37:46.633759
+359c61a3-d176-45e7-902e-ee0cae6be510,Planta Solar Fotovoltaica Watt Alhendín,generation,49.99,MWp,8fff27b3-6f33-4e7a-b375-78314a83ece6,2025-06-19 15:32:07.311595,2025-06-19 15:32:07.311600
+f0d3f50c-c8df-4c98-9e8a-c762ee515b76,PFV's Serena Solar,generation,,,bd396b59-3929-4ee5-bdb8-f2f91b7c2dad,2025-06-19 15:31:58.261309,2025-06-19 15:31:58.261316
+b3e827f2-b2ee-4ba5-9f66-f5a39772c83f,Adelfa Solar,generation,49.99,MWp,04d2d3f1-4b58-44c3-92f9-e3aa8e5b8587,2025-06-19 15:33:33.759257,2025-06-19 15:33:33.759264
+9c0f7b76-407f-45a6-8284-e8f6bab08b3d,PFot-678 AC,generation,99.0,MWp,309906cd-85d0-4779-b82c-989f5e6bac9c,2025-06-19 15:31:44.507268,2025-06-19 15:31:44.507275
+8584b122-267f-4d09-8382-0643e25e5ad9,Parque eólico Inari,generation,47.8,MW,309906cd-85d0-4779-b82c-989f5e6bac9c,2025-06-19 15:27:31.509470,2025-06-19 15:27:31.509479
+488e58cb-3c34-45c5-af1d-ce6fbaca57ba,Langa T4,generation,1.113,MWp,,2025-06-19 15:34:29.916767,2025-06-19 15:34:29.916776
+74189b21-5f9c-4ee0-946c-1f2400507c2c,Escuderos III,generation,49.99,MWp,,2025-06-19 15:45:01.058668,2025-06-19 15:45:01.058676
+4a9ab26c-cfa8-490a-a30a-af491016a4e0,Galatea I,generation,60.9,MW,5a8a24ea-93bd-49e6-8a42-9d7870d71122,2025-06-19 15:24:47.065104,2025-06-19 15:24:47.065111
+c985844c-5936-479a-a5d8-f64319d39d93,El Merinero,generation,37.5,MWp,,2025-06-19 15:33:48.969850,2025-06-19 15:33:48.969876
+29d5e681-6cce-402c-8817-86c606f68696,PS Olost,generation,1.219,MWp,,2025-06-19 15:35:32.128506,2025-06-19 15:35:32.128513
+c6d39ef2-11d5-401e-8645-94bd807c3c9b,Planta de producción de biogás y compostaje,generation,1.0,MW,,2025-06-19 15:33:58.705025,2025-06-19 15:33:58.705030
+8a209033-6743-4ff4-b765-b9047bd51544,La Santa María 2,generation,4.99,MWp,,2025-06-19 15:37:05.463334,2025-06-19 15:37:05.463341
+575340e5-bfa8-4255-930d-762f5689b053,parque eólico Monte do Pé,generation,18.0,MW,,2025-06-19 15:24:29.163013,2025-06-19 15:24:29.163018
+8acb4f73-de74-4c54-b43c-11d63ca16408,Sustitución de transformador en STR Sigüenza,grid,66.0,KV,,2025-06-19 15:44:00.486283,2025-06-19 15:44:00.486290
+8ff72863-da62-43b7-a964-674e895c448d,Kasumi,generation,33.0,MW,3957c619-3448-41e9-b07b-fb317d06981d,2025-06-19 15:28:08.029817,2025-06-19 15:28:08.029823
+2a532951-5c0e-4b49-9cdc-c737b8f13707,Valentia Edetanotum FV5,generation,50.4,MW,10e49ba7-e880-40ac-9279-b124016fbf29,2025-06-19 15:26:09.653941,2025-06-19 15:26:09.653948
+b9fd6186-614c-4f6f-a8f3-ad0902e6e0ad,PFV Exea,generation,0.99788,MWp,,2025-06-19 15:41:56.281810,2025-06-19 15:41:56.281819
+80cee5a7-2157-4535-9105-2b0b3d4e5b85,Ampliación Subestación Fausita 400kV,grid,400.0,KV,,2025-06-19 15:27:24.533362,2025-06-19 15:27:24.533368
+03818961-23bc-4610-8300-2bd2d2b2325b,Perseus,generation,7.0,MW,00258a3a-426d-40e0-9ccb-e560c4591f8e,2025-06-19 15:31:09.290745,2025-06-19 15:31:09.290752
+0da37c07-b338-497c-8048-eadd8d7c758d,Planta Híbrida Alfajarín,generation,12.8,MW,2057b6f3-a2d5-4b55-a62d-935fa0b19a2a,2025-06-19 15:40:53.488685,2025-06-19 15:40:53.488690
+cbfb3e3b-0dc2-4a8a-adf3-ca22a7e12e54,Proyecto de las obras de instalación de dos plantas fotovoltaicas en autoconsumo para la modernización del regadío de la Comunidad de Regantes del Páramo Medio,generation,1.0,MWp,,2025-06-19 15:34:22.560401,2025-06-19 15:34:22.560409
+dd345239-a7b9-4edd-8127-910d0d46384c,Parque eólico Chao Gran,generation,18.0,MW,cb7e4f93-8599-4912-b71c-5f95d3f6e3ee,2025-06-19 15:35:29.077593,2025-06-19 15:35:29.077598
+742e0416-9525-496a-96c4-a7f65877a2df,Planta solar fotovoltaica Geoide II,generation,30.0,MWp,4fa25c0f-28cb-4a21-b81c-12dc79ee5c24,2025-06-19 15:36:05.411548,2025-06-19 15:36:05.411554
+b6c61ab1-1212-4def-8239-63215d91d0b3,FV Alcázar 1 con hibridación,generation,44.992,MWp,979605d3-79c5-4a47-8f2d-fc1a68829c38,2025-06-19 15:29:03.447639,2025-06-19 15:29:03.447646
+e649e029-9ba2-408d-9ef9-98d2486d2c9b,Instalación solar fotovoltaica para autoconsumo eléctrico sin vertido a red de 30 kW nominales,generation,0.03,MWn,,2025-06-19 15:44:46.031242,2025-06-19 15:44:46.031248
+415ec08b-46ee-43cd-9ce8-ce19cc6c3474,FV Cerro Moreno,generation,6.6,MWp,,2025-06-19 15:43:45.404994,2025-06-19 15:43:45.405001
+a942fe62-cb78-4e9f-a0fe-1f7b9c3a15af,PS AENA Aeroport Barcelona El Prat,generation,12.48,MWp,,2025-06-19 15:36:18.053214,2025-06-19 15:36:18.053220
+3e8d158c-596c-416d-af08-9c5e38b73db5,VIRTUS 2,generation,50.1,MW,aabcc825-7a73-4d2f-985d-545c52ab5220,2025-06-19 15:23:21.465772,2025-06-19 15:23:21.465777
+f1d8edcb-3008-4194-a43a-10c61f1936e3,"Ejecución de soterramiento de LAMT perteneciente a la línea aérea de media tensión denominada 'Montijo' a 20 kV procedentes de la subestación 'Lobón' para variante, situado en avda. de la Puebla",grid,20.0,KV,,2025-06-19 15:38:57.054898,2025-06-19 15:38:57.054903
+49339271-3964-4823-b76a-f75a42d1fd5f,PSFV TATAN,generation,5.804,MWp,,2025-06-19 15:36:00.954426,2025-06-19 15:36:00.954432
+853bd1bb-3ee1-4e71-89f4-31edb3e2049a,Planta Fotovoltaica Icor II,generation,9.963,MWp,c6933736-7d5f-4217-909c-f43faec16798,2025-06-19 15:31:14.515344,2025-06-19 15:31:14.515350
+d804c6ed-0b1a-4869-a346-ce156ffce9fd,parque eólico 2ª ampliación Xiabre modificado,generation,18.0,MW,,2025-06-19 15:24:32.865408,2025-06-19 15:24:32.865414
+f625d791-81aa-468c-aa61-971a02092bb6,Instalación solar fotovoltaica Camino San Román,generation,1.0,MW,,2025-06-19 15:34:05.136976,2025-06-19 15:34:05.136981
+7d9f4647-a4c9-43ed-bf79-7d08637f7527,Parque eólico Andella,generation,50.0,MW,c72baddf-b387-4df5-a51f-ef9b819e0bc8,2025-06-19 15:33:03.741318,2025-06-19 15:33:03.741326
+0325000c-bc4b-4c96-98e7-2ea188fcf1e7,Planta Solar Fotovoltaica TELDE V,generation,1.51,MWn,5f86eaf8-13fe-4f21-9469-80a21ad414a8,2025-06-19 15:32:16.433427,2025-06-19 15:32:16.433433
+c6569f07-dc3d-4d55-8397-787b49b96f45,Planta fotovoltaica Torrao,generation,5.0,MWp,c548c639-8b4c-4169-819c-d426505d8789,2025-06-19 15:33:01.477740,2025-06-19 15:33:01.477748
+919b7d5d-eb10-4f03-b971-11ab7042d19d,FV Cinca 2,generation,5.586,MWp,323c1e61-a02d-4514-8e60-a92f06e25b9b,2025-06-19 15:40:27.263979,2025-06-19 15:40:27.263991
+e52fd3e4-476a-4b3c-b855-8b975a07a9fc,Planta solar fotovoltaica híbrida Los Ausines,generation,14.001,MWp,,2025-06-19 15:34:45.177811,2025-06-19 15:34:45.177818
+8ecb7c30-1df8-482c-9040-c3447cba2157,Parc Solar la Plana 1,generation,2.387,MWp,,2025-06-19 15:36:05.364045,2025-06-19 15:36:05.364052
+032965dd-88f1-4c80-90f2-f78b2a4cc7ed,Proyecto de modernización de los riegos del Viar,generation,4.0,MW,,2025-06-19 15:25:58.665068,2025-06-19 15:25:58.665075
+495f205c-8808-4bab-9e52-734c9b097792,Teso Pardo,generation,,,,2025-06-19 15:34:06.413455,2025-06-19 15:34:06.413463
+a884cc33-24d9-4fd5-b57f-e8d09981bd7b,"Helena Solar 15, Helena Solar 16, Helena Solar 17",generation,80.922,MWp,d251c1c2-e65a-4a77-b0d8-5ddcdedb9599,2025-06-19 15:27:20.644219,2025-06-19 15:27:20.644226
+b34affe4-4fdd-48cd-84cf-a8b0d1a14178,Gestión y revalorización de biomasa en edificación existente,generation,,,,2025-06-19 15:37:59.381091,2025-06-19 15:37:59.381097
+1a283e05-b19e-42a8-a1c6-53f19748901b,Parque Eólico Tico,generation,180.0,MW,390be6a1-609a-4be1-bbea-8c0d88fdcd1e,2025-06-19 15:31:11.841295,2025-06-19 15:31:11.841302
+bdf19bc7-d4a3-4396-bbe1-82e2e79a6280,Planta solar fotovoltaica Torrubia,generation,0.5,MW,,2025-06-19 15:40:31.058997,2025-06-19 15:40:31.059003
+16d00359-3a43-4f46-9830-a20693950056,Itsbluetime One,generation,0.529,MWp,6f05bb87-1c65-4cfd-b964-205eb440632f,2025-06-19 15:36:12.439431,2025-06-19 15:36:12.439438
+0226ae48-5343-4379-a0e9-12e0428b1dc5,Planta Fotovoltaica Anzo,generation,,,560018f3-c1ea-4769-a2d0-8675f58d1b6f,2025-06-19 15:29:20.479258,2025-06-19 15:29:20.479265
+cb38cb3c-7978-45f1-b64e-c0fc8118c814,Parque eólico Monte Neme,generation,16.0,MW,,2025-06-19 15:23:45.768337,2025-06-19 15:23:45.768343
+54df5f1b-ad9c-4437-8020-c3c7fd8b327e,Planta Solar Fotovoltaica La Pallaruela,generation,11.256,MWp,fd26196b-028b-43f7-8c73-9417dec0eea4,2025-06-19 15:42:01.067857,2025-06-19 15:42:01.067863
+a9b779aa-9a6f-453d-bbb3-c554ecac62fe,Infraestructura de evacuación compartida Sabiñánigo I y IV,grid,15.0,KV,,2025-06-19 15:41:31.602728,2025-06-19 15:41:31.602736
+a37a607c-1eb8-4f56-9002-aa4d745894fb,Planta fotovoltaica hibridación del parque eólico Las Casillas 1,generation,1.71,MW,301682cb-f92e-4e3c-8c9c-c61d065e49c5,2025-06-19 15:30:00.798297,2025-06-19 15:30:00.798305
+7bb70498-c0d1-4a4d-b890-50371c49664e,PS Serinyà,generation,2.01192,MWp,,2025-06-19 15:35:47.434762,2025-06-19 15:35:47.434769
+a3cf2835-106b-44a7-b058-4577d518caa2,Planta solar fotovoltaica 750 kW FV Porto Barroso,generation,0.99918,MWp,,2025-06-19 15:24:35.268592,2025-06-19 15:24:35.268597
+78e8eb9e-6448-45aa-9c54-4a239805d4a2,Subestación Saguntum 400 kV,grid,600.0,MW,,2025-06-19 15:27:59.821884,2025-06-19 15:27:59.821890
+410a4586-f041-4d44-b3f3-76263dbd8c69,Colibrí,generation,58.59,MWp,04e52d31-e26a-49e3-bda8-ab41a4f3cc34,2025-06-19 15:25:58.027470,2025-06-19 15:25:58.027476
+b8dbe702-3b19-4518-a1f2-0e694aff2f40,Parque eólico,generation,,,04d2d3f1-4b58-44c3-92f9-e3aa8e5b8587,2025-06-19 15:33:32.957727,2025-06-19 15:33:32.957735
+45659d92-82b4-43ee-90ed-18328c70f0cf,Ampliación subestación Escatrón 400 kV,grid,400.0,KV,,2025-06-19 15:26:11.323793,2025-06-19 15:26:11.323803
+43113542-eb8f-44fb-8aac-05e018efda4e,Ictio Orión,generation,149.997,MWp,045b1554-affe-4e1f-8b88-9489648d9e3a,2025-06-19 15:24:57.451704,2025-06-19 15:24:57.451712
+34b2cdcc-0c5f-4656-93ee-56e75c957e71,Renovación LAMT 15kV El Raso,grid,15.0,KV,,2025-06-19 15:34:06.550195,2025-06-19 15:34:06.550201
+698a455b-8f08-42ad-b344-ac3cdbb1ed48,Plan Especial de Emergencia Exterior de la Subestación de Mahón,grid,,,,2025-06-19 15:32:21.755686,2025-06-19 15:32:21.755692
+4b65639a-fa02-4ae3-a11c-1702e22299b4,Parque Eólico Castillo de Garcimuñoz,generation,,,,2025-06-19 15:43:00.928695,2025-06-19 15:43:00.928703
+371adf97-d329-43a2-9fa6-05a0ff410835,Parque eólico Órbita,generation,42.0,MW,00258a3a-426d-40e0-9ccb-e560c4591f8e,2025-06-19 15:30:35.842777,2025-06-19 15:30:35.842783
+8a148c0c-adca-4bd5-9bf2-679b1e595fff,PSFV ALCOVER,generation,2.343,MWp,f45274df-9f72-409b-a217-67510570bb17,2025-06-19 15:36:16.106753,2025-06-19 15:36:16.106772
+fb985dd2-444e-45b6-bc28-d3b5e56a2def,PS Martínez Muzzati,generation,0.9,MWn,,2025-06-19 15:36:18.443642,2025-06-19 15:36:18.443649
+3aa905d8-8be5-4a64-b7cd-e3c38cf25bea,FV Puerto Barroso,generation,0.75,MWn,,2025-06-19 15:23:58.418606,2025-06-19 15:23:58.418611
+0cd89f81-d919-44a6-8cef-6c85095c799f,EDF 169,generation,4.49883,MWp,,2025-06-19 15:36:28.174677,2025-06-19 15:36:28.174683
+5a7815f9-0e93-419d-96e1-97e03992717a,Parque eólico Suadela y su hibridación con planta fotovoltaica,generation,30.0,MW,10e49ba7-e880-40ac-9279-b124016fbf29,2025-06-19 15:31:08.248510,2025-06-19 15:31:08.248517
+4bea8a5f-5050-49e8-bcfb-71120c0c235a,Planta solar fotovoltaica Apolo,generation,1.26,MWp,,2025-06-19 15:40:50.386524,2025-06-19 15:40:50.386532
+21203acb-e8f3-46f2-8aec-08939a43c154,Ampliación de la Subestación Las Represas 30/220 kV,grid,220.0,KV,,2025-06-19 15:44:38.841595,2025-06-19 15:44:38.841604
+89ccccf4-c134-4cb8-b62a-055acf13813b,FV Solar Marchenilla,generation,,,,2025-06-19 15:31:16.752908,2025-06-19 15:31:16.752915
+e2ffa092-2eb4-4c68-9c7d-3a9efaa48a36,Quicena,generation,5.0,MWn,,2025-06-19 15:41:38.309290,2025-06-19 15:41:38.309297
+58146d12-b0f3-4dcf-9527-817d76ae8d30,PEol-687 AC,generation,430.0,MW,a788b7ac-ff75-402c-84fc-e62afcfa143d,2025-06-19 15:24:50.333021,2025-06-19 15:24:50.333028
+ca3c8584-ca5e-4f29-bd7f-46274ba05dd7,FV La Revuelta,generation,126.0,MWp,b77660c9-3524-44dd-bb1a-379f01ad8409,2025-06-19 15:25:17.435968,2025-06-19 15:25:17.435973
+76f57fdc-d8bc-4819-9d22-6485a7f99330,"Reforma de línea aérea de 13,2 kV Royuela",grid,13.2,KV,,2025-06-19 15:34:01.387547,2025-06-19 15:34:01.387554
+66b6d986-7ffb-4759-93f9-ee0499ff90ad,PSF Parsosy Los Prados,generation,6.326,MWp,,2025-06-19 15:36:03.755706,2025-06-19 15:36:03.755712
+4d17b0ed-12a7-4ec3-96d4-cb30f343c3bf,Instalación Solar Fotovoltaica FV Hoyasol,generation,5.263,MWp,,2025-06-19 15:22:53.046642,2025-06-19 15:22:53.046648
+ddba2575-84aa-461b-918f-8360c28a2135,Planta Fotovoltaica Gabardosa,generation,0.627,MWp,,2025-06-19 15:40:29.738277,2025-06-19 15:40:29.738282
+302a4452-90ba-4d5c-8f86-6415e7f86093,Projecte constructiu bàsic i d'execució per a la instal·lació d'una planta fotovoltaica i nou subministrament de la connexió de servei (escomesa) elèctrica soterrada de 69 kW a l'EDAR de Cornudella de Montsant,generation,0.069,MW,,2025-06-19 15:35:34.176971,2025-06-19 15:35:34.176978
+779182b1-c06d-4b25-ae6d-b3b67ec9a6ad,"Reforma de la línea aérea de media tensión 'Vegas de Coria' de la STR 'Caminomorisco', de 20 kV, derivación a CT 'Nuñomoral' y sustitución de este por un CT prefabricado compacto",grid,20.0,KV,,2025-06-19 15:39:09.938391,2025-06-19 15:39:09.938399
+8e5f1732-b4f6-470b-a97c-a1d725f5cf5c,Nuevo cierre de M.T. entre apoyo A940343 y A353868 perteneciente a línea Huertas subestación Mojácar,grid,25.0,KV,,2025-06-19 15:26:30.352919,2025-06-19 15:26:30.352925
+4615d4d3-4e66-41a4-a740-d5542d6a157d,Instalación de un nuevo transformador 400/220 kV en la subestación Coscurita 220 kV,grid,600.0,KV,,2025-06-19 15:28:19.337213,2025-06-19 15:28:19.337221
+bb82dfb8-14db-4b3b-b986-719c03bdb77f,Parque Eólico Colladillo,generation,,,e09b7178-957b-4021-b7d6-df6e2f3b3c5d,2025-06-19 15:26:59.887059,2025-06-19 15:26:59.887065
+1813e251-ee5c-48b4-b46c-2bbf2ec2cc46,FV Bodegas Don Quijote,generation,0.679265,MWp,,2025-06-19 15:44:26.745389,2025-06-19 15:44:26.745396
+7d4e2456-e82f-47f2-963e-6e0a30a89549,Sedubai,generation,,,,2025-06-19 15:40:59.594053,2025-06-19 15:40:59.594059
+fd8c61dc-7928-49be-bd59-0007e63ab838,PF MAZTIERRA 1,generation,,,b77660c9-3524-44dd-bb1a-379f01ad8409,2025-06-19 15:32:20.325963,2025-06-19 15:32:20.325970
+2f3232f6-97d2-4084-9372-e356c8a277f6,Parque Solar Fotovoltaico PSFV Maqueda,generation,,,,2025-06-19 15:45:17.985688,2025-06-19 15:45:17.985698
+875e4d7d-6394-4883-9a71-188bb1d44793,PSFV PIPE,generation,5.804,MWp,,2025-06-19 15:36:01.096501,2025-06-19 15:36:01.096508
+77e205f0-b307-4f18-988e-579a342de5ea,KENIA SOLAR I,generation,43.75,MWp,38b2ff07-9de0-4d19-a653-43fbc593fd50,2025-06-19 15:25:25.085284,2025-06-19 15:25:25.085290
+b649c629-ef31-4aef-8098-a988b3f361be,FV Lirios,generation,48.0,MW,832d7051-a69d-491f-9367-e6b37e1156de,2025-06-19 15:28:02.171640,2025-06-19 15:28:02.171647
+e586424f-37a5-45df-9619-7a04a32a4004,OPDE Brovales 2,generation,46.8,MWp,11cf7e18-52a0-4805-a98b-66c6d8223e8a,2025-06-19 15:29:55.367477,2025-06-19 15:29:55.367484
+56f9272b-0d04-461c-ad83-4f2199224c50,Parque Eólico El Oliado,generation,16.0,MW,,2025-06-19 15:36:48.805532,2025-06-19 15:36:48.805539
+05b356cb-7e16-456f-9cc9-8dac8c3338db,Planta Solar Fotovoltaica Beladia,generation,2.5,MW,,2025-06-19 15:37:03.353725,2025-06-19 15:37:03.353732
+6d12c787-407e-4948-85df-b8ea11040225,Choca Solar,generation,,,,2025-06-19 15:37:52.350339,2025-06-19 15:37:52.350344
+150cd10f-fea3-4491-93f1-d2856dee8f21,Calzada I,generation,49.99202,MWp,367e0132-44c4-4573-923c-33ea0eedb896,2025-06-19 15:40:58.485737,2025-06-19 15:40:58.485744
+935306f7-21d4-4525-b82d-e11b39dce439,Planta Solar LA FORTESA,generation,27.84,MWn,,2025-06-19 15:35:40.489756,2025-06-19 15:35:40.489765
+8318629d-3baa-428f-a33e-d5c37fc90420,FV Paradís Solar,generation,27.89,MWp,4fa25c0f-28cb-4a21-b81c-12dc79ee5c24,2025-06-19 15:36:02.516259,2025-06-19 15:36:02.516268
+6499421c-7b4d-4038-9fe8-7b6daf86bf09,Dalia,generation,130.0,MW,ab8fd237-6d0b-4bf9-84a2-968095b7ec26,2025-06-19 15:29:18.913705,2025-06-19 15:29:18.913711
+0cac4ff0-f060-4829-b7fc-4fcb4115d963,Línea aérea de media tensión Fréscano,grid,15.0,KV,,2025-06-19 15:40:04.900474,2025-06-19 15:40:04.900481
+cb725f23-fb1c-4238-8bde-b1ed084309a4,Parque eólico Libitina,generation,49.5,MW,f379b4a3-c075-4805-9790-ea261864022c,2025-06-19 15:28:04.352317,2025-06-19 15:28:04.352322
+fa9bb311-e3c0-4033-b6ee-4bcd0e26e620,PSFV Carreró,generation,,,,2025-06-19 15:35:44.741050,2025-06-19 15:35:44.741057
+6e9cc6dd-3b5f-445a-bb42-311bb3b2536c,Planta de fabricación y almacenamiento de aditivos para combustibles,other,1.0,m3/h,,2025-06-19 15:41:57.511666,2025-06-19 15:41:57.511673
+e07e4a2b-0f88-4372-86e0-cda5642272f5,Subestación Transformadora Valle II,grid,132.0,KV,,2025-06-19 15:32:09.934290,2025-06-19 15:32:09.934296
+a78ce091-a260-40e2-914d-5a22190169f6,Línea aérea de alta tensión 15 KV a CT Villanueva 9B - El Comercio,grid,15.0,KV,,2025-06-19 15:41:11.910656,2025-06-19 15:41:11.910663
+68306f23-029b-4c90-a2c5-ae94038f2fd4,Instalación fotovoltaica en polideportivo municipal de Sesma,generation,0.001,MW,,2025-06-19 15:37:08.982875,2025-06-19 15:37:08.982882
+265f3342-c27a-4838-8083-589cbd01ab91,Parque eólico Linte Fase I,generation,1.0,MW,fc8cdcc7-6cba-4c0d-8350-de41c61f97da,2025-06-19 15:37:14.408063,2025-06-19 15:37:14.408071
+dffe10a0-4059-4f53-a282-6c1ac910bfb0,PSFV MONTFALCÓ,generation,29.988,MWp,e2060630-ed7e-4ee3-a91c-bd41bea47d16,2025-06-19 15:35:38.085420,2025-06-19 15:35:38.085460
+b9c4a14c-072a-447d-8383-1710b0c8004f,CRUCERO SOLAR,generation,70.994,MWp,,2025-06-19 15:30:09.406423,2025-06-19 15:30:09.406430
+8cec9c23-abd3-4c6f-8393-e1ec9c37fbdc,PFot-1144 AC,generation,88.4,MW,fca45e2b-74b8-4579-b68c-25087799fa4d,2025-06-19 15:27:23.130390,2025-06-19 15:27:23.130397
+6bd0c95c-63de-4896-92fd-aa4c1c7fee20,Terminal de almacenamiento de betún,demand,1.0,m3/h,,2025-06-19 15:27:55.364545,2025-06-19 15:27:55.364551
+c5a4f5a1-a49e-4195-b33b-0d25e907471c,Línea Aérea de transporte de energía eléctrica a 400 kV doble circuito entrada y salida subestación Castellar de La Frontera de la Línea a 400kV Jordana - Pinar del Rey,grid,400.0,KV,,2025-06-19 15:32:03.797002,2025-06-19 15:32:03.797010
+11a777b6-7a67-44e2-8ce9-f1ef3112f953,Hibridación Cerro Palo,generation,40.925,MW,,2025-06-19 15:29:26.798885,2025-06-19 15:29:26.798892
+0558495d-dc01-47a5-b9c2-cb1243bee38e,Parque de Baterías Bess Mieres,storage,11.54,MW,,2025-06-19 15:35:28.090236,2025-06-19 15:35:28.090242
+91d7920c-de5b-48bc-bb5f-48a25b7a78a4,El Catllar,generation,4.75,MWn,4fa25c0f-28cb-4a21-b81c-12dc79ee5c24,2025-06-19 15:36:01.980962,2025-06-19 15:36:01.980970
+f63365b9-d8c8-4b62-9bf1-402f4a142dbd,Censequero I,generation,32.34,MWp,7cd62903-98f4-48a5-923e-0608b3f4e536,2025-06-19 15:37:45.756939,2025-06-19 15:37:45.756947
+883c9fcb-9cac-4433-8560-a95a556be620,Proyecto para nueva línea aérea media tensión 15 kV para alimentar a los SSAA de la nueva estación de El Olivar,grid,15.0,KV,,2025-06-19 15:42:23.919954,2025-06-19 15:42:23.919962
+2a064389-1e8e-49de-9c61-26ec74f986f8,PFV PGS 02,generation,1.3041,MWp,,2025-06-19 15:44:23.206139,2025-06-19 15:44:23.206146
+87a3835f-f9b1-41f2-a6d8-3b7f04c80601,"Proyecto Instalación Fotovoltaica Seguidor a un Eje y Evacuación (CPM y LSMT) 0,9 MW Robledo",generation,1.10808,MWp,,2025-06-19 15:44:38.376609,2025-06-19 15:44:38.376616
+b22f4eb1-4fea-4d3a-a4fa-abd3d2add7b8,Cerrato de Arriba,generation,50.0,MWp,8976092d-a00f-4d5e-b533-a901457d89d9,2025-06-19 15:33:52.012778,2025-06-19 15:33:52.012785
+7efe8493-1a17-4844-982b-b211519957c4,GR Mandarín,generation,80.21,MW,2d73a3a8-31fd-4225-937f-857292f8c717,2025-06-19 15:28:59.604906,2025-06-19 15:28:59.604913
+a71a347c-e87a-4c8c-8a06-935a87a9cc2d,Parque eólico Torrecilla 15 MW,generation,15.0,MW,,2025-06-19 15:35:12.806614,2025-06-19 15:35:12.806622
+87ade5b0-7048-4ccc-aa9d-1645881d016a,Instalación solar fotovoltaica Teso Santo,generation,45.188,MWp,e51ed979-7b3d-4691-918f-4ab4eae7d34b,2025-06-19 15:27:05.383300,2025-06-19 15:27:05.383307
+607b042c-a592-47c5-ab68-8b57a5f7ecdf,Modificación línea Pobla - T de Sesue,grid,220.0,KV,,2025-06-19 15:25:51.271288,2025-06-19 15:25:51.271294
+2d0b4fd2-44fe-48db-bc87-200ccd8f80c6,Planta fotovoltaica Trufis,generation,0.4,MW,,2025-06-19 15:40:50.528343,2025-06-19 15:40:50.528350
+c1774dec-eb38-40ca-af11-80ebcebd6451,Ampliación S.T.R. Cerro Buenavista,grid,45.0,KV,,2025-06-19 15:23:15.200920,2025-06-19 15:23:15.200926
+ff02e553-6409-4ec2-b201-d8ffd7d2a506,Centro de transformación en edificio prefabricado equipado con almacenamiento de energía por baterías,storage,0.8,MWh,,2025-06-19 15:23:22.185100,2025-06-19 15:23:22.185106
+27049074-af10-46ed-9348-afc1dd9c8b0a,"Variante de línea aérea a 13,2 kV denominada 'Villar Arnedo' de S.T.R. Calahorra",grid,13.2,KV,,2025-06-19 15:37:55.544826,2025-06-19 15:37:55.544831
+38fbfb3f-f35d-4aea-b06a-71d9a8123aae,Proyecto de soterramiento de la línea aérea de alta tensión en el Parque Nacional Sierra de Guadarrama,grid,,,,2025-06-19 15:30:47.144280,2025-06-19 15:30:47.144286
+693367a2-a417-4dca-8936-a07302033ff7,Muelas,generation,49.99,MWp,8ed89459-ea6c-4ac4-9aca-58ee63eb904f,2025-06-19 15:33:35.605199,2025-06-19 15:33:35.605217
+cb216dd9-e466-4f83-9d14-e6753642b1e9,FV Posets,generation,106.97,MWp,471c9add-a6f4-4310-aabe-1e97bac2584c,2025-06-19 15:30:03.703759,2025-06-19 15:30:03.703766
+04b5509d-2512-4b62-8263-87cce7e0eec6,Parque eólico Huracán,generation,56.0,MW,,2025-06-19 15:28:14.312358,2025-06-19 15:28:14.312363
+be9cbdd3-124b-4636-ac47-7896f5695345,FV Ronda III,generation,,,,2025-06-19 15:31:04.082270,2025-06-19 15:31:04.082276
+d6ea3268-0ed9-4f4a-8706-97858686cacc,Parque eólico Rifeo,generation,30.0,MW,ecbacd32-dac5-4a77-80be-8ec1aa36a21a,2025-06-19 15:31:10.163824,2025-06-19 15:31:10.163831
+4db61af4-5ec4-4f06-b304-c2fe427a8c35,"Geriátrico en Calle el Estudio, Solares",demand,,,,2025-06-19 15:23:28.510289,2025-06-19 15:23:28.510294
+40c77a2b-90dc-4c94-a867-4c02bc4b6d2c,Planta Solar Fotovoltaica Valdecarretas,generation,37.5,MWp,6d30b00a-0ca5-4c80-8d9f-c6245dd86f2e,2025-06-19 15:35:11.874797,2025-06-19 15:35:11.874805
+758d672e-7cae-4cb5-aeae-687ce4d2e0a5,Línea aérea de alta tensión 20 kV S/C LA-56 para anillado de la red. Fase II,grid,20.0,KV,,2025-06-19 15:45:13.988750,2025-06-19 15:45:13.988757
+c8936e0a-4fe6-43d8-88e4-a8612c49f0fd,LAT evacuación P.E. Airas,grid,132.0,KV,,2025-06-19 15:24:35.133261,2025-06-19 15:24:35.133266
+7a953432-9876-446e-98fa-7b7f39f74e22,FV PTESGC-4II,generation,1.94,MWp,,2025-06-19 15:28:30.422342,2025-06-19 15:28:30.422349
+0755e2bd-4bd5-4ac2-bbbf-1634f80b777c,Keneo,generation,49.5,MW,3957c619-3448-41e9-b07b-fb317d06981d,2025-06-19 15:28:39.413878,2025-06-19 15:28:39.413885
+a03c4414-0608-4f3f-b54f-995fdb5d01fb,Planta Solar Fotovoltaica El Clavel,generation,110.741,MW,42a4698a-b72e-40be-861d-0986b98b3c4b,2025-06-19 15:26:21.392955,2025-06-19 15:26:21.392961
+0809ad98-d6d4-4f67-81b8-fc0a673e26a7,Mejostilla FV5,generation,4.4,MWp,3888b821-bcab-4133-ac80-70f9ff0fc74d,2025-06-19 15:38:44.802502,2025-06-19 15:38:44.802509
+13774add-2806-4046-b067-c1b7332bc725,LA CAMPIÑA,generation,214.08,MW,d92ea4b9-8d25-4872-81c3-89803495e78a,2025-06-19 15:28:59.156360,2025-06-19 15:28:59.156367
+62417a9d-0e55-4c62-986e-d61c854a1e6c,Parque eólico Monte San Bartolomeu,generation,46.2,MW,1a45495c-8444-4954-914f-489920c08341,2025-06-19 15:24:26.067622,2025-06-19 15:24:26.067628
+e2b37301-f6ed-40a6-a1ae-c8958f879b99,PSFV Pinsos del Segre,generation,0.9594,MWp,,2025-06-19 15:35:48.031014,2025-06-19 15:35:48.031019
+b0e53817-70cb-47e8-bbe0-867bfbfc4d93,Planta Solar Fotovoltaica Castor para hibridación con parque eólico Castor,generation,17.578,MWn,5df07c9d-e20f-419e-8620-7224f60f081d,2025-06-19 15:41:03.898771,2025-06-19 15:41:03.898777
+8c926503-ad8e-401c-b9a2-bf59f679a687,Nueva subestación Zarzón 400 kV,grid,400.0,KV,,2025-06-19 15:28:43.997262,2025-06-19 15:28:43.997268
+46bf5831-9d00-4756-a3e6-3ebe562bbfd8,Línea eléctrica aéreo-subterránea MT 15kV y CT 250kVA servicios auxiliares SE Compostilla,grid,15.0,KV,,2025-06-19 15:32:13.225624,2025-06-19 15:32:13.225629
+5b77e7c3-6585-4005-bc0b-ade2f18294cf,"Línea aérea a 13,2 kV Guindalera",grid,13.2,KV,,2025-06-19 15:37:54.843106,2025-06-19 15:37:54.843114
+a7951cf9-aa7d-403b-a831-6bf2c7c1eda4,Al Andalus II,generation,49.99,MWn,,2025-06-19 15:37:43.749870,2025-06-19 15:37:43.749875
+83866bbf-b7da-4f7e-8faf-f7233114b945,Planta Híbrida Fotovoltaica Cuesta Mañera,generation,52.5,MW,,2025-06-19 15:28:45.139297,2025-06-19 15:28:45.139304
+7a62acb3-ba6b-4cb4-a4ec-e324ac8eb406,Nueva subestación Abrera GIS 220 kV,grid,254.0,KV,,2025-06-19 15:30:04.440469,2025-06-19 15:30:04.440476
+e14b30dd-500a-4c5f-a1cb-7f4e1f96d76e,Villameca Solar 3,generation,50.1,MW,1f7d6732-c5dc-445b-8bef-99c4b0801cb4,2025-06-19 15:25:14.211048,2025-06-19 15:25:14.211055
+fbd39c0a-ef10-4bbc-8390-2be8f797293c,Proyecto básico de planta de electrólisis para producción de hidrógeno verde y almacenamiento (Torrecilla),other,40.0,MW,,2025-06-19 15:34:32.975008,2025-06-19 15:34:32.975015
+8ec67151-2f2c-4fb8-b3cc-3d8c2e59b8b1,Pintia VI,generation,4.9,MWn,,2025-06-19 15:34:26.893052,2025-06-19 15:34:26.893060
+f0e3d6ac-7507-4e14-8eae-409234488c30,Planta solar fotovoltaica Alba de Cerrato,generation,1.0,MWp,,2025-06-19 15:35:01.228192,2025-06-19 15:35:01.228200
+98b142e5-8551-48bc-ba7b-7c84e49d67a3,Dehesa Virginia,generation,32.829,MWp,,2025-06-19 15:26:55.912085,2025-06-19 15:26:55.912091
+209cc0f9-0dca-4972-85ca-cca72b66c23f,Línea aérea de 220 kV desde Navuelos hasta la subestación existente denominada Parralejo,grid,220.0,KV,,2025-06-19 15:29:22.911302,2025-06-19 15:29:22.911308
+e77de075-1b7c-4361-9283-6def0fdf6bcc,Línea subterránea de transporte SE Virgen de África,grid,132.0,KV,,2025-06-19 15:31:06.911585,2025-06-19 15:31:06.911592
+1df51a28-8db5-42a2-9166-988aaf8de2b9,Parque Fotovoltaico Alpera I,generation,0.98974,MW,,2025-06-19 15:45:13.545445,2025-06-19 15:45:13.545451
+47715462-4a8a-465b-84db-80b4edd4f0e5,"Soterramiento tramo de la línea aérea de media tensión 20 kV 'Autovía 1', de la STR Navalmoral de la Mata entre los apoyos 5021 y 1002 de la misma",grid,20.0,KV,,2025-06-19 15:38:58.428692,2025-06-19 15:38:58.428699
+2af88989-fffd-458a-a783-1c0d4fcefd4c,Parque eólico Pena Galluda,generation,3.45,MW,,2025-06-19 15:24:08.280895,2025-06-19 15:24:08.280902
+cb39505b-56d6-4f9c-84a9-2576e1bfbe5f,"Nueva línea aérea media tensión conductor 94, AL1/22-ST1A (LA-110) y nueva línea subterránea de media tensión 20 KV, conductor RH5Z1 240 mm², entre LAMT ""CHARILLA"" y subestación ""MAZUELOS""",grid,20.0,KV,,2025-06-19 15:28:45.181082,2025-06-19 15:28:45.181087
